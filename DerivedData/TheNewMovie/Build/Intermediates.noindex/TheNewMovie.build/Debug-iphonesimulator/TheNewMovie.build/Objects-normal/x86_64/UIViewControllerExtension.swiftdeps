@@ -1,0 +1,668 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "initWithDefaultNib"]
+- ["So16UIViewControllerC", "initWithNibTemplate"]
+- ["So16UIViewControllerC", "initWithDefautlStoryboard"]
+- ["So16UIViewControllerC", "showHud"]
+- ["So16UIViewControllerC", "hideHude"]
+- ["So16UIViewControllerC", "makeToast"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "Bundle"
+- "CastingPrecedence"
+- !private "Constants"
+- !private "FileManager"
+- !private "MBProgressHUD"
+- "String"
+- !private "StringLiteralType"
+- !private "UIStoryboard"
+- "UIViewController"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So8NSBundleC", "main"]
+- !private ["So8NSBundleC", "path"]
+- !private ["So15CALayerDelegateP", "hide"]
+- !private ["So15CALayerDelegateP", "label"]
+- !private ["So15CALayerDelegateP", "mode"]
+- !private ["So15CALayerDelegateP", "showAdded"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "Constants"]
+- !private ["s7CVarArgP", "FileManager"]
+- !private ["s7CVarArgP", "MBProgressHUD"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UIStoryboard"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "fileExists"]
+- !private ["s7CVarArgP", "hide"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "initWithDefautlStoryboard"]
+- !private ["s7CVarArgP", "initWithNibTemplate"]
+- !private ["s7CVarArgP", "instantiateFromStoryboardHelper"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "label"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "mode"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "showAdded"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "view"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["11TheNewMovie9ConstantsV", "iPad"]
+- !private ["11TheNewMovie9ConstantsV", "isIpad"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "Constants"]
+- !private ["s28CustomDebugStringConvertibleP", "FileManager"]
+- !private ["s28CustomDebugStringConvertibleP", "MBProgressHUD"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "fileExists"]
+- !private ["s28CustomDebugStringConvertibleP", "hide"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "initWithDefautlStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "initWithNibTemplate"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateFromStoryboardHelper"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "label"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "mode"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "showAdded"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "Constants"]
+- !private ["s23CustomStringConvertibleP", "FileManager"]
+- !private ["s23CustomStringConvertibleP", "MBProgressHUD"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UIStoryboard"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "fileExists"]
+- !private ["s23CustomStringConvertibleP", "hide"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "initWithDefautlStoryboard"]
+- !private ["s23CustomStringConvertibleP", "initWithNibTemplate"]
+- !private ["s23CustomStringConvertibleP", "instantiateFromStoryboardHelper"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "label"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "mode"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "showAdded"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "Bundle"]
+- !private ["SQ", "Constants"]
+- !private ["SQ", "FileManager"]
+- !private ["SQ", "MBProgressHUD"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UIStoryboard"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "default"]
+- !private ["SQ", "fileExists"]
+- !private ["SQ", "hide"]
+- !private ["SQ", "indeterminate"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "initWithDefautlStoryboard"]
+- !private ["SQ", "initWithNibTemplate"]
+- !private ["SQ", "instantiateFromStoryboardHelper"]
+- !private ["SQ", "instantiateViewController"]
+- !private ["SQ", "label"]
+- !private ["SQ", "main"]
+- !private ["SQ", "mode"]
+- !private ["SQ", "path"]
+- !private ["SQ", "showAdded"]
+- !private ["SQ", "text"]
+- !private ["SQ", "view"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So13NSFileManagerC", "default"]
+- !private ["So13NSFileManagerC", "fileExists"]
+- !private ["SH", "Bundle"]
+- !private ["SH", "Constants"]
+- !private ["SH", "FileManager"]
+- !private ["SH", "MBProgressHUD"]
+- !private ["SH", "String"]
+- !private ["SH", "UIStoryboard"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "default"]
+- !private ["SH", "fileExists"]
+- !private ["SH", "hide"]
+- !private ["SH", "indeterminate"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "initWithDefautlStoryboard"]
+- !private ["SH", "initWithNibTemplate"]
+- !private ["SH", "instantiateFromStoryboardHelper"]
+- !private ["SH", "instantiateViewController"]
+- !private ["SH", "label"]
+- !private ["SH", "main"]
+- !private ["SH", "mode"]
+- !private ["SH", "path"]
+- !private ["SH", "showAdded"]
+- !private ["SH", "text"]
+- !private ["SH", "view"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["So13MBProgressHUDC", "hide"]
+- !private ["So13MBProgressHUDC", "label"]
+- !private ["So13MBProgressHUDC", "mode"]
+- !private ["So13MBProgressHUDC", "showAdded"]
+- !private ["So17MBProgressHUDModeV", "indeterminate"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "Bundle"]
+- !private ["So8NSCodingP", "Constants"]
+- !private ["So8NSCodingP", "FileManager"]
+- !private ["So8NSCodingP", "MBProgressHUD"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "UIStoryboard"]
+- !private ["So8NSCodingP", "hide"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "initWithDefautlStoryboard"]
+- !private ["So8NSCodingP", "initWithNibTemplate"]
+- !private ["So8NSCodingP", "instantiateFromStoryboardHelper"]
+- !private ["So8NSCodingP", "label"]
+- !private ["So8NSCodingP", "mode"]
+- !private ["So8NSCodingP", "showAdded"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "Bundle"]
+- !private ["So26NSExtensionRequestHandlingP", "Constants"]
+- !private ["So26NSExtensionRequestHandlingP", "FileManager"]
+- !private ["So26NSExtensionRequestHandlingP", "MBProgressHUD"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "UIStoryboard"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "initWithDefautlStoryboard"]
+- !private ["So26NSExtensionRequestHandlingP", "initWithNibTemplate"]
+- !private ["So26NSExtensionRequestHandlingP", "instantiateFromStoryboardHelper"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So8NSObjectC", "Bundle"]
+- !private ["So8NSObjectC", "Constants"]
+- !private ["So8NSObjectC", "FileManager"]
+- !private ["So8NSObjectC", "MBProgressHUD"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIStoryboard"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "fileExists"]
+- !private ["So8NSObjectC", "hide"]
+- ["So8NSObjectC", "hideHude"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "initWithDefaultNib"]
+- ["So8NSObjectC", "initWithDefautlStoryboard"]
+- ["So8NSObjectC", "initWithNibTemplate"]
+- ["So8NSObjectC", "instantiateFromStoryboardHelper"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- !private ["So8NSObjectC", "label"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "makeToast"]
+- !private ["So8NSObjectC", "mode"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectC", "showAdded"]
+- ["So8NSObjectC", "showHud"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So8NSObjectP", "Bundle"]
+- !private ["So8NSObjectP", "Constants"]
+- !private ["So8NSObjectP", "FileManager"]
+- !private ["So8NSObjectP", "MBProgressHUD"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "UIStoryboard"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "fileExists"]
+- !private ["So8NSObjectP", "hide"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "initWithDefautlStoryboard"]
+- !private ["So8NSObjectP", "initWithNibTemplate"]
+- !private ["So8NSObjectP", "instantiateFromStoryboardHelper"]
+- !private ["So8NSObjectP", "instantiateViewController"]
+- !private ["So8NSObjectP", "label"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "mode"]
+- !private ["So8NSObjectP", "path"]
+- !private ["So8NSObjectP", "showAdded"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "view"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "indeterminate"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "hide"]
+- !private ["So29UIAccessibilityIdentificationP", "label"]
+- !private ["So29UIAccessibilityIdentificationP", "mode"]
+- !private ["So29UIAccessibilityIdentificationP", "showAdded"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "hide"]
+- !private ["So12UIAppearanceP", "label"]
+- !private ["So12UIAppearanceP", "mode"]
+- !private ["So12UIAppearanceP", "showAdded"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Bundle"]
+- !private ["So21UIAppearanceContainerP", "Constants"]
+- !private ["So21UIAppearanceContainerP", "FileManager"]
+- !private ["So21UIAppearanceContainerP", "MBProgressHUD"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "UIStoryboard"]
+- !private ["So21UIAppearanceContainerP", "hide"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "initWithDefautlStoryboard"]
+- !private ["So21UIAppearanceContainerP", "initWithNibTemplate"]
+- !private ["So21UIAppearanceContainerP", "instantiateFromStoryboardHelper"]
+- !private ["So21UIAppearanceContainerP", "label"]
+- !private ["So21UIAppearanceContainerP", "mode"]
+- !private ["So21UIAppearanceContainerP", "showAdded"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So18UIContentContainerP", "Bundle"]
+- !private ["So18UIContentContainerP", "Constants"]
+- !private ["So18UIContentContainerP", "FileManager"]
+- !private ["So18UIContentContainerP", "MBProgressHUD"]
+- !private ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "UIStoryboard"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "initWithDefautlStoryboard"]
+- !private ["So18UIContentContainerP", "initWithNibTemplate"]
+- !private ["So18UIContentContainerP", "instantiateFromStoryboardHelper"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "hide"]
+- !private ["So17UICoordinateSpaceP", "label"]
+- !private ["So17UICoordinateSpaceP", "mode"]
+- !private ["So17UICoordinateSpaceP", "showAdded"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "hide"]
+- !private ["So13UIDynamicItemP", "label"]
+- !private ["So13UIDynamicItemP", "mode"]
+- !private ["So13UIDynamicItemP", "showAdded"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Bundle"]
+- !private ["So18UIFocusEnvironmentP", "Constants"]
+- !private ["So18UIFocusEnvironmentP", "FileManager"]
+- !private ["So18UIFocusEnvironmentP", "MBProgressHUD"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "UIStoryboard"]
+- !private ["So18UIFocusEnvironmentP", "hide"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "initWithDefautlStoryboard"]
+- !private ["So18UIFocusEnvironmentP", "initWithNibTemplate"]
+- !private ["So18UIFocusEnvironmentP", "instantiateFromStoryboardHelper"]
+- !private ["So18UIFocusEnvironmentP", "label"]
+- !private ["So18UIFocusEnvironmentP", "mode"]
+- !private ["So18UIFocusEnvironmentP", "showAdded"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So11UIFocusItemP", "hide"]
+- !private ["So11UIFocusItemP", "label"]
+- !private ["So11UIFocusItemP", "mode"]
+- !private ["So11UIFocusItemP", "showAdded"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "hide"]
+- !private ["So20UIFocusItemContainerP", "label"]
+- !private ["So20UIFocusItemContainerP", "mode"]
+- !private ["So20UIFocusItemContainerP", "showAdded"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Bundle"]
+- !private ["So30UIPasteConfigurationSupportingP", "Constants"]
+- !private ["So30UIPasteConfigurationSupportingP", "FileManager"]
+- !private ["So30UIPasteConfigurationSupportingP", "MBProgressHUD"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIStoryboard"]
+- !private ["So30UIPasteConfigurationSupportingP", "hide"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "initWithDefautlStoryboard"]
+- !private ["So30UIPasteConfigurationSupportingP", "initWithNibTemplate"]
+- !private ["So30UIPasteConfigurationSupportingP", "instantiateFromStoryboardHelper"]
+- !private ["So30UIPasteConfigurationSupportingP", "label"]
+- !private ["So30UIPasteConfigurationSupportingP", "mode"]
+- !private ["So30UIPasteConfigurationSupportingP", "showAdded"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So11UIResponderC", "Bundle"]
+- !private ["So11UIResponderC", "Constants"]
+- !private ["So11UIResponderC", "FileManager"]
+- !private ["So11UIResponderC", "MBProgressHUD"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIStoryboard"]
+- !private ["So11UIResponderC", "hide"]
+- ["So11UIResponderC", "hideHude"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "initWithDefaultNib"]
+- ["So11UIResponderC", "initWithDefautlStoryboard"]
+- ["So11UIResponderC", "initWithNibTemplate"]
+- ["So11UIResponderC", "instantiateFromStoryboardHelper"]
+- !private ["So11UIResponderC", "label"]
+- ["So11UIResponderC", "makeToast"]
+- !private ["So11UIResponderC", "mode"]
+- !private ["So11UIResponderC", "showAdded"]
+- ["So11UIResponderC", "showHud"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "Bundle"]
+- !private ["So30UIResponderStandardEditActionsP", "Constants"]
+- !private ["So30UIResponderStandardEditActionsP", "FileManager"]
+- !private ["So30UIResponderStandardEditActionsP", "MBProgressHUD"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "UIStoryboard"]
+- !private ["So30UIResponderStandardEditActionsP", "hide"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "initWithDefautlStoryboard"]
+- !private ["So30UIResponderStandardEditActionsP", "initWithNibTemplate"]
+- !private ["So30UIResponderStandardEditActionsP", "instantiateFromStoryboardHelper"]
+- !private ["So30UIResponderStandardEditActionsP", "label"]
+- !private ["So30UIResponderStandardEditActionsP", "mode"]
+- !private ["So30UIResponderStandardEditActionsP", "showAdded"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So16UIStateRestoringP", "Bundle"]
+- !private ["So16UIStateRestoringP", "Constants"]
+- !private ["So16UIStateRestoringP", "FileManager"]
+- !private ["So16UIStateRestoringP", "MBProgressHUD"]
+- !private ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "UIStoryboard"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "initWithDefautlStoryboard"]
+- !private ["So16UIStateRestoringP", "initWithNibTemplate"]
+- !private ["So16UIStateRestoringP", "instantiateFromStoryboardHelper"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So18UITraitEnvironmentP", "Bundle"]
+- !private ["So18UITraitEnvironmentP", "Constants"]
+- !private ["So18UITraitEnvironmentP", "FileManager"]
+- !private ["So18UITraitEnvironmentP", "MBProgressHUD"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "UIStoryboard"]
+- !private ["So18UITraitEnvironmentP", "hide"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "initWithDefautlStoryboard"]
+- !private ["So18UITraitEnvironmentP", "initWithNibTemplate"]
+- !private ["So18UITraitEnvironmentP", "instantiateFromStoryboardHelper"]
+- !private ["So18UITraitEnvironmentP", "label"]
+- !private ["So18UITraitEnvironmentP", "mode"]
+- !private ["So18UITraitEnvironmentP", "showAdded"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So23UIUserActivityRestoringP", "Bundle"]
+- !private ["So23UIUserActivityRestoringP", "Constants"]
+- !private ["So23UIUserActivityRestoringP", "FileManager"]
+- !private ["So23UIUserActivityRestoringP", "MBProgressHUD"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", "UIStoryboard"]
+- !private ["So23UIUserActivityRestoringP", "hide"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "initWithDefautlStoryboard"]
+- !private ["So23UIUserActivityRestoringP", "initWithNibTemplate"]
+- !private ["So23UIUserActivityRestoringP", "instantiateFromStoryboardHelper"]
+- !private ["So23UIUserActivityRestoringP", "label"]
+- !private ["So23UIUserActivityRestoringP", "mode"]
+- !private ["So23UIUserActivityRestoringP", "showAdded"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So6UIViewC", "hide"]
+- !private ["So6UIViewC", "label"]
+- !private ["So6UIViewC", "mode"]
+- !private ["So6UIViewC", "showAdded"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "Bundle"]
+- !private ["So16UIViewControllerC", "Constants"]
+- !private ["So16UIViewControllerC", "FileManager"]
+- !private ["So16UIViewControllerC", "MBProgressHUD"]
+- ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "UIStoryboard"]
+- ["So16UIViewControllerC", "hideHude"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "initWithDefaultNib"]
+- ["So16UIViewControllerC", "initWithDefautlStoryboard"]
+- ["So16UIViewControllerC", "initWithNibTemplate"]
+- !private ["So16UIViewControllerC", "instantiateFromStoryboardHelper"]
+- ["So16UIViewControllerC", "makeToast"]
+- ["So16UIViewControllerC", "showHud"]
+- !private ["So16UIViewControllerC", "view"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "hide"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "label"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "mode"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "showAdded"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Constants"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FileManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MBProgressHUD"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fileExists"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hide"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "initWithDefautlStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "initWithNibTemplate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateFromStoryboardHelper"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "label"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showAdded"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "Sb"
+- !private "So8NSBundleC"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "11TheNewMovie9ConstantsV"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So13NSFileManagerC"
+- !private "SH"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "10Kingfisher0A15CompatibleValueP"
+- !private "s25LosslessStringConvertibleP"
+- !private "So13MBProgressHUDC"
+- !private "So17MBProgressHUDModeV"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f2d234050e12e1bb4613049a849460f4"

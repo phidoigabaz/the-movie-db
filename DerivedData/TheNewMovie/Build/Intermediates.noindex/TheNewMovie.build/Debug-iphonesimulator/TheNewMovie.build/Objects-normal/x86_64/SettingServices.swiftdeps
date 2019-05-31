@@ -1,0 +1,499 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SettingService"
+provides-nominal:
+- "11TheNewMovie14SettingServiceC"
+provides-member:
+- ["11TheNewMovie14SettingServiceC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "APIRequestProvider"
+- "APIServiceObject"
+- !private "CastDTO"
+- "CastModel"
+- "Int"
+- !private "JSON"
+- !private "MovieDetailDTO"
+- "MovieDetailModel"
+- "NSError"
+- !private "RowDTO"
+- "RowModel"
+- "SettingService"
+- "String"
+- !private "StringLiteralType"
+- "Void"
+depends-member:
+- !private ["11TheNewMovie18APIRequestProviderC", "getMovieDetail"]
+- !private ["11TheNewMovie18APIRequestProviderC", "getMovieDetailCast"]
+- !private ["11TheNewMovie18APIRequestProviderC", "getMovieTrending"]
+- !private ["11TheNewMovie18APIRequestProviderC", "shareInstance"]
+- !private ["11TheNewMovie15APIServiceAgentC", "starRequestDetail"]
+- !private ["11TheNewMovie15APIServiceAgentC", "startRequest"]
+- !private ["11TheNewMovie16APIServiceObjectC", "APIRequestProvider"]
+- !private ["11TheNewMovie16APIServiceObjectC", "CastDTO"]
+- ["11TheNewMovie16APIServiceObjectC", "CastModel"]
+- ["11TheNewMovie16APIServiceObjectC", "Int"]
+- !private ["11TheNewMovie16APIServiceObjectC", "JSON"]
+- !private ["11TheNewMovie16APIServiceObjectC", "MovieDetailDTO"]
+- ["11TheNewMovie16APIServiceObjectC", "MovieDetailModel"]
+- ["11TheNewMovie16APIServiceObjectC", "NSError"]
+- !private ["11TheNewMovie16APIServiceObjectC", "RowDTO"]
+- ["11TheNewMovie16APIServiceObjectC", "RowModel"]
+- ["11TheNewMovie16APIServiceObjectC", "String"]
+- ["11TheNewMovie16APIServiceObjectC", "Void"]
+- ["11TheNewMovie16APIServiceObjectC", ""]
+- !private ["11TheNewMovie16APIServiceObjectC", "addToQueue"]
+- ["11TheNewMovie16APIServiceObjectC", "getMovieDetail"]
+- ["11TheNewMovie16APIServiceObjectC", "getMovieDetailCredit"]
+- ["11TheNewMovie16APIServiceObjectC", "getMovieTrending"]
+- ["11TheNewMovie16APIServiceObjectC", "init"]
+- !private ["11TheNewMovie16APIServiceObjectC", "init"]
+- ["11TheNewMovie16APIServiceObjectC", "searchMovie"]
+- !private ["11TheNewMovie16APIServiceObjectC", "serviceAgent"]
+- !private ["Sa", "append"]
+- !private ["Sa", "init"]
+- !private ["s13ArrayProtocolP", "append"]
+- !private ["s13ArrayProtocolP", "init"]
+- !private ["SK", "append"]
+- !private ["SK", "arrayValue"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "APIRequestProvider"]
+- !private ["s7CVarArgP", "CastDTO"]
+- !private ["s7CVarArgP", "CastModel"]
+- !private ["s7CVarArgP", "MovieDetailDTO"]
+- !private ["s7CVarArgP", "MovieDetailModel"]
+- !private ["s7CVarArgP", "RowDTO"]
+- !private ["s7CVarArgP", "RowModel"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addToQueue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "getMovieDetail"]
+- !private ["s7CVarArgP", "getMovieDetailCast"]
+- !private ["s7CVarArgP", "getMovieTrending"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "serviceAgent"]
+- !private ["s7CVarArgP", "shareInstance"]
+- !private ["s7CVarArgP", "starRequestDetail"]
+- !private ["s7CVarArgP", "startRequest"]
+- !private ["11TheNewMovie7CastDTOC", "init"]
+- !private ["11TheNewMovie9CastModelC", "init"]
+- !private ["Sl", "append"]
+- !private ["Sl", "arrayValue"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "arrayValue"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "APIRequestProvider"]
+- !private ["s28CustomDebugStringConvertibleP", "CastDTO"]
+- !private ["s28CustomDebugStringConvertibleP", "CastModel"]
+- !private ["s28CustomDebugStringConvertibleP", "MovieDetailDTO"]
+- !private ["s28CustomDebugStringConvertibleP", "MovieDetailModel"]
+- !private ["s28CustomDebugStringConvertibleP", "RowDTO"]
+- !private ["s28CustomDebugStringConvertibleP", "RowModel"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addToQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "arrayValue"]
+- !private ["s28CustomDebugStringConvertibleP", "getMovieDetail"]
+- !private ["s28CustomDebugStringConvertibleP", "getMovieDetailCast"]
+- !private ["s28CustomDebugStringConvertibleP", "getMovieTrending"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "serviceAgent"]
+- !private ["s28CustomDebugStringConvertibleP", "shareInstance"]
+- !private ["s28CustomDebugStringConvertibleP", "starRequestDetail"]
+- !private ["s28CustomDebugStringConvertibleP", "startRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "APIRequestProvider"]
+- !private ["s23CustomStringConvertibleP", "CastDTO"]
+- !private ["s23CustomStringConvertibleP", "CastModel"]
+- !private ["s23CustomStringConvertibleP", "MovieDetailDTO"]
+- !private ["s23CustomStringConvertibleP", "MovieDetailModel"]
+- !private ["s23CustomStringConvertibleP", "RowDTO"]
+- !private ["s23CustomStringConvertibleP", "RowModel"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addToQueue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "arrayValue"]
+- !private ["s23CustomStringConvertibleP", "getMovieDetail"]
+- !private ["s23CustomStringConvertibleP", "getMovieDetailCast"]
+- !private ["s23CustomStringConvertibleP", "getMovieTrending"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "serviceAgent"]
+- !private ["s23CustomStringConvertibleP", "shareInstance"]
+- !private ["s23CustomStringConvertibleP", "starRequestDetail"]
+- !private ["s23CustomStringConvertibleP", "startRequest"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "append"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "append"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "APIRequestProvider"]
+- !private ["SQ", "CastDTO"]
+- !private ["SQ", "CastModel"]
+- !private ["SQ", "MovieDetailDTO"]
+- !private ["SQ", "MovieDetailModel"]
+- !private ["SQ", "RowDTO"]
+- !private ["SQ", "RowModel"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addToQueue"]
+- !private ["SQ", "append"]
+- !private ["SQ", "arrayValue"]
+- !private ["SQ", "getMovieDetail"]
+- !private ["SQ", "getMovieDetailCast"]
+- !private ["SQ", "getMovieTrending"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "serviceAgent"]
+- !private ["SQ", "shareInstance"]
+- !private ["SQ", "starRequestDetail"]
+- !private ["SQ", "startRequest"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "arrayValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "arrayValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "arrayValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "arrayValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "arrayValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "arrayValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "arrayValue"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "arrayValue"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "arrayValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["SH", "APIRequestProvider"]
+- !private ["SH", "CastDTO"]
+- !private ["SH", "CastModel"]
+- !private ["SH", "MovieDetailDTO"]
+- !private ["SH", "MovieDetailModel"]
+- !private ["SH", "RowDTO"]
+- !private ["SH", "RowModel"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addToQueue"]
+- !private ["SH", "append"]
+- !private ["SH", "getMovieDetail"]
+- !private ["SH", "getMovieDetailCast"]
+- !private ["SH", "getMovieTrending"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "serviceAgent"]
+- !private ["SH", "shareInstance"]
+- !private ["SH", "starRequestDetail"]
+- !private ["SH", "startRequest"]
+- !private ["10SwiftyJSON0B0V", "arrayValue"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["s22LazyCollectionProtocolP", "arrayValue"]
+- !private ["s20LazySequenceProtocolP", "arrayValue"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["11TheNewMovie0C9DetailDTOC", "init"]
+- !private ["11TheNewMovie0C11DetailModelC", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "arrayValue"]
+- !private ["SM", "init"]
+- !private ["So8NSObjectC", "APIRequestProvider"]
+- !private ["So8NSObjectC", "CastDTO"]
+- ["So8NSObjectC", "CastModel"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "JSON"]
+- !private ["So8NSObjectC", "MovieDetailDTO"]
+- ["So8NSObjectC", "MovieDetailModel"]
+- ["So8NSObjectC", "NSError"]
+- !private ["So8NSObjectC", "RowDTO"]
+- ["So8NSObjectC", "RowModel"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "Void"]
+- !private ["So8NSObjectC", "addToQueue"]
+- ["So8NSObjectC", "getMovieDetail"]
+- !private ["So8NSObjectC", "getMovieDetailCast"]
+- ["So8NSObjectC", "getMovieDetailCredit"]
+- ["So8NSObjectC", "getMovieTrending"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "searchMovie"]
+- !private ["So8NSObjectC", "serviceAgent"]
+- !private ["So8NSObjectC", "shareInstance"]
+- !private ["So8NSObjectC", "starRequestDetail"]
+- !private ["So8NSObjectC", "startRequest"]
+- !private ["So8NSObjectP", "APIRequestProvider"]
+- !private ["So8NSObjectP", "CastDTO"]
+- !private ["So8NSObjectP", "CastModel"]
+- !private ["So8NSObjectP", "MovieDetailDTO"]
+- !private ["So8NSObjectP", "MovieDetailModel"]
+- !private ["So8NSObjectP", "RowDTO"]
+- !private ["So8NSObjectP", "RowModel"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addToQueue"]
+- !private ["So8NSObjectP", "getMovieDetail"]
+- !private ["So8NSObjectP", "getMovieDetailCast"]
+- !private ["So8NSObjectP", "getMovieTrending"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "serviceAgent"]
+- !private ["So8NSObjectP", "shareInstance"]
+- !private ["So8NSObjectP", "starRequestDetail"]
+- !private ["So8NSObjectP", "startRequest"]
+- !private ["Sk", "append"]
+- !private ["Sk", "arrayValue"]
+- !private ["Sk", "init"]
+- !private ["Sm", "append"]
+- !private ["Sm", "arrayValue"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "arrayValue"]
+- !private ["SY", "subscript"]
+- !private ["11TheNewMovie6RowDTOC", "init"]
+- !private ["11TheNewMovie8RowModelC", "init"]
+- !private ["ST", "append"]
+- !private ["ST", "arrayValue"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["11TheNewMovie14SettingServiceC", "APIRequestProvider"]
+- !private ["11TheNewMovie14SettingServiceC", "CastDTO"]
+- ["11TheNewMovie14SettingServiceC", "CastModel"]
+- ["11TheNewMovie14SettingServiceC", "Int"]
+- !private ["11TheNewMovie14SettingServiceC", "JSON"]
+- !private ["11TheNewMovie14SettingServiceC", "MovieDetailDTO"]
+- ["11TheNewMovie14SettingServiceC", "MovieDetailModel"]
+- ["11TheNewMovie14SettingServiceC", "NSError"]
+- !private ["11TheNewMovie14SettingServiceC", "RowDTO"]
+- ["11TheNewMovie14SettingServiceC", "RowModel"]
+- ["11TheNewMovie14SettingServiceC", "String"]
+- ["11TheNewMovie14SettingServiceC", "Void"]
+- !private ["11TheNewMovie14SettingServiceC", "addToQueue"]
+- ["11TheNewMovie14SettingServiceC", "getMovieDetail"]
+- ["11TheNewMovie14SettingServiceC", "getMovieDetailCredit"]
+- ["11TheNewMovie14SettingServiceC", "getMovieTrending"]
+- ["11TheNewMovie14SettingServiceC", "init"]
+- ["11TheNewMovie14SettingServiceC", "searchMovie"]
+- !private ["11TheNewMovie14SettingServiceC", "serviceAgent"]
+- !private ["s5SliceV", "arrayValue"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "APIRequestProvider"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CastDTO"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CastModel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MovieDetailDTO"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MovieDetailModel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RowDTO"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RowModel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addToQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getMovieDetail"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getMovieDetailCast"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getMovieTrending"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "serviceAgent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shareInstance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "starRequestDetail"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startRequest"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "11TheNewMovie18APIRequestProviderC"
+- !private "11TheNewMovie15APIServiceAgentC"
+- "11TheNewMovie16APIServiceObjectC"
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "11TheNewMovie7CastDTOC"
+- !private "11TheNewMovie9CastModelC"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "10Kingfisher0A15CompatibleValueP"
+- !private "s22LazyCollectionProtocolP"
+- !private "s20LazySequenceProtocolP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "11TheNewMovie0C9DetailDTOC"
+- !private "11TheNewMovie0C11DetailModelC"
+- !private "SM"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "11TheNewMovie6RowDTOC"
+- !private "11TheNewMovie8RowModelC"
+- !private "ST"
+- "11TheNewMovie14SettingServiceC"
+- !private "s5SliceV"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a5752ecfc9b26578642cf41d8abfea9e"

@@ -1,0 +1,431 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "So16UIViewControllerC"
+provides-member:
+- ["So16UIViewControllerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGRect"
+- "CastingPrecedence"
+- "PanModalPresentable"
+- !private "PanModalPresentationDelegate"
+- "PanModalPresenter"
+- !private "UIDevice"
+- "UIView"
+- "UIViewController"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So6CGRectV", "zero"]
+- !private ["s7CVarArgP", "PanModalPresentationDelegate"]
+- !private ["s7CVarArgP", "UIDevice"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "delegate"]
+- ["s7CVarArgP", "isPanModalPresented"]
+- !private ["s7CVarArgP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["s7CVarArgP", "modalPresentationStyle"]
+- !private ["s7CVarArgP", "popoverPresentationController"]
+- !private ["s7CVarArgP", "present"]
+- ["s7CVarArgP", "presentPanModal"]
+- !private ["s7CVarArgP", "sourceRect"]
+- !private ["s7CVarArgP", "sourceView"]
+- !private ["s7CVarArgP", "transitioningDelegate"]
+- !private ["s7CVarArgP", "userInterfaceIdiom"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "PanModalPresentationDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "UIDevice"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- ["s28CustomDebugStringConvertibleP", "isPanModalPresented"]
+- !private ["s28CustomDebugStringConvertibleP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["s28CustomDebugStringConvertibleP", "modalPresentationStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "popoverPresentationController"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- ["s28CustomDebugStringConvertibleP", "presentPanModal"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceRect"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceView"]
+- !private ["s28CustomDebugStringConvertibleP", "transitioningDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "zero"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "zero"]
+- !private ["s23CustomStringConvertibleP", "PanModalPresentationDelegate"]
+- !private ["s23CustomStringConvertibleP", "UIDevice"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- ["s23CustomStringConvertibleP", "isPanModalPresented"]
+- !private ["s23CustomStringConvertibleP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["s23CustomStringConvertibleP", "modalPresentationStyle"]
+- !private ["s23CustomStringConvertibleP", "popoverPresentationController"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- ["s23CustomStringConvertibleP", "presentPanModal"]
+- !private ["s23CustomStringConvertibleP", "sourceRect"]
+- !private ["s23CustomStringConvertibleP", "sourceView"]
+- !private ["s23CustomStringConvertibleP", "transitioningDelegate"]
+- !private ["s23CustomStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "zero"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "zero"]
+- !private ["SQ", "PanModalPresentationDelegate"]
+- !private ["SQ", "UIDevice"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "current"]
+- !private ["SQ", "custom"]
+- !private ["SQ", "default"]
+- !private ["SQ", "delegate"]
+- ["SQ", "isPanModalPresented"]
+- !private ["SQ", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["SQ", "modalPresentationStyle"]
+- !private ["SQ", "pad"]
+- !private ["SQ", "popover"]
+- !private ["SQ", "popoverPresentationController"]
+- !private ["SQ", "present"]
+- ["SQ", "presentPanModal"]
+- !private ["SQ", "sourceRect"]
+- !private ["SQ", "sourceView"]
+- !private ["SQ", "transitioningDelegate"]
+- !private ["SQ", "userInterfaceIdiom"]
+- !private ["SQ", "view"]
+- !private ["SQ", "zero"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["SH", "PanModalPresentationDelegate"]
+- !private ["SH", "UIDevice"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "current"]
+- !private ["SH", "custom"]
+- !private ["SH", "default"]
+- !private ["SH", "delegate"]
+- ["SH", "isPanModalPresented"]
+- !private ["SH", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["SH", "modalPresentationStyle"]
+- !private ["SH", "pad"]
+- !private ["SH", "popover"]
+- !private ["SH", "popoverPresentationController"]
+- !private ["SH", "present"]
+- ["SH", "presentPanModal"]
+- !private ["SH", "sourceRect"]
+- !private ["SH", "sourceView"]
+- !private ["SH", "transitioningDelegate"]
+- !private ["SH", "userInterfaceIdiom"]
+- !private ["SH", "view"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "PanModalPresentationDelegate"]
+- !private ["So8NSCodingP", "UIDevice"]
+- ["So8NSCodingP", "isPanModalPresented"]
+- !private ["So8NSCodingP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So8NSCodingP", "modalPresentationStyle"]
+- !private ["So8NSCodingP", "popoverPresentationController"]
+- !private ["So8NSCodingP", "present"]
+- ["So8NSCodingP", "presentPanModal"]
+- !private ["So8NSCodingP", "transitioningDelegate"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "PanModalPresentationDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "UIDevice"]
+- ["So26NSExtensionRequestHandlingP", "isPanModalPresented"]
+- !private ["So26NSExtensionRequestHandlingP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So26NSExtensionRequestHandlingP", "modalPresentationStyle"]
+- !private ["So26NSExtensionRequestHandlingP", "popoverPresentationController"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- ["So26NSExtensionRequestHandlingP", "presentPanModal"]
+- !private ["So26NSExtensionRequestHandlingP", "transitioningDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "PanModalPresentable"]
+- !private ["So8NSObjectC", "PanModalPresentationDelegate"]
+- !private ["So8NSObjectC", "UIDevice"]
+- ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "isPanModalPresented"]
+- !private ["So8NSObjectC", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So8NSObjectC", "modalPresentationStyle"]
+- !private ["So8NSObjectC", "popoverPresentationController"]
+- !private ["So8NSObjectC", "present"]
+- ["So8NSObjectC", "presentPanModal"]
+- !private ["So8NSObjectC", "sourceRect"]
+- !private ["So8NSObjectC", "sourceView"]
+- !private ["So8NSObjectC", "transitioningDelegate"]
+- !private ["So8NSObjectC", "userInterfaceIdiom"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So8NSObjectP", "PanModalPresentationDelegate"]
+- !private ["So8NSObjectP", "UIDevice"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "delegate"]
+- ["So8NSObjectP", "isPanModalPresented"]
+- !private ["So8NSObjectP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So8NSObjectP", "modalPresentationStyle"]
+- !private ["So8NSObjectP", "popoverPresentationController"]
+- !private ["So8NSObjectP", "present"]
+- ["So8NSObjectP", "presentPanModal"]
+- !private ["So8NSObjectP", "sourceRect"]
+- !private ["So8NSObjectP", "sourceView"]
+- !private ["So8NSObjectP", "transitioningDelegate"]
+- !private ["So8NSObjectP", "userInterfaceIdiom"]
+- !private ["So8NSObjectP", "view"]
+- ["8PanModal0aB11PresentableP", "LayoutType"]
+- !private ["8PanModal0aB11PresentableP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["8PanModal0aB11PresentableP", "modalPresentationStyle"]
+- !private ["8PanModal0aB11PresentableP", "popoverPresentationController"]
+- !private ["8PanModal0aB11PresentableP", "transitioningDelegate"]
+- !private ["8PanModal0aB20PresentationDelegateC", "default"]
+- !private ["8PanModal0aB20PresentationDelegateC", "deinit"]
+- !private ["8PanModal0aB9PresenterP", "PanModalPresentationDelegate"]
+- !private ["8PanModal0aB9PresenterP", "UIDevice"]
+- ["8PanModal0aB9PresenterP", ""]
+- ["8PanModal0aB9PresenterP", "isPanModalPresented"]
+- !private ["8PanModal0aB9PresenterP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["8PanModal0aB9PresenterP", "modalPresentationStyle"]
+- !private ["8PanModal0aB9PresenterP", "popoverPresentationController"]
+- !private ["8PanModal0aB9PresenterP", "present"]
+- ["8PanModal0aB9PresenterP", "presentPanModal"]
+- !private ["8PanModal0aB9PresenterP", "transitioningDelegate"]
+- !private ["8PanModal0aB9PresenterP", "view"]
+- !private ["SY", "custom"]
+- !private ["SY", "pad"]
+- !private ["SY", "popover"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "default"]
+- !private ["So21UIAppearanceContainerP", "PanModalPresentationDelegate"]
+- !private ["So21UIAppearanceContainerP", "UIDevice"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- ["So21UIAppearanceContainerP", "isPanModalPresented"]
+- !private ["So21UIAppearanceContainerP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So21UIAppearanceContainerP", "modalPresentationStyle"]
+- !private ["So21UIAppearanceContainerP", "popoverPresentationController"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- ["So21UIAppearanceContainerP", "presentPanModal"]
+- !private ["So21UIAppearanceContainerP", "sourceRect"]
+- !private ["So21UIAppearanceContainerP", "sourceView"]
+- !private ["So21UIAppearanceContainerP", "transitioningDelegate"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So18UIContentContainerP", "PanModalPresentationDelegate"]
+- !private ["So18UIContentContainerP", "UIDevice"]
+- !private ["So18UIContentContainerP", "delegate"]
+- ["So18UIContentContainerP", "isPanModalPresented"]
+- !private ["So18UIContentContainerP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So18UIContentContainerP", "modalPresentationStyle"]
+- !private ["So18UIContentContainerP", "popoverPresentationController"]
+- !private ["So18UIContentContainerP", "present"]
+- ["So18UIContentContainerP", "presentPanModal"]
+- !private ["So18UIContentContainerP", "sourceRect"]
+- !private ["So18UIContentContainerP", "sourceView"]
+- !private ["So18UIContentContainerP", "transitioningDelegate"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "userInterfaceIdiom"]
+- !private ["So18UIFocusEnvironmentP", "PanModalPresentationDelegate"]
+- !private ["So18UIFocusEnvironmentP", "UIDevice"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- ["So18UIFocusEnvironmentP", "isPanModalPresented"]
+- !private ["So18UIFocusEnvironmentP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So18UIFocusEnvironmentP", "modalPresentationStyle"]
+- !private ["So18UIFocusEnvironmentP", "popoverPresentationController"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- ["So18UIFocusEnvironmentP", "presentPanModal"]
+- !private ["So18UIFocusEnvironmentP", "sourceRect"]
+- !private ["So18UIFocusEnvironmentP", "sourceView"]
+- !private ["So18UIFocusEnvironmentP", "transitioningDelegate"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So24UIModalPresentationStyleV", "custom"]
+- !private ["So24UIModalPresentationStyleV", "popover"]
+- !private ["So30UIPasteConfigurationSupportingP", "PanModalPresentationDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIDevice"]
+- ["So30UIPasteConfigurationSupportingP", "isPanModalPresented"]
+- !private ["So30UIPasteConfigurationSupportingP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So30UIPasteConfigurationSupportingP", "modalPresentationStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "popoverPresentationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- ["So30UIPasteConfigurationSupportingP", "presentPanModal"]
+- !private ["So30UIPasteConfigurationSupportingP", "transitioningDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So31UIPopoverPresentationControllerC", "delegate"]
+- !private ["So31UIPopoverPresentationControllerC", "sourceRect"]
+- !private ["So31UIPopoverPresentationControllerC", "sourceView"]
+- !private ["So39UIPopoverPresentationControllerDelegateP", "default"]
+- !private ["So24UIPresentationControllerC", "delegate"]
+- !private ["So24UIPresentationControllerC", "sourceRect"]
+- !private ["So24UIPresentationControllerC", "sourceView"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "PanModalPresentable"]
+- !private ["So11UIResponderC", "PanModalPresentationDelegate"]
+- !private ["So11UIResponderC", "UIDevice"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "isPanModalPresented"]
+- !private ["So11UIResponderC", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So11UIResponderC", "modalPresentationStyle"]
+- !private ["So11UIResponderC", "popoverPresentationController"]
+- !private ["So11UIResponderC", "present"]
+- ["So11UIResponderC", "presentPanModal"]
+- !private ["So11UIResponderC", "transitioningDelegate"]
+- !private ["So11UIResponderC", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "PanModalPresentationDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "UIDevice"]
+- ["So30UIResponderStandardEditActionsP", "isPanModalPresented"]
+- !private ["So30UIResponderStandardEditActionsP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So30UIResponderStandardEditActionsP", "modalPresentationStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "popoverPresentationController"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- ["So30UIResponderStandardEditActionsP", "presentPanModal"]
+- !private ["So30UIResponderStandardEditActionsP", "transitioningDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So16UIStateRestoringP", "PanModalPresentationDelegate"]
+- !private ["So16UIStateRestoringP", "UIDevice"]
+- ["So16UIStateRestoringP", "isPanModalPresented"]
+- !private ["So16UIStateRestoringP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So16UIStateRestoringP", "modalPresentationStyle"]
+- !private ["So16UIStateRestoringP", "popoverPresentationController"]
+- !private ["So16UIStateRestoringP", "present"]
+- ["So16UIStateRestoringP", "presentPanModal"]
+- !private ["So16UIStateRestoringP", "transitioningDelegate"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So18UITraitEnvironmentP", "PanModalPresentationDelegate"]
+- !private ["So18UITraitEnvironmentP", "UIDevice"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- ["So18UITraitEnvironmentP", "isPanModalPresented"]
+- !private ["So18UITraitEnvironmentP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So18UITraitEnvironmentP", "modalPresentationStyle"]
+- !private ["So18UITraitEnvironmentP", "popoverPresentationController"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- ["So18UITraitEnvironmentP", "presentPanModal"]
+- !private ["So18UITraitEnvironmentP", "sourceRect"]
+- !private ["So18UITraitEnvironmentP", "sourceView"]
+- !private ["So18UITraitEnvironmentP", "transitioningDelegate"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So23UIUserActivityRestoringP", "PanModalPresentationDelegate"]
+- !private ["So23UIUserActivityRestoringP", "UIDevice"]
+- ["So23UIUserActivityRestoringP", "isPanModalPresented"]
+- !private ["So23UIUserActivityRestoringP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So23UIUserActivityRestoringP", "modalPresentationStyle"]
+- !private ["So23UIUserActivityRestoringP", "popoverPresentationController"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- ["So23UIUserActivityRestoringP", "presentPanModal"]
+- !private ["So23UIUserActivityRestoringP", "transitioningDelegate"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So20UIUserInterfaceIdiomV", "pad"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "CGRect"]
+- ["So16UIViewControllerC", "PanModalPresentable"]
+- !private ["So16UIViewControllerC", "PanModalPresentationDelegate"]
+- !private ["So16UIViewControllerC", "UIDevice"]
+- ["So16UIViewControllerC", "UIView"]
+- ["So16UIViewControllerC", "deinit"]
+- ["So16UIViewControllerC", "isPanModalPresented"]
+- !private ["So16UIViewControllerC", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["So16UIViewControllerC", "modalPresentationStyle"]
+- !private ["So16UIViewControllerC", "popoverPresentationController"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "presentPanModal"]
+- !private ["So16UIViewControllerC", "transitioningDelegate"]
+- !private ["So16UIViewControllerC", "view"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "default"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PanModalPresentationDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIDevice"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "isPanModalPresented"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "modalPresentationCapturesStatusBarAppearance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "modalPresentationStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popoverPresentationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentPanModal"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sourceRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sourceView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transitioningDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userInterfaceIdiom"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "zero"]
+depends-nominal:
+- !private "Sb"
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "8PanModal0aB11PresentableP"
+- !private "8PanModal0aB20PresentationDelegateC"
+- "8PanModal0aB9PresenterP"
+- !private "SY"
+- !private "So40UIAdaptivePresentationControllerDelegateP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So8UIDeviceC"
+- "So18UIFocusEnvironmentP"
+- !private "So24UIModalPresentationStyleV"
+- "So30UIPasteConfigurationSupportingP"
+- !private "So31UIPopoverPresentationControllerC"
+- !private "So39UIPopoverPresentationControllerDelegateP"
+- !private "So24UIPresentationControllerC"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So20UIUserInterfaceIdiomV"
+- "So16UIViewControllerC"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Target Support Files/PanModal/PanModal-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/PanModal.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PanModal.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7d4af38472a9c4c440e7592d4278be37"

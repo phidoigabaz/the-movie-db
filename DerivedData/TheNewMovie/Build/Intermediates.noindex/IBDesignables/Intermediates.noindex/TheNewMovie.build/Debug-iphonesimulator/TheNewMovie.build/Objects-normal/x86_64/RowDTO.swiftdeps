@@ -1,0 +1,472 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RowDTO"
+provides-nominal:
+- "11TheNewMovie6RowDTOC"
+provides-member:
+- ["11TheNewMovie6RowDTOC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "Double"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "JSON"
+- "NSObject"
+- "RowDTO"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- !private ["SK", "boolValue"]
+- !private ["SK", "doubleValue"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "intValue"]
+- !private ["SK", "stringValue"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "adult"]
+- !private ["s7CVarArgP", "backdropPath"]
+- !private ["s7CVarArgP", "genreIDS"]
+- !private ["s7CVarArgP", "id"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "originalLanguage"]
+- !private ["s7CVarArgP", "originalTtitle"]
+- !private ["s7CVarArgP", "overview"]
+- !private ["s7CVarArgP", "popularity"]
+- !private ["s7CVarArgP", "posterPath"]
+- !private ["s7CVarArgP", "releaseDate"]
+- !private ["s7CVarArgP", "title"]
+- !private ["s7CVarArgP", "video"]
+- !private ["s7CVarArgP", "voteAverage"]
+- !private ["s7CVarArgP", "voteCount"]
+- !private ["Sl", "boolValue"]
+- !private ["Sl", "doubleValue"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "intValue"]
+- !private ["Sl", "stringValue"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "boolValue"]
+- !private ["SL", "doubleValue"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "intValue"]
+- !private ["SL", "stringValue"]
+- !private ["SL", "subscript"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "adult"]
+- !private ["s28CustomDebugStringConvertibleP", "backdropPath"]
+- !private ["s28CustomDebugStringConvertibleP", "boolValue"]
+- !private ["s28CustomDebugStringConvertibleP", "doubleValue"]
+- !private ["s28CustomDebugStringConvertibleP", "genreIDS"]
+- !private ["s28CustomDebugStringConvertibleP", "id"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "originalLanguage"]
+- !private ["s28CustomDebugStringConvertibleP", "originalTtitle"]
+- !private ["s28CustomDebugStringConvertibleP", "overview"]
+- !private ["s28CustomDebugStringConvertibleP", "popularity"]
+- !private ["s28CustomDebugStringConvertibleP", "posterPath"]
+- !private ["s28CustomDebugStringConvertibleP", "releaseDate"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- !private ["s28CustomDebugStringConvertibleP", "video"]
+- !private ["s28CustomDebugStringConvertibleP", "voteAverage"]
+- !private ["s28CustomDebugStringConvertibleP", "voteCount"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "adult"]
+- !private ["s23CustomStringConvertibleP", "backdropPath"]
+- !private ["s23CustomStringConvertibleP", "boolValue"]
+- !private ["s23CustomStringConvertibleP", "doubleValue"]
+- !private ["s23CustomStringConvertibleP", "genreIDS"]
+- !private ["s23CustomStringConvertibleP", "id"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "originalLanguage"]
+- !private ["s23CustomStringConvertibleP", "originalTtitle"]
+- !private ["s23CustomStringConvertibleP", "overview"]
+- !private ["s23CustomStringConvertibleP", "popularity"]
+- !private ["s23CustomStringConvertibleP", "posterPath"]
+- !private ["s23CustomStringConvertibleP", "releaseDate"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["s23CustomStringConvertibleP", "video"]
+- !private ["s23CustomStringConvertibleP", "voteAverage"]
+- !private ["s23CustomStringConvertibleP", "voteCount"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- ["SQ", ""]
+- !private ["SQ", "adult"]
+- !private ["SQ", "backdropPath"]
+- !private ["SQ", "boolValue"]
+- !private ["SQ", "doubleValue"]
+- !private ["SQ", "genreIDS"]
+- !private ["SQ", "id"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "intValue"]
+- !private ["SQ", "originalLanguage"]
+- !private ["SQ", "originalTtitle"]
+- !private ["SQ", "overview"]
+- !private ["SQ", "popularity"]
+- !private ["SQ", "posterPath"]
+- !private ["SQ", "releaseDate"]
+- !private ["SQ", "stringValue"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "title"]
+- !private ["SQ", "video"]
+- !private ["SQ", "voteAverage"]
+- !private ["SQ", "voteCount"]
+- !private ["s25ExpressibleByArrayLiteralP", "boolValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "doubleValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "intValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "stringValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "boolValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "doubleValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "intValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "stringValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "boolValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "doubleValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "intValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "stringValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "boolValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "doubleValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "intValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "stringValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "boolValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "doubleValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "intValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "stringValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "boolValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "doubleValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "intValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "stringValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "boolValue"]
+- !private ["s23ExpressibleByNilLiteralP", "doubleValue"]
+- !private ["s23ExpressibleByNilLiteralP", "intValue"]
+- !private ["s23ExpressibleByNilLiteralP", "stringValue"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "boolValue"]
+- !private ["s26ExpressibleByStringLiteralP", "doubleValue"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "intValue"]
+- !private ["s26ExpressibleByStringLiteralP", "stringValue"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "boolValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "doubleValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "intValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "stringValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- ["SH", ""]
+- !private ["SH", "adult"]
+- !private ["SH", "backdropPath"]
+- !private ["SH", "genreIDS"]
+- !private ["SH", "id"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "originalLanguage"]
+- !private ["SH", "originalTtitle"]
+- !private ["SH", "overview"]
+- !private ["SH", "popularity"]
+- !private ["SH", "posterPath"]
+- !private ["SH", "releaseDate"]
+- !private ["SH", "title"]
+- !private ["SH", "video"]
+- !private ["SH", "voteAverage"]
+- !private ["SH", "voteCount"]
+- !private ["10SwiftyJSON0B0V", "boolValue"]
+- !private ["10SwiftyJSON0B0V", "doubleValue"]
+- !private ["10SwiftyJSON0B0V", "intValue"]
+- !private ["10SwiftyJSON0B0V", "stringValue"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["s22LazyCollectionProtocolP", "boolValue"]
+- !private ["s22LazyCollectionProtocolP", "doubleValue"]
+- !private ["s22LazyCollectionProtocolP", "intValue"]
+- !private ["s22LazyCollectionProtocolP", "stringValue"]
+- !private ["s20LazySequenceProtocolP", "boolValue"]
+- !private ["s20LazySequenceProtocolP", "doubleValue"]
+- !private ["s20LazySequenceProtocolP", "intValue"]
+- !private ["s20LazySequenceProtocolP", "stringValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "boolValue"]
+- !private ["SM", "doubleValue"]
+- !private ["SM", "intValue"]
+- !private ["SM", "stringValue"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "Double"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "JSON"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "adult"]
+- ["So8NSObjectC", "backdropPath"]
+- ["So8NSObjectC", "genreIDS"]
+- ["So8NSObjectC", "id"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "originalLanguage"]
+- ["So8NSObjectC", "originalTtitle"]
+- ["So8NSObjectC", "overview"]
+- ["So8NSObjectC", "popularity"]
+- ["So8NSObjectC", "posterPath"]
+- ["So8NSObjectC", "releaseDate"]
+- ["So8NSObjectC", "title"]
+- ["So8NSObjectC", "video"]
+- ["So8NSObjectC", "voteAverage"]
+- ["So8NSObjectC", "voteCount"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "adult"]
+- !private ["So8NSObjectP", "backdropPath"]
+- !private ["So8NSObjectP", "genreIDS"]
+- !private ["So8NSObjectP", "id"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "originalLanguage"]
+- !private ["So8NSObjectP", "originalTtitle"]
+- !private ["So8NSObjectP", "overview"]
+- !private ["So8NSObjectP", "popularity"]
+- !private ["So8NSObjectP", "posterPath"]
+- !private ["So8NSObjectP", "releaseDate"]
+- !private ["So8NSObjectP", "title"]
+- !private ["So8NSObjectP", "video"]
+- !private ["So8NSObjectP", "voteAverage"]
+- !private ["So8NSObjectP", "voteCount"]
+- !private ["Sk", "boolValue"]
+- !private ["Sk", "doubleValue"]
+- !private ["Sk", "intValue"]
+- !private ["Sk", "stringValue"]
+- !private ["Sm", "boolValue"]
+- !private ["Sm", "doubleValue"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "intValue"]
+- !private ["Sm", "stringValue"]
+- !private ["SY", "boolValue"]
+- !private ["SY", "doubleValue"]
+- !private ["SY", "intValue"]
+- !private ["SY", "stringValue"]
+- !private ["SY", "subscript"]
+- ["11TheNewMovie6RowDTOC", "Bool"]
+- ["11TheNewMovie6RowDTOC", "Double"]
+- ["11TheNewMovie6RowDTOC", "Int"]
+- ["11TheNewMovie6RowDTOC", "JSON"]
+- ["11TheNewMovie6RowDTOC", "String"]
+- ["11TheNewMovie6RowDTOC", "adult"]
+- ["11TheNewMovie6RowDTOC", "backdropPath"]
+- ["11TheNewMovie6RowDTOC", "deinit"]
+- ["11TheNewMovie6RowDTOC", "genreIDS"]
+- ["11TheNewMovie6RowDTOC", "id"]
+- ["11TheNewMovie6RowDTOC", "init"]
+- ["11TheNewMovie6RowDTOC", "originalLanguage"]
+- ["11TheNewMovie6RowDTOC", "originalTtitle"]
+- ["11TheNewMovie6RowDTOC", "overview"]
+- ["11TheNewMovie6RowDTOC", "popularity"]
+- ["11TheNewMovie6RowDTOC", "posterPath"]
+- ["11TheNewMovie6RowDTOC", "releaseDate"]
+- ["11TheNewMovie6RowDTOC", "title"]
+- ["11TheNewMovie6RowDTOC", "video"]
+- ["11TheNewMovie6RowDTOC", "voteAverage"]
+- ["11TheNewMovie6RowDTOC", "voteCount"]
+- !private ["ST", "boolValue"]
+- !private ["ST", "doubleValue"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "intValue"]
+- !private ["ST", "stringValue"]
+- !private ["ST", "subscript"]
+- !private ["s5SliceV", "boolValue"]
+- !private ["s5SliceV", "doubleValue"]
+- !private ["s5SliceV", "intValue"]
+- !private ["s5SliceV", "stringValue"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "adult"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backdropPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "genreIDS"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "id"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "originalLanguage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "originalTtitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "overview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popularity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "posterPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "releaseDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "video"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "voteAverage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "voteCount"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "10Kingfisher0A15CompatibleValueP"
+- !private "s22LazyCollectionProtocolP"
+- !private "s20LazySequenceProtocolP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "11TheNewMovie6RowDTOC"
+- !private "ST"
+- !private "s5SliceV"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "362d510548b339e52e351b1975d16551"

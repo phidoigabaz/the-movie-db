@@ -1,0 +1,396 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PanModalPresentationDelegate"
+provides-nominal:
+- "8PanModal0aB20PresentationDelegateC"
+provides-member:
+- ["8PanModal0aB20PresentationDelegateC", ""]
+provides-dynamic-lookup:
+- "adaptivePresentationStyle"
+- "animationController"
+- "presentationController"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "NSObject"
+- !private "PanModalPresentationAnimator"
+- !private "PanModalPresentationController"
+- "PanModalPresentationDelegate"
+- "UIAdaptivePresentationControllerDelegate"
+- "UIModalPresentationStyle"
+- "UIPopoverPresentationControllerDelegate"
+- "UIPresentationController"
+- "UITraitCollection"
+- "UIViewController"
+- "UIViewControllerAnimatedTransitioning"
+- "UIViewControllerTransitioningDelegate"
+depends-member:
+- !private ["s7CVarArgP", "PanModalPresentationAnimator"]
+- !private ["s7CVarArgP", "PanModalPresentationController"]
+- ["s7CVarArgP", "PanModalPresentationDelegate"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "adaptivePresentationStyle"]
+- ["s7CVarArgP", "adaptivePresentationStyleForPresentationController"]
+- ["s7CVarArgP", "animationController"]
+- ["s7CVarArgP", "animationControllerForDismissedController"]
+- ["s7CVarArgP", "animationControllerForPresentedController"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "dismiss"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "interactionControllerForDismissal"]
+- ["s7CVarArgP", "interactionControllerForPresentation"]
+- ["s7CVarArgP", "popoverPresentationController"]
+- ["s7CVarArgP", "popoverPresentationControllerDidDismissPopover"]
+- ["s7CVarArgP", "popoverPresentationControllerShouldDismissPopover"]
+- ["s7CVarArgP", "prepareForPopoverPresentation"]
+- ["s7CVarArgP", "presentationController"]
+- ["s7CVarArgP", "presentationControllerForPresentedViewController"]
+- !private ["s7CVarArgP", "presentedViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "PanModalPresentationAnimator"]
+- !private ["s28CustomDebugStringConvertibleP", "PanModalPresentationController"]
+- ["s28CustomDebugStringConvertibleP", "PanModalPresentationDelegate"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "adaptivePresentationStyle"]
+- ["s28CustomDebugStringConvertibleP", "adaptivePresentationStyleForPresentationController"]
+- ["s28CustomDebugStringConvertibleP", "animationController"]
+- ["s28CustomDebugStringConvertibleP", "animationControllerForDismissedController"]
+- ["s28CustomDebugStringConvertibleP", "animationControllerForPresentedController"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "interactionControllerForDismissal"]
+- ["s28CustomDebugStringConvertibleP", "interactionControllerForPresentation"]
+- ["s28CustomDebugStringConvertibleP", "popoverPresentationController"]
+- ["s28CustomDebugStringConvertibleP", "popoverPresentationControllerDidDismissPopover"]
+- ["s28CustomDebugStringConvertibleP", "popoverPresentationControllerShouldDismissPopover"]
+- ["s28CustomDebugStringConvertibleP", "prepareForPopoverPresentation"]
+- ["s28CustomDebugStringConvertibleP", "presentationController"]
+- ["s28CustomDebugStringConvertibleP", "presentationControllerForPresentedViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "presentedViewController"]
+- !private ["s23CustomStringConvertibleP", "PanModalPresentationAnimator"]
+- !private ["s23CustomStringConvertibleP", "PanModalPresentationController"]
+- ["s23CustomStringConvertibleP", "PanModalPresentationDelegate"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "adaptivePresentationStyle"]
+- ["s23CustomStringConvertibleP", "adaptivePresentationStyleForPresentationController"]
+- ["s23CustomStringConvertibleP", "animationController"]
+- ["s23CustomStringConvertibleP", "animationControllerForDismissedController"]
+- ["s23CustomStringConvertibleP", "animationControllerForPresentedController"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "interactionControllerForDismissal"]
+- ["s23CustomStringConvertibleP", "interactionControllerForPresentation"]
+- ["s23CustomStringConvertibleP", "popoverPresentationController"]
+- ["s23CustomStringConvertibleP", "popoverPresentationControllerDidDismissPopover"]
+- ["s23CustomStringConvertibleP", "popoverPresentationControllerShouldDismissPopover"]
+- ["s23CustomStringConvertibleP", "prepareForPopoverPresentation"]
+- ["s23CustomStringConvertibleP", "presentationController"]
+- ["s23CustomStringConvertibleP", "presentationControllerForPresentedViewController"]
+- !private ["s23CustomStringConvertibleP", "presentedViewController"]
+- !private ["SQ", "PanModalPresentationAnimator"]
+- !private ["SQ", "PanModalPresentationController"]
+- ["SQ", "PanModalPresentationDelegate"]
+- ["SQ", ""]
+- ["SQ", "adaptivePresentationStyle"]
+- ["SQ", "adaptivePresentationStyleForPresentationController"]
+- ["SQ", "animationController"]
+- ["SQ", "animationControllerForDismissedController"]
+- ["SQ", "animationControllerForPresentedController"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "dismissal"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "interactionControllerForDismissal"]
+- ["SQ", "interactionControllerForPresentation"]
+- !private ["SQ", "none"]
+- ["SQ", "popoverPresentationController"]
+- ["SQ", "popoverPresentationControllerDidDismissPopover"]
+- ["SQ", "popoverPresentationControllerShouldDismissPopover"]
+- ["SQ", "prepareForPopoverPresentation"]
+- !private ["SQ", "presentation"]
+- ["SQ", "presentationController"]
+- ["SQ", "presentationControllerForPresentedViewController"]
+- !private ["SQ", "presentedViewController"]
+- !private ["SH", "PanModalPresentationAnimator"]
+- !private ["SH", "PanModalPresentationController"]
+- ["SH", "PanModalPresentationDelegate"]
+- ["SH", ""]
+- ["SH", "adaptivePresentationStyle"]
+- ["SH", "adaptivePresentationStyleForPresentationController"]
+- ["SH", "animationController"]
+- ["SH", "animationControllerForDismissedController"]
+- ["SH", "animationControllerForPresentedController"]
+- !private ["SH", "delegate"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "dismissal"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "interactionControllerForDismissal"]
+- ["SH", "interactionControllerForPresentation"]
+- !private ["SH", "none"]
+- ["SH", "popoverPresentationController"]
+- ["SH", "popoverPresentationControllerDidDismissPopover"]
+- ["SH", "popoverPresentationControllerShouldDismissPopover"]
+- ["SH", "prepareForPopoverPresentation"]
+- !private ["SH", "presentation"]
+- ["SH", "presentationController"]
+- ["SH", "presentationControllerForPresentedViewController"]
+- !private ["SH", "presentedViewController"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So8NSObjectC", "PanModalPresentationAnimator"]
+- !private ["So8NSObjectC", "PanModalPresentationController"]
+- ["So8NSObjectC", "PanModalPresentationDelegate"]
+- ["So8NSObjectC", "UIModalPresentationStyle"]
+- ["So8NSObjectC", "UIPresentationController"]
+- ["So8NSObjectC", "UITraitCollection"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "UIViewControllerAnimatedTransitioning"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "adaptivePresentationStyle"]
+- ["So8NSObjectC", "adaptivePresentationStyleForPresentationController"]
+- ["So8NSObjectC", "animationController"]
+- ["So8NSObjectC", "animationControllerForDismissedController"]
+- ["So8NSObjectC", "animationControllerForPresentedController"]
+- ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "interactionControllerForDismissal"]
+- ["So8NSObjectC", "interactionControllerForPresentation"]
+- ["So8NSObjectC", "popoverPresentationController"]
+- ["So8NSObjectC", "popoverPresentationControllerDidDismissPopover"]
+- ["So8NSObjectC", "popoverPresentationControllerShouldDismissPopover"]
+- ["So8NSObjectC", "prepareForPopoverPresentation"]
+- ["So8NSObjectC", "presentationController"]
+- ["So8NSObjectC", "presentationControllerForPresentedViewController"]
+- !private ["So8NSObjectC", "presentedViewController"]
+- !private ["So8NSObjectP", "PanModalPresentationAnimator"]
+- !private ["So8NSObjectP", "PanModalPresentationController"]
+- ["So8NSObjectP", "PanModalPresentationDelegate"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "adaptivePresentationStyle"]
+- ["So8NSObjectP", "adaptivePresentationStyleForPresentationController"]
+- ["So8NSObjectP", "animationController"]
+- ["So8NSObjectP", "animationControllerForDismissedController"]
+- ["So8NSObjectP", "animationControllerForPresentedController"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "dismiss"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "interactionControllerForDismissal"]
+- ["So8NSObjectP", "interactionControllerForPresentation"]
+- ["So8NSObjectP", "popoverPresentationController"]
+- ["So8NSObjectP", "popoverPresentationControllerDidDismissPopover"]
+- ["So8NSObjectP", "popoverPresentationControllerShouldDismissPopover"]
+- ["So8NSObjectP", "prepareForPopoverPresentation"]
+- ["So8NSObjectP", "presentationController"]
+- ["So8NSObjectP", "presentationControllerForPresentedViewController"]
+- !private ["So8NSObjectP", "presentedViewController"]
+- !private ["8PanModal0aB20PresentationAnimatorC", "deinit"]
+- !private ["8PanModal0aB20PresentationAnimatorC", "init"]
+- !private ["8PanModal0aB22PresentationControllerC", "delegate"]
+- !private ["8PanModal0aB22PresentationControllerC", "init"]
+- !private ["8PanModal0aB20PresentationDelegateC", "PanModalPresentationAnimator"]
+- !private ["8PanModal0aB20PresentationDelegateC", "PanModalPresentationController"]
+- ["8PanModal0aB20PresentationDelegateC", "PanModalPresentationDelegate"]
+- ["8PanModal0aB20PresentationDelegateC", "UIModalPresentationStyle"]
+- ["8PanModal0aB20PresentationDelegateC", "UIPresentationController"]
+- ["8PanModal0aB20PresentationDelegateC", "UITraitCollection"]
+- ["8PanModal0aB20PresentationDelegateC", "UIViewController"]
+- ["8PanModal0aB20PresentationDelegateC", "UIViewControllerAnimatedTransitioning"]
+- ["8PanModal0aB20PresentationDelegateC", "adaptivePresentationStyle"]
+- ["8PanModal0aB20PresentationDelegateC", "adaptivePresentationStyleForPresentationController"]
+- ["8PanModal0aB20PresentationDelegateC", "animationController"]
+- ["8PanModal0aB20PresentationDelegateC", "animationControllerForDismissedController"]
+- ["8PanModal0aB20PresentationDelegateC", "animationControllerForPresentedController"]
+- ["8PanModal0aB20PresentationDelegateC", "default"]
+- ["8PanModal0aB20PresentationDelegateC", "deinit"]
+- ["8PanModal0aB20PresentationDelegateC", "init"]
+- ["8PanModal0aB20PresentationDelegateC", "interactionControllerForDismissal"]
+- ["8PanModal0aB20PresentationDelegateC", "interactionControllerForPresentation"]
+- ["8PanModal0aB20PresentationDelegateC", "popoverPresentationController"]
+- ["8PanModal0aB20PresentationDelegateC", "popoverPresentationControllerDidDismissPopover"]
+- ["8PanModal0aB20PresentationDelegateC", "popoverPresentationControllerShouldDismissPopover"]
+- ["8PanModal0aB20PresentationDelegateC", "prepareForPopoverPresentation"]
+- ["8PanModal0aB20PresentationDelegateC", "presentationController"]
+- ["8PanModal0aB20PresentationDelegateC", "presentationControllerForPresentedViewController"]
+- !private ["8PanModal0aB9PresenterP", "dismiss"]
+- !private ["SY", "none"]
+- !private ["8PanModal0aB20PresentationAnimatorC15TransitionStyleO", "dismissal"]
+- !private ["8PanModal0aB20PresentationAnimatorC15TransitionStyleO", "presentation"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "PanModalPresentationAnimator"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "PanModalPresentationController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "PanModalPresentationDelegate"]
+- ["So40UIAdaptivePresentationControllerDelegateP", ""]
+- ["So40UIAdaptivePresentationControllerDelegateP", "adaptivePresentationStyle"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "adaptivePresentationStyleForPresentationController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "animationController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "animationControllerForDismissedController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "animationControllerForPresentedController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "init"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "interactionControllerForDismissal"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "interactionControllerForPresentation"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "popoverPresentationController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "popoverPresentationControllerDidDismissPopover"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "popoverPresentationControllerShouldDismissPopover"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "prepareForPopoverPresentation"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "presentationController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "presentationControllerForPresentedViewController"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "presentedViewController"]
+- !private ["So18UIContentContainerP", "delegate"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "presentedViewController"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "presentedViewController"]
+- !private ["So27UIGestureRecognizerDelegateP", "delegate"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So24UIModalPresentationStyleV", "none"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So39UIPopoverPresentationControllerDelegateP", "PanModalPresentationAnimator"]
+- !private ["So39UIPopoverPresentationControllerDelegateP", "PanModalPresentationController"]
+- ["So39UIPopoverPresentationControllerDelegateP", "PanModalPresentationDelegate"]
+- ["So39UIPopoverPresentationControllerDelegateP", ""]
+- ["So39UIPopoverPresentationControllerDelegateP", "adaptivePresentationStyle"]
+- ["So39UIPopoverPresentationControllerDelegateP", "adaptivePresentationStyleForPresentationController"]
+- ["So39UIPopoverPresentationControllerDelegateP", "animationController"]
+- ["So39UIPopoverPresentationControllerDelegateP", "animationControllerForDismissedController"]
+- ["So39UIPopoverPresentationControllerDelegateP", "animationControllerForPresentedController"]
+- ["So39UIPopoverPresentationControllerDelegateP", "init"]
+- ["So39UIPopoverPresentationControllerDelegateP", "interactionControllerForDismissal"]
+- ["So39UIPopoverPresentationControllerDelegateP", "interactionControllerForPresentation"]
+- ["So39UIPopoverPresentationControllerDelegateP", "popoverPresentationController"]
+- ["So39UIPopoverPresentationControllerDelegateP", "popoverPresentationControllerDidDismissPopover"]
+- ["So39UIPopoverPresentationControllerDelegateP", "popoverPresentationControllerShouldDismissPopover"]
+- ["So39UIPopoverPresentationControllerDelegateP", "prepareForPopoverPresentation"]
+- ["So39UIPopoverPresentationControllerDelegateP", "presentationController"]
+- ["So39UIPopoverPresentationControllerDelegateP", "presentationControllerForPresentedViewController"]
+- !private ["So24UIPresentationControllerC", "delegate"]
+- !private ["So24UIPresentationControllerC", "init"]
+- !private ["So24UIPresentationControllerC", "presentedViewController"]
+- !private ["So11UIResponderC", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "presentedViewController"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "init"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "PanModalPresentationAnimator"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "PanModalPresentationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "PanModalPresentationDelegate"]
+- ["So37UIViewControllerTransitioningDelegateP", ""]
+- ["So37UIViewControllerTransitioningDelegateP", "adaptivePresentationStyle"]
+- ["So37UIViewControllerTransitioningDelegateP", "adaptivePresentationStyleForPresentationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "animationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "animationControllerForDismissedController"]
+- ["So37UIViewControllerTransitioningDelegateP", "animationControllerForPresentedController"]
+- ["So37UIViewControllerTransitioningDelegateP", "init"]
+- ["So37UIViewControllerTransitioningDelegateP", "interactionControllerForDismissal"]
+- ["So37UIViewControllerTransitioningDelegateP", "interactionControllerForPresentation"]
+- ["So37UIViewControllerTransitioningDelegateP", "popoverPresentationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "popoverPresentationControllerDidDismissPopover"]
+- ["So37UIViewControllerTransitioningDelegateP", "popoverPresentationControllerShouldDismissPopover"]
+- ["So37UIViewControllerTransitioningDelegateP", "prepareForPopoverPresentation"]
+- ["So37UIViewControllerTransitioningDelegateP", "presentationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "presentationControllerForPresentedViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PanModalPresentationAnimator"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PanModalPresentationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PanModalPresentationDelegate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "adaptivePresentationStyle"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "adaptivePresentationStyleForPresentationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationControllerForDismissedController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationControllerForPresentedController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interactionControllerForDismissal"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interactionControllerForPresentation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "popoverPresentationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "popoverPresentationControllerDidDismissPopover"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "popoverPresentationControllerShouldDismissPopover"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "prepareForPopoverPresentation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentationControllerForPresentedViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentedViewController"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "8PanModal0aB20PresentationAnimatorC"
+- !private "8PanModal0aB22PresentationControllerC"
+- "8PanModal0aB20PresentationDelegateC"
+- !private "8PanModal0aB9PresenterP"
+- !private "SY"
+- !private "8PanModal0aB20PresentationAnimatorC15TransitionStyleO"
+- "So40UIAdaptivePresentationControllerDelegateP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So24UIModalPresentationStyleV"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So39UIPopoverPresentationControllerDelegateP"
+- !private "So24UIPresentationControllerC"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- "So37UIViewControllerTransitioningDelegateP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Target Support Files/PanModal/PanModal-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/PanModal.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PanModal.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e3ace493a03eb798b31555aea58e2cf4"

@@ -1,0 +1,221 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["8PanModal0aB11PresentableP", ""]
+- ["8PanModal0aB11PresentableP", "AnimationBlockType"]
+- ["8PanModal0aB11PresentableP", "AnimationCompletionType"]
+- ["8PanModal0aB11PresentableP", "LayoutType"]
+- ["8PanModal0aB11PresentableP", "panModalTransition"]
+- ["8PanModal0aB11PresentableP", "panModalSetContentOffset"]
+- ["8PanModal0aB11PresentableP", "panModalSetNeedsLayoutUpdate"]
+- ["8PanModal0aB11PresentableP", "panModalAnimate"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "CGPoint"
+- !private "PanModalAnimator"
+- "PanModalPresentable"
+- "PanModalPresentationController"
+- "UIViewController"
+- "Void"
+depends-member:
+- !private ["s7CVarArgP", "PanModalAnimator"]
+- ["s7CVarArgP", "PresentationState"]
+- !private ["s7CVarArgP", "presentedVC"]
+- !private ["s7CVarArgP", "setContentOffset"]
+- !private ["s7CVarArgP", "setNeedsLayoutUpdate"]
+- !private ["s7CVarArgP", "transition"]
+- !private ["s28CustomDebugStringConvertibleP", "PanModalAnimator"]
+- ["s28CustomDebugStringConvertibleP", "PresentationState"]
+- !private ["s28CustomDebugStringConvertibleP", "presentedVC"]
+- !private ["s28CustomDebugStringConvertibleP", "setContentOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "setNeedsLayoutUpdate"]
+- !private ["s28CustomDebugStringConvertibleP", "transition"]
+- !private ["s23CustomStringConvertibleP", "PanModalAnimator"]
+- ["s23CustomStringConvertibleP", "PresentationState"]
+- !private ["s23CustomStringConvertibleP", "presentedVC"]
+- !private ["s23CustomStringConvertibleP", "setContentOffset"]
+- !private ["s23CustomStringConvertibleP", "setNeedsLayoutUpdate"]
+- !private ["s23CustomStringConvertibleP", "transition"]
+- !private ["SQ", "PanModalAnimator"]
+- ["SQ", "PresentationState"]
+- !private ["SQ", "presentedVC"]
+- !private ["SQ", "setContentOffset"]
+- !private ["SQ", "setNeedsLayoutUpdate"]
+- !private ["SQ", "transition"]
+- !private ["SH", "PanModalAnimator"]
+- ["SH", "PresentationState"]
+- !private ["SH", "presentedVC"]
+- !private ["SH", "setContentOffset"]
+- !private ["SH", "setNeedsLayoutUpdate"]
+- !private ["SH", "transition"]
+- !private ["So8NSCodingP", "PanModalAnimator"]
+- !private ["So8NSCodingP", "presentedVC"]
+- !private ["So26NSExtensionRequestHandlingP", "PanModalAnimator"]
+- !private ["So26NSExtensionRequestHandlingP", "presentedVC"]
+- ["So8NSObjectC", "AnimationBlockType"]
+- ["So8NSObjectC", "AnimationCompletionType"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGPoint"]
+- !private ["So8NSObjectC", "PanModalAnimator"]
+- ["So8NSObjectC", "PanModalPresentable"]
+- ["So8NSObjectC", "PanModalPresentationController"]
+- ["So8NSObjectC", "PresentationState"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "Void"]
+- !private ["So8NSObjectC", "presentedVC"]
+- !private ["So8NSObjectC", "setContentOffset"]
+- !private ["So8NSObjectC", "setNeedsLayoutUpdate"]
+- !private ["So8NSObjectC", "transition"]
+- !private ["So8NSObjectP", "PanModalAnimator"]
+- ["So8NSObjectP", "PresentationState"]
+- !private ["So8NSObjectP", "presentedVC"]
+- !private ["So8NSObjectP", "setContentOffset"]
+- !private ["So8NSObjectP", "setNeedsLayoutUpdate"]
+- !private ["So8NSObjectP", "transition"]
+- !private ["8PanModal0aB8AnimatorV", "animate"]
+- ["8PanModal0aB11PresentableP", "AnimationBlockType"]
+- ["8PanModal0aB11PresentableP", "AnimationCompletionType"]
+- ["8PanModal0aB11PresentableP", "Bool"]
+- ["8PanModal0aB11PresentableP", "CGPoint"]
+- ["8PanModal0aB11PresentableP", "LayoutType"]
+- !private ["8PanModal0aB11PresentableP", "PanModalAnimator"]
+- ["8PanModal0aB11PresentableP", "PanModalPresentable"]
+- ["8PanModal0aB11PresentableP", "PanModalPresentationController"]
+- ["8PanModal0aB11PresentableP", "UIViewController"]
+- ["8PanModal0aB11PresentableP", "Void"]
+- ["8PanModal0aB11PresentableP", "panModalAnimate"]
+- ["8PanModal0aB11PresentableP", "panModalSetContentOffset"]
+- ["8PanModal0aB11PresentableP", "panModalSetNeedsLayoutUpdate"]
+- ["8PanModal0aB11PresentableP", "panModalTransition"]
+- !private ["8PanModal0aB11PresentableP", "presentedVC"]
+- ["8PanModal0aB22PresentationControllerC", "PresentationState"]
+- !private ["8PanModal0aB22PresentationControllerC", "setContentOffset"]
+- !private ["8PanModal0aB22PresentationControllerC", "setNeedsLayoutUpdate"]
+- !private ["8PanModal0aB22PresentationControllerC", "transition"]
+- !private ["8PanModal0aB9PresenterP", "PanModalAnimator"]
+- !private ["8PanModal0aB9PresenterP", "presentedVC"]
+- !private ["So21UIAppearanceContainerP", "PanModalAnimator"]
+- ["So21UIAppearanceContainerP", "PresentationState"]
+- !private ["So21UIAppearanceContainerP", "presentedVC"]
+- !private ["So21UIAppearanceContainerP", "setContentOffset"]
+- !private ["So21UIAppearanceContainerP", "setNeedsLayoutUpdate"]
+- !private ["So21UIAppearanceContainerP", "transition"]
+- !private ["So18UIContentContainerP", "PanModalAnimator"]
+- ["So18UIContentContainerP", "PresentationState"]
+- !private ["So18UIContentContainerP", "presentedVC"]
+- !private ["So18UIContentContainerP", "setContentOffset"]
+- !private ["So18UIContentContainerP", "setNeedsLayoutUpdate"]
+- !private ["So18UIContentContainerP", "transition"]
+- !private ["So18UIFocusEnvironmentP", "PanModalAnimator"]
+- ["So18UIFocusEnvironmentP", "PresentationState"]
+- !private ["So18UIFocusEnvironmentP", "presentedVC"]
+- !private ["So18UIFocusEnvironmentP", "setContentOffset"]
+- !private ["So18UIFocusEnvironmentP", "setNeedsLayoutUpdate"]
+- !private ["So18UIFocusEnvironmentP", "transition"]
+- ["So27UIGestureRecognizerDelegateP", "PresentationState"]
+- !private ["So27UIGestureRecognizerDelegateP", "setContentOffset"]
+- !private ["So27UIGestureRecognizerDelegateP", "setNeedsLayoutUpdate"]
+- !private ["So27UIGestureRecognizerDelegateP", "transition"]
+- !private ["So30UIPasteConfigurationSupportingP", "PanModalAnimator"]
+- !private ["So30UIPasteConfigurationSupportingP", "presentedVC"]
+- ["So24UIPresentationControllerC", "PresentationState"]
+- !private ["So24UIPresentationControllerC", "setContentOffset"]
+- !private ["So24UIPresentationControllerC", "setNeedsLayoutUpdate"]
+- !private ["So24UIPresentationControllerC", "transition"]
+- ["So11UIResponderC", "AnimationBlockType"]
+- ["So11UIResponderC", "AnimationCompletionType"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CGPoint"]
+- !private ["So11UIResponderC", "PanModalAnimator"]
+- ["So11UIResponderC", "PanModalPresentable"]
+- ["So11UIResponderC", "PanModalPresentationController"]
+- ["So11UIResponderC", "UIViewController"]
+- ["So11UIResponderC", "Void"]
+- !private ["So11UIResponderC", "presentedVC"]
+- !private ["So30UIResponderStandardEditActionsP", "PanModalAnimator"]
+- !private ["So30UIResponderStandardEditActionsP", "presentedVC"]
+- !private ["So16UIStateRestoringP", "PanModalAnimator"]
+- !private ["So16UIStateRestoringP", "presentedVC"]
+- !private ["So18UITraitEnvironmentP", "PanModalAnimator"]
+- ["So18UITraitEnvironmentP", "PresentationState"]
+- !private ["So18UITraitEnvironmentP", "presentedVC"]
+- !private ["So18UITraitEnvironmentP", "setContentOffset"]
+- !private ["So18UITraitEnvironmentP", "setNeedsLayoutUpdate"]
+- !private ["So18UITraitEnvironmentP", "transition"]
+- !private ["So23UIUserActivityRestoringP", "PanModalAnimator"]
+- !private ["So23UIUserActivityRestoringP", "presentedVC"]
+- ["So16UIViewControllerC", "AnimationBlockType"]
+- ["So16UIViewControllerC", "AnimationCompletionType"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "CGPoint"]
+- !private ["So16UIViewControllerC", "PanModalAnimator"]
+- ["So16UIViewControllerC", "PanModalPresentable"]
+- ["So16UIViewControllerC", "PanModalPresentationController"]
+- ["So16UIViewControllerC", "UIViewController"]
+- ["So16UIViewControllerC", "Void"]
+- !private ["So16UIViewControllerC", "presentedVC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PanModalAnimator"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PresentationState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentedVC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setContentOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setNeedsLayoutUpdate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transition"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "8PanModal0aB8AnimatorV"
+- "8PanModal0aB11PresentableP"
+- "8PanModal0aB22PresentationControllerC"
+- !private "8PanModal0aB9PresenterP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So24UIPresentationControllerC"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Target Support Files/PanModal/PanModal-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/PanModal.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PanModal.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "99349a6ff714cb1c545f6d490b07dc52"

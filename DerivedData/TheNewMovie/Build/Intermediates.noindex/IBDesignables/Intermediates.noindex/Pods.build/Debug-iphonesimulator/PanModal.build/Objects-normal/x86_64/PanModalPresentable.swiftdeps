@@ -1,0 +1,108 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PanModalPresentable"
+provides-nominal:
+- "8PanModal0aB11PresentableP"
+provides-member:
+- ["8PanModal0aB11PresentableP", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "CGFloat"
+- "PanModalHeight"
+- "PanModalPresentable"
+- "PanModalPresentationController"
+- "UIEdgeInsets"
+- "UIPanGestureRecognizer"
+- "UIScrollView"
+depends-member:
+- ["s7CVarArgP", "PresentationState"]
+- ["s28CustomDebugStringConvertibleP", "PresentationState"]
+- ["s23CustomStringConvertibleP", "PresentationState"]
+- ["SQ", "PresentationState"]
+- ["SH", "PresentationState"]
+- ["So8NSObjectC", "PresentationState"]
+- ["So8NSObjectP", "PresentationState"]
+- ["8PanModal0aB11PresentableP", "Bool"]
+- ["8PanModal0aB11PresentableP", "CGFloat"]
+- ["8PanModal0aB11PresentableP", "PanModalHeight"]
+- ["8PanModal0aB11PresentableP", "PanModalPresentationController"]
+- ["8PanModal0aB11PresentableP", "UIEdgeInsets"]
+- ["8PanModal0aB11PresentableP", "UIPanGestureRecognizer"]
+- ["8PanModal0aB11PresentableP", "UIScrollView"]
+- ["8PanModal0aB11PresentableP", "allowsDragToDismiss"]
+- ["8PanModal0aB11PresentableP", "allowsExtendedPanScrolling"]
+- ["8PanModal0aB11PresentableP", "anchorModalToLongForm"]
+- ["8PanModal0aB11PresentableP", "backgroundAlpha"]
+- ["8PanModal0aB11PresentableP", "cornerRadius"]
+- ["8PanModal0aB11PresentableP", "isHapticFeedbackEnabled"]
+- ["8PanModal0aB11PresentableP", "isUserInteractionEnabled"]
+- ["8PanModal0aB11PresentableP", "longFormHeight"]
+- ["8PanModal0aB11PresentableP", "panModalWillDismiss"]
+- ["8PanModal0aB11PresentableP", "panScrollable"]
+- ["8PanModal0aB11PresentableP", "scrollIndicatorInsets"]
+- ["8PanModal0aB11PresentableP", "shortFormHeight"]
+- ["8PanModal0aB11PresentableP", "shouldPrioritize"]
+- ["8PanModal0aB11PresentableP", "shouldRespond"]
+- ["8PanModal0aB11PresentableP", "shouldRoundTopCorners"]
+- ["8PanModal0aB11PresentableP", "shouldTransition"]
+- ["8PanModal0aB11PresentableP", "showDragIndicator"]
+- ["8PanModal0aB11PresentableP", "springDamping"]
+- ["8PanModal0aB11PresentableP", "topOffset"]
+- ["8PanModal0aB11PresentableP", "willRespond"]
+- ["8PanModal0aB11PresentableP", "willTransition"]
+- ["8PanModal0aB22PresentationControllerC", "PresentationState"]
+- ["So21UIAppearanceContainerP", "PresentationState"]
+- ["So18UIContentContainerP", "PresentationState"]
+- ["So18UIFocusEnvironmentP", "PresentationState"]
+- ["So27UIGestureRecognizerDelegateP", "PresentationState"]
+- ["So24UIPresentationControllerC", "PresentationState"]
+- ["So18UITraitEnvironmentP", "PresentationState"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PresentationState"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "8PanModal0aB11PresentableP"
+- "8PanModal0aB22PresentationControllerC"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So27UIGestureRecognizerDelegateP"
+- "So24UIPresentationControllerC"
+- "So18UITraitEnvironmentP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Target Support Files/PanModal/PanModal-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/PanModal.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PanModal.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8fcab317eb05aa385945d161667b0c82"

@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "164a6cbbccff1ef8ad11419c9c86942d"
+build_time: [1559292932, 892562000]
+inputs:
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/View/DimmedView.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/View/PanContainerView.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Animator/PanModalAnimator.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Presentable/PanModalHeight.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Presentable/PanModalPresentable+Defaults.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Presentable/PanModalPresentable+LayoutHelpers.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Presentable/PanModalPresentable+UIViewController.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Presentable/PanModalPresentable.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Animator/PanModalPresentationAnimator.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Controller/PanModalPresentationController.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Delegate/PanModalPresentationDelegate.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Presenter/PanModalPresenter.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/Presenter/UIViewController+PanModalPresenter.swift": [1559292786, 0]

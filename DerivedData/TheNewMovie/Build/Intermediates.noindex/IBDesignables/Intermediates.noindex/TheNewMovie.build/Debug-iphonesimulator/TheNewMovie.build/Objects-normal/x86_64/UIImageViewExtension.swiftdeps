@@ -1,0 +1,540 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UIImageViewExtension"
+provides-nominal:
+- "11TheNewMovie20UIImageViewExtensionC"
+provides-member:
+- ["11TheNewMovie20UIImageViewExtensionC", ""]
+provides-dynamic-lookup:
+- "cornerRadius"
+- "opacity"
+- "shadowColor"
+- "shadowOffset"
+- "shadowRadius"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGFloat"
+- "CGSize"
+- "Float"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "UIColor"
+- "UIImageView"
+- "UIImageViewExtension"
+depends-member:
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So7CALayerC", "shadowColor"]
+- !private ["So7CALayerC", "shadowOffset"]
+- !private ["So7CALayerC", "shadowOpacity"]
+- !private ["So7CALayerC", "shadowRadius"]
+- ["So15CALayerDelegateP", "CGSize"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "_cornerRadius"]
+- !private ["So15CALayerDelegateP", "_opacity"]
+- !private ["So15CALayerDelegateP", "_shadowColor"]
+- !private ["So15CALayerDelegateP", "_shadowOffset"]
+- !private ["So15CALayerDelegateP", "_shadowRadius"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["So13CAMediaTimingP", "shadowColor"]
+- !private ["So13CAMediaTimingP", "shadowOffset"]
+- !private ["So13CAMediaTimingP", "shadowOpacity"]
+- !private ["So13CAMediaTimingP", "shadowRadius"]
+- ["So6CGSizeV", "init"]
+- ["s7CVarArgP", "CGSize"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_cornerRadius"]
+- !private ["s7CVarArgP", "_opacity"]
+- !private ["s7CVarArgP", "_shadowColor"]
+- !private ["s7CVarArgP", "_shadowOffset"]
+- !private ["s7CVarArgP", "_shadowRadius"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "shadowColor"]
+- !private ["s7CVarArgP", "shadowOffset"]
+- !private ["s7CVarArgP", "shadowOpacity"]
+- !private ["s7CVarArgP", "shadowRadius"]
+- ["s28CustomDebugStringConvertibleP", "CGSize"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "_cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "_opacity"]
+- !private ["s28CustomDebugStringConvertibleP", "_shadowColor"]
+- !private ["s28CustomDebugStringConvertibleP", "_shadowOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "_shadowRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowColor"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOpacity"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowRadius"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "CGSize"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "_opacity"]
+- !private ["s23CustomStringConvertibleP", "_shadowColor"]
+- !private ["s23CustomStringConvertibleP", "_shadowOffset"]
+- !private ["s23CustomStringConvertibleP", "_shadowRadius"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "shadowColor"]
+- !private ["s23CustomStringConvertibleP", "shadowOffset"]
+- !private ["s23CustomStringConvertibleP", "shadowOpacity"]
+- !private ["s23CustomStringConvertibleP", "shadowRadius"]
+- ["Se", "init"]
+- ["SE", "init"]
+- ["SQ", "CGSize"]
+- ["SQ", ""]
+- !private ["SQ", "_cornerRadius"]
+- !private ["SQ", "_opacity"]
+- !private ["SQ", "_shadowColor"]
+- !private ["SQ", "_shadowOffset"]
+- !private ["SQ", "_shadowRadius"]
+- !private ["SQ", "cgColor"]
+- !private ["SQ", "cornerRadius"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "shadowColor"]
+- !private ["SQ", "shadowOffset"]
+- !private ["SQ", "shadowOpacity"]
+- !private ["SQ", "shadowRadius"]
+- ["SH", "CGSize"]
+- ["SH", ""]
+- !private ["SH", "_cornerRadius"]
+- !private ["SH", "_opacity"]
+- !private ["SH", "_shadowColor"]
+- !private ["SH", "_shadowOffset"]
+- !private ["SH", "_shadowRadius"]
+- !private ["SH", "cgColor"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "layer"]
+- !private ["SH", "shadowColor"]
+- !private ["SH", "shadowOffset"]
+- !private ["SH", "shadowOpacity"]
+- !private ["SH", "shadowRadius"]
+- ["10Kingfisher0A10CompatibleP", "CGSize"]
+- ["10Kingfisher0A10CompatibleP", ""]
+- !private ["10Kingfisher0A10CompatibleP", "_cornerRadius"]
+- !private ["10Kingfisher0A10CompatibleP", "_opacity"]
+- !private ["10Kingfisher0A10CompatibleP", "_shadowColor"]
+- !private ["10Kingfisher0A10CompatibleP", "_shadowOffset"]
+- !private ["10Kingfisher0A10CompatibleP", "_shadowRadius"]
+- !private ["10Kingfisher0A10CompatibleP", "init"]
+- !private ["10Kingfisher0A10CompatibleP", "init"]
+- !private ["10Kingfisher0A10CompatibleP", "layer"]
+- ["10Kingfisher0A15CompatibleValueP", "init"]
+- ["So8NSCodingP", "CGSize"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "_cornerRadius"]
+- !private ["So8NSCodingP", "_opacity"]
+- !private ["So8NSCodingP", "_shadowColor"]
+- !private ["So8NSCodingP", "_shadowOffset"]
+- !private ["So8NSCodingP", "_shadowRadius"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "shadowColor"]
+- !private ["So8NSCodingP", "shadowOffset"]
+- !private ["So8NSCodingP", "shadowOpacity"]
+- !private ["So8NSCodingP", "shadowRadius"]
+- !private ["So9NSCopyingP", "cgColor"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "CGSize"]
+- ["So8NSObjectC", "Float"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "_cornerRadius"]
+- ["So8NSObjectC", "_opacity"]
+- ["So8NSObjectC", "_shadowColor"]
+- ["So8NSObjectC", "_shadowOffset"]
+- ["So8NSObjectC", "_shadowRadius"]
+- !private ["So8NSObjectC", "cgColor"]
+- ["So8NSObjectC", "cornerRadius"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "opacity"]
+- ["So8NSObjectC", "shadowColor"]
+- ["So8NSObjectC", "shadowOffset"]
+- !private ["So8NSObjectC", "shadowOpacity"]
+- ["So8NSObjectC", "shadowRadius"]
+- ["So8NSObjectP", "CGSize"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "_cornerRadius"]
+- !private ["So8NSObjectP", "_opacity"]
+- !private ["So8NSObjectP", "_shadowColor"]
+- !private ["So8NSObjectP", "_shadowOffset"]
+- !private ["So8NSObjectP", "_shadowRadius"]
+- !private ["So8NSObjectP", "cgColor"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "shadowColor"]
+- !private ["So8NSObjectP", "shadowOffset"]
+- !private ["So8NSObjectP", "shadowOpacity"]
+- !private ["So8NSObjectP", "shadowRadius"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "shadowColor"]
+- !private ["So14NSSecureCodingP", "shadowOffset"]
+- !private ["So14NSSecureCodingP", "shadowOpacity"]
+- !private ["So14NSSecureCodingP", "shadowRadius"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "CGSize"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "_cornerRadius"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "_opacity"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "_shadowColor"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "_shadowOffset"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "_shadowRadius"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- ["So29UIAccessibilityIdentificationP", "CGSize"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "_cornerRadius"]
+- !private ["So29UIAccessibilityIdentificationP", "_opacity"]
+- !private ["So29UIAccessibilityIdentificationP", "_shadowColor"]
+- !private ["So29UIAccessibilityIdentificationP", "_shadowOffset"]
+- !private ["So29UIAccessibilityIdentificationP", "_shadowRadius"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- ["So12UIAppearanceP", "CGSize"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "_cornerRadius"]
+- !private ["So12UIAppearanceP", "_opacity"]
+- !private ["So12UIAppearanceP", "_shadowColor"]
+- !private ["So12UIAppearanceP", "_shadowOffset"]
+- !private ["So12UIAppearanceP", "_shadowRadius"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "layer"]
+- ["So21UIAppearanceContainerP", "CGSize"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "_cornerRadius"]
+- !private ["So21UIAppearanceContainerP", "_opacity"]
+- !private ["So21UIAppearanceContainerP", "_shadowColor"]
+- !private ["So21UIAppearanceContainerP", "_shadowOffset"]
+- !private ["So21UIAppearanceContainerP", "_shadowRadius"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So7UIColorC", "cgColor"]
+- ["So17UICoordinateSpaceP", "CGSize"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "_cornerRadius"]
+- !private ["So17UICoordinateSpaceP", "_opacity"]
+- !private ["So17UICoordinateSpaceP", "_shadowColor"]
+- !private ["So17UICoordinateSpaceP", "_shadowOffset"]
+- !private ["So17UICoordinateSpaceP", "_shadowRadius"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- ["So13UIDynamicItemP", "CGSize"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "_cornerRadius"]
+- !private ["So13UIDynamicItemP", "_opacity"]
+- !private ["So13UIDynamicItemP", "_shadowColor"]
+- !private ["So13UIDynamicItemP", "_shadowOffset"]
+- !private ["So13UIDynamicItemP", "_shadowRadius"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "layer"]
+- ["So18UIFocusEnvironmentP", "CGSize"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "_cornerRadius"]
+- !private ["So18UIFocusEnvironmentP", "_opacity"]
+- !private ["So18UIFocusEnvironmentP", "_shadowColor"]
+- !private ["So18UIFocusEnvironmentP", "_shadowOffset"]
+- !private ["So18UIFocusEnvironmentP", "_shadowRadius"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- ["So11UIFocusItemP", "CGSize"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "_cornerRadius"]
+- !private ["So11UIFocusItemP", "_opacity"]
+- !private ["So11UIFocusItemP", "_shadowColor"]
+- !private ["So11UIFocusItemP", "_shadowOffset"]
+- !private ["So11UIFocusItemP", "_shadowRadius"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "layer"]
+- ["So20UIFocusItemContainerP", "CGSize"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "_cornerRadius"]
+- !private ["So20UIFocusItemContainerP", "_opacity"]
+- !private ["So20UIFocusItemContainerP", "_shadowColor"]
+- !private ["So20UIFocusItemContainerP", "_shadowOffset"]
+- !private ["So20UIFocusItemContainerP", "_shadowRadius"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- ["So11UIImageViewC", "CGFloat"]
+- ["So11UIImageViewC", "CGSize"]
+- ["So11UIImageViewC", "Float"]
+- ["So11UIImageViewC", "UIColor"]
+- ["So11UIImageViewC", ""]
+- ["So11UIImageViewC", "_cornerRadius"]
+- ["So11UIImageViewC", "_opacity"]
+- ["So11UIImageViewC", "_shadowColor"]
+- ["So11UIImageViewC", "_shadowOffset"]
+- ["So11UIImageViewC", "_shadowRadius"]
+- ["So11UIImageViewC", "cornerRadius"]
+- ["So11UIImageViewC", "init"]
+- !private ["So11UIImageViewC", "init"]
+- !private ["So11UIImageViewC", "layer"]
+- ["So11UIImageViewC", "opacity"]
+- ["So11UIImageViewC", "shadowColor"]
+- ["So11UIImageViewC", "shadowOffset"]
+- ["So11UIImageViewC", "shadowRadius"]
+- ["11TheNewMovie20UIImageViewExtensionC", "CGFloat"]
+- ["11TheNewMovie20UIImageViewExtensionC", "CGSize"]
+- ["11TheNewMovie20UIImageViewExtensionC", "Float"]
+- ["11TheNewMovie20UIImageViewExtensionC", "UIColor"]
+- !private ["11TheNewMovie20UIImageViewExtensionC", "_cornerRadius"]
+- !private ["11TheNewMovie20UIImageViewExtensionC", "_opacity"]
+- !private ["11TheNewMovie20UIImageViewExtensionC", "_shadowColor"]
+- !private ["11TheNewMovie20UIImageViewExtensionC", "_shadowOffset"]
+- !private ["11TheNewMovie20UIImageViewExtensionC", "_shadowRadius"]
+- ["11TheNewMovie20UIImageViewExtensionC", "cornerRadius"]
+- ["11TheNewMovie20UIImageViewExtensionC", "init"]
+- !private ["11TheNewMovie20UIImageViewExtensionC", "layer"]
+- ["11TheNewMovie20UIImageViewExtensionC", "opacity"]
+- ["11TheNewMovie20UIImageViewExtensionC", "shadowColor"]
+- ["11TheNewMovie20UIImageViewExtensionC", "shadowOffset"]
+- ["11TheNewMovie20UIImageViewExtensionC", "shadowRadius"]
+- ["So30UIPasteConfigurationSupportingP", "CGSize"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "_cornerRadius"]
+- !private ["So30UIPasteConfigurationSupportingP", "_opacity"]
+- !private ["So30UIPasteConfigurationSupportingP", "_shadowColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "_shadowOffset"]
+- !private ["So30UIPasteConfigurationSupportingP", "_shadowRadius"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "CGSize"]
+- ["So11UIResponderC", "Float"]
+- ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "_cornerRadius"]
+- ["So11UIResponderC", "_opacity"]
+- ["So11UIResponderC", "_shadowColor"]
+- ["So11UIResponderC", "_shadowOffset"]
+- ["So11UIResponderC", "_shadowRadius"]
+- ["So11UIResponderC", "cornerRadius"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "opacity"]
+- ["So11UIResponderC", "shadowColor"]
+- ["So11UIResponderC", "shadowOffset"]
+- ["So11UIResponderC", "shadowRadius"]
+- ["So30UIResponderStandardEditActionsP", "CGSize"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "_cornerRadius"]
+- !private ["So30UIResponderStandardEditActionsP", "_opacity"]
+- !private ["So30UIResponderStandardEditActionsP", "_shadowColor"]
+- !private ["So30UIResponderStandardEditActionsP", "_shadowOffset"]
+- !private ["So30UIResponderStandardEditActionsP", "_shadowRadius"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- ["So18UITraitEnvironmentP", "CGSize"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "_cornerRadius"]
+- !private ["So18UITraitEnvironmentP", "_opacity"]
+- !private ["So18UITraitEnvironmentP", "_shadowColor"]
+- !private ["So18UITraitEnvironmentP", "_shadowOffset"]
+- !private ["So18UITraitEnvironmentP", "_shadowRadius"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- ["So23UIUserActivityRestoringP", "CGSize"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "_cornerRadius"]
+- !private ["So23UIUserActivityRestoringP", "_opacity"]
+- !private ["So23UIUserActivityRestoringP", "_shadowColor"]
+- !private ["So23UIUserActivityRestoringP", "_shadowOffset"]
+- !private ["So23UIUserActivityRestoringP", "_shadowRadius"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- ["So6UIViewC", "CGFloat"]
+- ["So6UIViewC", "CGSize"]
+- ["So6UIViewC", "Float"]
+- ["So6UIViewC", "UIColor"]
+- ["So6UIViewC", "_cornerRadius"]
+- ["So6UIViewC", "_opacity"]
+- ["So6UIViewC", "_shadowColor"]
+- ["So6UIViewC", "_shadowOffset"]
+- ["So6UIViewC", "_shadowRadius"]
+- ["So6UIViewC", "cornerRadius"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "layer"]
+- ["So6UIViewC", "opacity"]
+- ["So6UIViewC", "shadowColor"]
+- ["So6UIViewC", "shadowOffset"]
+- ["So6UIViewC", "shadowRadius"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "CGSize"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "_cornerRadius"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "_opacity"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "_shadowColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "_shadowOffset"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "_shadowRadius"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_opacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_shadowColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_shadowOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_shadowRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOpacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowRadius"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "So7CALayerC"
+- "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "So6CGSizeV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "SH"
+- "10Kingfisher0A10CompatibleP"
+- "10Kingfisher0A15CompatibleValueP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So11UIImageViewC"
+- "11TheNewMovie20UIImageViewExtensionC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3b4aa81fb37a883e7fe49677c2d20af5"

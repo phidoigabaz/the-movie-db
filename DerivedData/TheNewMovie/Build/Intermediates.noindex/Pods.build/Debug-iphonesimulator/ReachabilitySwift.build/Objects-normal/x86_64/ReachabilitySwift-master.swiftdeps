@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "510099aaeee7ab1f1ef2ba6e80d846ec"
+build_time: [1559292925, 722491000]
+inputs:
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/ReachabilitySwift/Reachability/Reachability.swift": [1559292786, 0]

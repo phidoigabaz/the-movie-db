@@ -1,0 +1,622 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "kClientVersionHeaderField"
+- "kClientOSHeaderField"
+- "baseURL"
+- "apiVersion"
+- "APIRequestProvider"
+provides-nominal:
+- "11TheNewMovie18APIRequestProviderC"
+provides-member:
+- ["11TheNewMovie18APIRequestProviderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- "APIRequestProvider"
+- "AssignmentPrecedence"
+- !private "Bundle"
+- "CastingPrecedence"
+- !private "Constants"
+- "DataRequest"
+- !private "FloatLiteralType"
+- "HTTPHeaders"
+- "Int"
+- !private "IntegerLiteralType"
+- "NSObject"
+- "SessionManager"
+- "String"
+- "StringLiteralType"
+- !private "UIDevice"
+- !private "URLEncoding"
+- !private "URLSessionConfiguration"
+- !private "UnicodeScalarType"
+- "apiVersion"
+- "baseURL"
+- "kClientOSHeaderField"
+- "kClientVersionHeaderField"
+depends-member:
+- ["11TheNewMovie18APIRequestProviderC", "APIRequestProvider"]
+- !private ["11TheNewMovie18APIRequestProviderC", "Bundle"]
+- !private ["11TheNewMovie18APIRequestProviderC", "Constants"]
+- ["11TheNewMovie18APIRequestProviderC", "DataRequest"]
+- ["11TheNewMovie18APIRequestProviderC", "HTTPHeaders"]
+- ["11TheNewMovie18APIRequestProviderC", "Int"]
+- ["11TheNewMovie18APIRequestProviderC", "SessionManager"]
+- ["11TheNewMovie18APIRequestProviderC", "String"]
+- !private ["11TheNewMovie18APIRequestProviderC", "UIDevice"]
+- !private ["11TheNewMovie18APIRequestProviderC", "URLEncoding"]
+- !private ["11TheNewMovie18APIRequestProviderC", "URLSessionConfiguration"]
+- !private ["11TheNewMovie18APIRequestProviderC", "_headers"]
+- !private ["11TheNewMovie18APIRequestProviderC", "_headersSpot"]
+- !private ["11TheNewMovie18APIRequestProviderC", "_requestURL"]
+- ["11TheNewMovie18APIRequestProviderC", "alamoFireManager"]
+- !private ["11TheNewMovie18APIRequestProviderC", "apiVersion"]
+- ["11TheNewMovie18APIRequestProviderC", "baseURL"]
+- ["11TheNewMovie18APIRequestProviderC", "commonParam"]
+- ["11TheNewMovie18APIRequestProviderC", "getMovieDetail"]
+- ["11TheNewMovie18APIRequestProviderC", "getMovieDetailCast"]
+- ["11TheNewMovie18APIRequestProviderC", "getMovieDetailReviews"]
+- ["11TheNewMovie18APIRequestProviderC", "getMoviePopular"]
+- ["11TheNewMovie18APIRequestProviderC", "getMovieTrending"]
+- ["11TheNewMovie18APIRequestProviderC", "getRecommendationMovie"]
+- ["11TheNewMovie18APIRequestProviderC", "headers"]
+- ["11TheNewMovie18APIRequestProviderC", "headersSpot"]
+- ["11TheNewMovie18APIRequestProviderC", "init"]
+- !private ["11TheNewMovie18APIRequestProviderC", "kClientOSHeaderField"]
+- !private ["11TheNewMovie18APIRequestProviderC", "kClientVersionHeaderField"]
+- ["11TheNewMovie18APIRequestProviderC", "requestURL"]
+- ["11TheNewMovie18APIRequestProviderC", "shareInstance"]
+- !private ["SK", "append"]
+- !private ["SK", "appending"]
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["So8NSBundleC", "infoDictionary"]
+- !private ["So8NSBundleC", "main"]
+- ["s7CVarArgP", "APIRequestProvider"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "Constants"]
+- !private ["s7CVarArgP", "SessionManager"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UIDevice"]
+- !private ["s7CVarArgP", "URLEncoding"]
+- !private ["s7CVarArgP", "URLSessionConfiguration"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_headers"]
+- !private ["s7CVarArgP", "_headersSpot"]
+- !private ["s7CVarArgP", "_requestURL"]
+- !private ["s7CVarArgP", "alamoFireManager"]
+- !private ["s7CVarArgP", "apiVersion"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "appending"]
+- ["s7CVarArgP", "baseURL"]
+- !private ["s7CVarArgP", "commonParam"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "headers"]
+- !private ["s7CVarArgP", "headersSpot"]
+- !private ["s7CVarArgP", "identifierForVendor"]
+- !private ["s7CVarArgP", "infoDictionary"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "kClientOSHeaderField"]
+- !private ["s7CVarArgP", "kClientVersionHeaderField"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "requestURL"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "timeoutIntervalForResource"]
+- !private ["Sl", "append"]
+- !private ["Sl", "appending"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "append"]
+- !private ["SL", "appending"]
+- ["SL", "init"]
+- ["SL", "init"]
+- !private ["11TheNewMovie9ConstantsV", "API_KEY"]
+- ["s28CustomDebugStringConvertibleP", "APIRequestProvider"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "Constants"]
+- !private ["s28CustomDebugStringConvertibleP", "SessionManager"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UIDevice"]
+- !private ["s28CustomDebugStringConvertibleP", "URLEncoding"]
+- !private ["s28CustomDebugStringConvertibleP", "URLSessionConfiguration"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "_headers"]
+- !private ["s28CustomDebugStringConvertibleP", "_headersSpot"]
+- !private ["s28CustomDebugStringConvertibleP", "_requestURL"]
+- !private ["s28CustomDebugStringConvertibleP", "alamoFireManager"]
+- !private ["s28CustomDebugStringConvertibleP", "apiVersion"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "appending"]
+- ["s28CustomDebugStringConvertibleP", "baseURL"]
+- !private ["s28CustomDebugStringConvertibleP", "commonParam"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "headers"]
+- !private ["s28CustomDebugStringConvertibleP", "headersSpot"]
+- !private ["s28CustomDebugStringConvertibleP", "identifierForVendor"]
+- !private ["s28CustomDebugStringConvertibleP", "infoDictionary"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "kClientOSHeaderField"]
+- !private ["s28CustomDebugStringConvertibleP", "kClientVersionHeaderField"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "requestURL"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeoutIntervalForResource"]
+- !private ["s28CustomDebugStringConvertibleP", "uuidString"]
+- !private ["s29CustomPlaygroundQuickLookableP", "append"]
+- !private ["s29CustomPlaygroundQuickLookableP", "appending"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "appending"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "uuidString"]
+- ["s23CustomStringConvertibleP", "APIRequestProvider"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "Constants"]
+- !private ["s23CustomStringConvertibleP", "SessionManager"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UIDevice"]
+- !private ["s23CustomStringConvertibleP", "URLEncoding"]
+- !private ["s23CustomStringConvertibleP", "URLSessionConfiguration"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_headers"]
+- !private ["s23CustomStringConvertibleP", "_headersSpot"]
+- !private ["s23CustomStringConvertibleP", "_requestURL"]
+- !private ["s23CustomStringConvertibleP", "alamoFireManager"]
+- !private ["s23CustomStringConvertibleP", "apiVersion"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appending"]
+- ["s23CustomStringConvertibleP", "baseURL"]
+- !private ["s23CustomStringConvertibleP", "commonParam"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "headers"]
+- !private ["s23CustomStringConvertibleP", "headersSpot"]
+- !private ["s23CustomStringConvertibleP", "identifierForVendor"]
+- !private ["s23CustomStringConvertibleP", "infoDictionary"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "kClientOSHeaderField"]
+- !private ["s23CustomStringConvertibleP", "kClientVersionHeaderField"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "requestURL"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeoutIntervalForResource"]
+- !private ["s23CustomStringConvertibleP", "uuidString"]
+- !private ["Se", "append"]
+- !private ["Se", "appending"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "uuidString"]
+- !private ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "append"]
+- !private ["SE", "appending"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "uuidString"]
+- ["SQ", "APIRequestProvider"]
+- !private ["SQ", "Bundle"]
+- !private ["SQ", "Constants"]
+- !private ["SQ", "SessionManager"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UIDevice"]
+- !private ["SQ", "URLEncoding"]
+- !private ["SQ", "URLSessionConfiguration"]
+- ["SQ", ""]
+- !private ["SQ", "_headers"]
+- !private ["SQ", "_headersSpot"]
+- !private ["SQ", "_requestURL"]
+- !private ["SQ", "alamoFireManager"]
+- !private ["SQ", "apiVersion"]
+- !private ["SQ", "append"]
+- !private ["SQ", "appending"]
+- ["SQ", "baseURL"]
+- !private ["SQ", "commonParam"]
+- !private ["SQ", "current"]
+- !private ["SQ", "default"]
+- !private ["SQ", "get"]
+- !private ["SQ", "headers"]
+- !private ["SQ", "headersSpot"]
+- !private ["SQ", "identifierForVendor"]
+- !private ["SQ", "infoDictionary"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "kClientOSHeaderField"]
+- !private ["SQ", "kClientVersionHeaderField"]
+- !private ["SQ", "main"]
+- !private ["SQ", "requestURL"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "timeoutIntervalForResource"]
+- !private ["SQ", "uuidString"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "appending"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "append"]
+- !private ["s26ExpressibleByStringLiteralP", "appending"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "append"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "appending"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["9Alamofire10HTTPMethodO", "get"]
+- ["SH", "APIRequestProvider"]
+- !private ["SH", "Bundle"]
+- !private ["SH", "Constants"]
+- !private ["SH", "SessionManager"]
+- !private ["SH", "String"]
+- !private ["SH", "UIDevice"]
+- !private ["SH", "URLEncoding"]
+- !private ["SH", "URLSessionConfiguration"]
+- ["SH", ""]
+- !private ["SH", "_headers"]
+- !private ["SH", "_headersSpot"]
+- !private ["SH", "_requestURL"]
+- !private ["SH", "alamoFireManager"]
+- !private ["SH", "apiVersion"]
+- !private ["SH", "append"]
+- !private ["SH", "appending"]
+- ["SH", "baseURL"]
+- !private ["SH", "commonParam"]
+- !private ["SH", "current"]
+- !private ["SH", "default"]
+- !private ["SH", "get"]
+- !private ["SH", "headers"]
+- !private ["SH", "headersSpot"]
+- !private ["SH", "identifierForVendor"]
+- !private ["SH", "infoDictionary"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "kClientOSHeaderField"]
+- !private ["SH", "kClientVersionHeaderField"]
+- !private ["SH", "main"]
+- !private ["SH", "requestURL"]
+- !private ["SH", "subscript"]
+- !private ["SH", "timeoutIntervalForResource"]
+- !private ["SH", "uuidString"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "append"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "appending"]
+- ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "append"]
+- !private ["10Kingfisher0A15CompatibleValueP", "appending"]
+- ["10Kingfisher0A15CompatibleValueP", "init"]
+- ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["s25LosslessStringConvertibleP", "append"]
+- !private ["s25LosslessStringConvertibleP", "appending"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "append"]
+- !private ["s10MirrorPathP", "appending"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "append"]
+- !private ["So8NSCodingP", "appending"]
+- !private ["So9NSCopyingP", "append"]
+- !private ["So9NSCopyingP", "appending"]
+- !private ["So9NSCopyingP", "default"]
+- !private ["So9NSCopyingP", "timeoutIntervalForResource"]
+- !private ["So21NSItemProviderReadingP", "append"]
+- !private ["So21NSItemProviderReadingP", "appending"]
+- !private ["So21NSItemProviderWritingP", "append"]
+- !private ["So21NSItemProviderWritingP", "appending"]
+- !private ["So16NSMutableCopyingP", "append"]
+- !private ["So16NSMutableCopyingP", "appending"]
+- ["So8NSObjectC", "APIRequestProvider"]
+- !private ["So8NSObjectC", "Bundle"]
+- !private ["So8NSObjectC", "Constants"]
+- ["So8NSObjectC", "DataRequest"]
+- ["So8NSObjectC", "HTTPHeaders"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "SessionManager"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIDevice"]
+- !private ["So8NSObjectC", "URLEncoding"]
+- !private ["So8NSObjectC", "URLSessionConfiguration"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "_headers"]
+- ["So8NSObjectC", "_headersSpot"]
+- ["So8NSObjectC", "_requestURL"]
+- ["So8NSObjectC", "alamoFireManager"]
+- !private ["So8NSObjectC", "apiVersion"]
+- !private ["So8NSObjectC", "append"]
+- !private ["So8NSObjectC", "appending"]
+- ["So8NSObjectC", "baseURL"]
+- ["So8NSObjectC", "commonParam"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "getMovieDetail"]
+- ["So8NSObjectC", "getMovieDetailCast"]
+- ["So8NSObjectC", "getMovieDetailReviews"]
+- ["So8NSObjectC", "getMoviePopular"]
+- ["So8NSObjectC", "getMovieTrending"]
+- ["So8NSObjectC", "getRecommendationMovie"]
+- ["So8NSObjectC", "headers"]
+- ["So8NSObjectC", "headersSpot"]
+- !private ["So8NSObjectC", "identifierForVendor"]
+- !private ["So8NSObjectC", "infoDictionary"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "kClientOSHeaderField"]
+- !private ["So8NSObjectC", "kClientVersionHeaderField"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "requestURL"]
+- ["So8NSObjectC", "shareInstance"]
+- !private ["So8NSObjectC", "timeoutIntervalForResource"]
+- ["So8NSObjectP", "APIRequestProvider"]
+- !private ["So8NSObjectP", "Bundle"]
+- !private ["So8NSObjectP", "Constants"]
+- !private ["So8NSObjectP", "SessionManager"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "UIDevice"]
+- !private ["So8NSObjectP", "URLEncoding"]
+- !private ["So8NSObjectP", "URLSessionConfiguration"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "_headers"]
+- !private ["So8NSObjectP", "_headersSpot"]
+- !private ["So8NSObjectP", "_requestURL"]
+- !private ["So8NSObjectP", "alamoFireManager"]
+- !private ["So8NSObjectP", "apiVersion"]
+- !private ["So8NSObjectP", "append"]
+- !private ["So8NSObjectP", "appending"]
+- ["So8NSObjectP", "baseURL"]
+- !private ["So8NSObjectP", "commonParam"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "headers"]
+- !private ["So8NSObjectP", "headersSpot"]
+- !private ["So8NSObjectP", "identifierForVendor"]
+- !private ["So8NSObjectP", "infoDictionary"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "kClientOSHeaderField"]
+- !private ["So8NSObjectP", "kClientVersionHeaderField"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "requestURL"]
+- !private ["So8NSObjectP", "timeoutIntervalForResource"]
+- !private ["So14NSSecureCodingP", "append"]
+- !private ["So14NSSecureCodingP", "appending"]
+- !private ["So8NSStringC", "append"]
+- !private ["So8NSStringC", "appending"]
+- !private ["9Alamofire17ParameterEncodingP", "queryString"]
+- !private ["Sm", "append"]
+- !private ["Sm", "appending"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- !private ["SY", "get"]
+- !private ["10Foundation20ReferenceConvertibleP", "uuidString"]
+- !private ["ST", "append"]
+- !private ["ST", "appending"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["9Alamofire14SessionManagerC", "init"]
+- !private ["9Alamofire14SessionManagerC", "request"]
+- !private ["SS", "append"]
+- !private ["SS", "appending"]
+- ["SS", "init"]
+- ["SS", "init"]
+- !private ["Sy", "append"]
+- !private ["Sy", "appending"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "append"]
+- !private ["s16TextOutputStreamP", "appending"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "append"]
+- !private ["s20TextOutputStreamableP", "appending"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "identifierForVendor"]
+- !private ["9Alamofire14URLConvertibleP", "append"]
+- !private ["9Alamofire14URLConvertibleP", "appending"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire11URLEncodingV", "queryString"]
+- !private ["So25NSURLSessionConfigurationC", "default"]
+- !private ["So25NSURLSessionConfigurationC", "timeoutIntervalForResource"]
+- !private ["10Foundation4UUIDV", "uuidString"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "appending"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "append"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "appending"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "append"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "appending"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "append"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "appending"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "append"]
+- !private ["s33_ExpressibleByStringInterpolationP", "appending"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "appending"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "APIRequestProvider"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Constants"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SessionManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIDevice"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URLEncoding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URLSessionConfiguration"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_headers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_headersSpot"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_requestURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alamoFireManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "apiVersion"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "append"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appending"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "baseURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commonParam"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "headers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "headersSpot"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "identifierForVendor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "infoDictionary"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "kClientOSHeaderField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "kClientVersionHeaderField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "requestURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeoutIntervalForResource"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "appending"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "uuidString"]
+- !private ["s16_SwiftStringViewP", "append"]
+- !private ["s16_SwiftStringViewP", "appending"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "11TheNewMovie18APIRequestProviderC"
+- "SK"
+- !private "So8NSBundleC"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- !private "11TheNewMovie9ConstantsV"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "SD"
+- "SE"
+- "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9Alamofire10HTTPMethodO"
+- "SH"
+- "10SwiftyJSON17JSONSubscriptTypeP"
+- "10Kingfisher0A15CompatibleValueP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "9Alamofire17ParameterEncodingP"
+- "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "ST"
+- !private "9Alamofire14SessionManagerC"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So8UIDeviceC"
+- "9Alamofire14URLConvertibleP"
+- !private "9Alamofire11URLEncodingV"
+- !private "So25NSURLSessionConfigurationC"
+- !private "10Foundation4UUIDV"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f6db60c2b6280c9d0355bd5735e1e38c"

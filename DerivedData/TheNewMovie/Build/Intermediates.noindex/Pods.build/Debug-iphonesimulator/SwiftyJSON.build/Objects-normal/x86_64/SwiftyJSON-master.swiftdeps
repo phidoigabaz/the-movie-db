@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "47fc1f530b66ff658685814af1e68e4c"
+build_time: [1559292935, 81781000]
+inputs:
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1559292786, 0]

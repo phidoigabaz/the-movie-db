@@ -24,7 +24,7 @@ class MovieDetailViewModel {
         }
     }
     
-    class func presentMovieDetailModule(_ movieId: Int, navigation: UINavigationController) {
+    class func presentMovieDetailModule(_ movieId: Int, navigation: UIViewController) {
         let detailVC = DetailViewController.init(movieId)
         navigation.present(detailVC, animated: true, completion: nil)
     }

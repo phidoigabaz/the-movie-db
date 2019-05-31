@@ -1,0 +1,700 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HomeViewController"
+provides-nominal:
+- "11TheNewMovie18HomeViewControllerC"
+provides-member:
+- ["11TheNewMovie18HomeViewControllerC", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BaseViewController"
+- "BooleanLiteralType"
+- "CardSliderDataSource"
+- "CardSliderItem"
+- !private "CardSliderViewController"
+- "HomeViewController"
+- "HomeViewModel"
+- "Int"
+- "StringLiteralType"
+- !private "TernaryPrecedence"
+- "UnicodeScalarType"
+- !private "print"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "count"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- ["11TheNewMovie18BaseViewControllerC", "CardSliderItem"]
+- !private ["11TheNewMovie18BaseViewControllerC", "CardSliderViewController"]
+- ["11TheNewMovie18BaseViewControllerC", "HomeViewModel"]
+- ["11TheNewMovie18BaseViewControllerC", "Int"]
+- ["11TheNewMovie18BaseViewControllerC", ""]
+- !private ["11TheNewMovie18BaseViewControllerC", "deinit"]
+- ["11TheNewMovie18BaseViewControllerC", "getData"]
+- !private ["11TheNewMovie18BaseViewControllerC", "hideHude"]
+- ["11TheNewMovie18BaseViewControllerC", "init"]
+- !private ["11TheNewMovie18BaseViewControllerC", "init"]
+- ["11TheNewMovie18BaseViewControllerC", "item"]
+- ["11TheNewMovie18BaseViewControllerC", "numberOfItems"]
+- !private ["11TheNewMovie18BaseViewControllerC", "present"]
+- !private ["11TheNewMovie18BaseViewControllerC", "print"]
+- !private ["11TheNewMovie18BaseViewControllerC", "showHud"]
+- !private ["11TheNewMovie18BaseViewControllerC", "view"]
+- ["11TheNewMovie18BaseViewControllerC", "viewDidLoad"]
+- ["11TheNewMovie18BaseViewControllerC", "viewModel"]
+- !private ["SK", "count"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "CardSliderViewController"]
+- ["s7CVarArgP", "HomeViewModel"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "getData"]
+- !private ["s7CVarArgP", "hideHude"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "item"]
+- !private ["s7CVarArgP", "movies"]
+- ["s7CVarArgP", "numberOfItems"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "showHud"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "title"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "viewModel"]
+- !private ["s7CVarArgP", "with"]
+- !private ["11TheNewMovie20CardSliderDataSourceP", "CardSliderViewController"]
+- ["11TheNewMovie20CardSliderDataSourceP", "HomeViewModel"]
+- ["11TheNewMovie20CardSliderDataSourceP", ""]
+- !private ["11TheNewMovie20CardSliderDataSourceP", "getData"]
+- !private ["11TheNewMovie20CardSliderDataSourceP", "hideHude"]
+- ["11TheNewMovie20CardSliderDataSourceP", "item"]
+- ["11TheNewMovie20CardSliderDataSourceP", "numberOfItems"]
+- !private ["11TheNewMovie20CardSliderDataSourceP", "present"]
+- !private ["11TheNewMovie20CardSliderDataSourceP", "print"]
+- !private ["11TheNewMovie20CardSliderDataSourceP", "showHud"]
+- !private ["11TheNewMovie20CardSliderDataSourceP", "view"]
+- !private ["11TheNewMovie20CardSliderDataSourceP", "viewModel"]
+- !private ["11TheNewMovie24CardSliderViewControllerC", "movies"]
+- !private ["11TheNewMovie24CardSliderViewControllerC", "title"]
+- !private ["11TheNewMovie24CardSliderViewControllerC", "with"]
+- !private ["11TheNewMovie19CardsLayoutDelegateP", "movies"]
+- !private ["11TheNewMovie19CardsLayoutDelegateP", "title"]
+- !private ["11TheNewMovie19CardsLayoutDelegateP", "with"]
+- !private ["Sl", "count"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CardSliderViewController"]
+- ["s28CustomDebugStringConvertibleP", "HomeViewModel"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "getData"]
+- !private ["s28CustomDebugStringConvertibleP", "hideHude"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "item"]
+- !private ["s28CustomDebugStringConvertibleP", "movies"]
+- ["s28CustomDebugStringConvertibleP", "numberOfItems"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "showHud"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "viewModel"]
+- !private ["s28CustomDebugStringConvertibleP", "with"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "CardSliderViewController"]
+- ["s23CustomStringConvertibleP", "HomeViewModel"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "getData"]
+- !private ["s23CustomStringConvertibleP", "hideHude"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "item"]
+- !private ["s23CustomStringConvertibleP", "movies"]
+- ["s23CustomStringConvertibleP", "numberOfItems"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "showHud"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "viewModel"]
+- !private ["s23CustomStringConvertibleP", "with"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "CardSliderViewController"]
+- ["SQ", "HomeViewModel"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "count"]
+- !private ["SQ", "getData"]
+- !private ["SQ", "hideHude"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "item"]
+- !private ["SQ", "movies"]
+- ["SQ", "numberOfItems"]
+- !private ["SQ", "present"]
+- !private ["SQ", "print"]
+- !private ["SQ", "showHud"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "title"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "viewModel"]
+- !private ["SQ", "with"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "CardSliderViewController"]
+- ["SH", "HomeViewModel"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "count"]
+- !private ["SH", "getData"]
+- !private ["SH", "hideHude"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "item"]
+- !private ["SH", "movies"]
+- ["SH", "numberOfItems"]
+- !private ["SH", "present"]
+- !private ["SH", "print"]
+- !private ["SH", "showHud"]
+- !private ["SH", "subscript"]
+- !private ["SH", "title"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "viewModel"]
+- !private ["SH", "with"]
+- ["11TheNewMovie18HomeViewControllerC", "CardSliderItem"]
+- !private ["11TheNewMovie18HomeViewControllerC", "CardSliderViewController"]
+- ["11TheNewMovie18HomeViewControllerC", "HomeViewModel"]
+- ["11TheNewMovie18HomeViewControllerC", "Int"]
+- ["11TheNewMovie18HomeViewControllerC", "deinit"]
+- ["11TheNewMovie18HomeViewControllerC", "getData"]
+- !private ["11TheNewMovie18HomeViewControllerC", "hideHude"]
+- ["11TheNewMovie18HomeViewControllerC", "init"]
+- ["11TheNewMovie18HomeViewControllerC", "item"]
+- ["11TheNewMovie18HomeViewControllerC", "numberOfItems"]
+- !private ["11TheNewMovie18HomeViewControllerC", "present"]
+- !private ["11TheNewMovie18HomeViewControllerC", "print"]
+- !private ["11TheNewMovie18HomeViewControllerC", "showHud"]
+- !private ["11TheNewMovie18HomeViewControllerC", "view"]
+- ["11TheNewMovie18HomeViewControllerC", "viewDidLoad"]
+- ["11TheNewMovie18HomeViewControllerC", "viewModel"]
+- !private ["11TheNewMovie13HomeViewModelC", "getMovieTrendingMoya"]
+- ["11TheNewMovie13HomeViewModelC", "init"]
+- !private ["11TheNewMovie13HomeViewModelC", "isLoading"]
+- !private ["11TheNewMovie13HomeViewModelC", "movies"]
+- !private ["11TheNewMovie13HomeViewModelC", "updateLoadingStatus"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["11TheNewMovie6MoviesV", "deinit"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["So8NSCodingP", "CardSliderViewController"]
+- ["So8NSCodingP", "HomeViewModel"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "getData"]
+- !private ["So8NSCodingP", "hideHude"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "item"]
+- !private ["So8NSCodingP", "movies"]
+- ["So8NSCodingP", "numberOfItems"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "showHud"]
+- !private ["So8NSCodingP", "title"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "viewModel"]
+- !private ["So8NSCodingP", "with"]
+- !private ["So26NSExtensionRequestHandlingP", "CardSliderViewController"]
+- ["So26NSExtensionRequestHandlingP", "HomeViewModel"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "getData"]
+- !private ["So26NSExtensionRequestHandlingP", "hideHude"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "item"]
+- !private ["So26NSExtensionRequestHandlingP", "movies"]
+- ["So26NSExtensionRequestHandlingP", "numberOfItems"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "showHud"]
+- !private ["So26NSExtensionRequestHandlingP", "title"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "viewModel"]
+- !private ["So26NSExtensionRequestHandlingP", "with"]
+- ["So8NSObjectC", "CardSliderItem"]
+- !private ["So8NSObjectC", "CardSliderViewController"]
+- ["So8NSObjectC", "HomeViewModel"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "getData"]
+- !private ["So8NSObjectC", "hideHude"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "item"]
+- !private ["So8NSObjectC", "movies"]
+- ["So8NSObjectC", "numberOfItems"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "showHud"]
+- !private ["So8NSObjectC", "title"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewModel"]
+- !private ["So8NSObjectC", "with"]
+- !private ["So8NSObjectP", "CardSliderViewController"]
+- ["So8NSObjectP", "HomeViewModel"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "getData"]
+- !private ["So8NSObjectP", "hideHude"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "item"]
+- !private ["So8NSObjectP", "movies"]
+- ["So8NSObjectP", "numberOfItems"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "showHud"]
+- !private ["So8NSObjectP", "title"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "viewModel"]
+- !private ["So8NSObjectP", "with"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["ST", "count"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So21UIAppearanceContainerP", "CardSliderViewController"]
+- ["So21UIAppearanceContainerP", "HomeViewModel"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "getData"]
+- !private ["So21UIAppearanceContainerP", "hideHude"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "item"]
+- !private ["So21UIAppearanceContainerP", "movies"]
+- ["So21UIAppearanceContainerP", "numberOfItems"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "showHud"]
+- !private ["So21UIAppearanceContainerP", "title"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "viewModel"]
+- !private ["So21UIAppearanceContainerP", "with"]
+- !private ["So26UICollectionViewDataSourceP", "movies"]
+- !private ["So26UICollectionViewDataSourceP", "title"]
+- !private ["So26UICollectionViewDataSourceP", "with"]
+- !private ["So24UICollectionViewDelegateP", "movies"]
+- !private ["So24UICollectionViewDelegateP", "title"]
+- !private ["So24UICollectionViewDelegateP", "with"]
+- !private ["So18UIContentContainerP", "CardSliderViewController"]
+- ["So18UIContentContainerP", "HomeViewModel"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "getData"]
+- !private ["So18UIContentContainerP", "hideHude"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "item"]
+- !private ["So18UIContentContainerP", "movies"]
+- ["So18UIContentContainerP", "numberOfItems"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "showHud"]
+- !private ["So18UIContentContainerP", "title"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "viewModel"]
+- !private ["So18UIContentContainerP", "with"]
+- !private ["So18UIFocusEnvironmentP", "CardSliderViewController"]
+- ["So18UIFocusEnvironmentP", "HomeViewModel"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "getData"]
+- !private ["So18UIFocusEnvironmentP", "hideHude"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "item"]
+- !private ["So18UIFocusEnvironmentP", "movies"]
+- ["So18UIFocusEnvironmentP", "numberOfItems"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "showHud"]
+- !private ["So18UIFocusEnvironmentP", "title"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "viewModel"]
+- !private ["So18UIFocusEnvironmentP", "with"]
+- !private ["So30UIPasteConfigurationSupportingP", "CardSliderViewController"]
+- ["So30UIPasteConfigurationSupportingP", "HomeViewModel"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "getData"]
+- !private ["So30UIPasteConfigurationSupportingP", "hideHude"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "item"]
+- !private ["So30UIPasteConfigurationSupportingP", "movies"]
+- ["So30UIPasteConfigurationSupportingP", "numberOfItems"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "showHud"]
+- !private ["So30UIPasteConfigurationSupportingP", "title"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewModel"]
+- !private ["So30UIPasteConfigurationSupportingP", "with"]
+- ["So11UIResponderC", "CardSliderItem"]
+- !private ["So11UIResponderC", "CardSliderViewController"]
+- ["So11UIResponderC", "HomeViewModel"]
+- ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "getData"]
+- !private ["So11UIResponderC", "hideHude"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "item"]
+- !private ["So11UIResponderC", "movies"]
+- ["So11UIResponderC", "numberOfItems"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "showHud"]
+- !private ["So11UIResponderC", "title"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewModel"]
+- !private ["So11UIResponderC", "with"]
+- !private ["So30UIResponderStandardEditActionsP", "CardSliderViewController"]
+- ["So30UIResponderStandardEditActionsP", "HomeViewModel"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "getData"]
+- !private ["So30UIResponderStandardEditActionsP", "hideHude"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "item"]
+- !private ["So30UIResponderStandardEditActionsP", "movies"]
+- ["So30UIResponderStandardEditActionsP", "numberOfItems"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "showHud"]
+- !private ["So30UIResponderStandardEditActionsP", "title"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "viewModel"]
+- !private ["So30UIResponderStandardEditActionsP", "with"]
+- !private ["So20UIScrollViewDelegateP", "movies"]
+- !private ["So20UIScrollViewDelegateP", "title"]
+- !private ["So20UIScrollViewDelegateP", "with"]
+- !private ["So16UIStateRestoringP", "CardSliderViewController"]
+- ["So16UIStateRestoringP", "HomeViewModel"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "getData"]
+- !private ["So16UIStateRestoringP", "hideHude"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "item"]
+- !private ["So16UIStateRestoringP", "movies"]
+- ["So16UIStateRestoringP", "numberOfItems"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "showHud"]
+- !private ["So16UIStateRestoringP", "title"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "viewModel"]
+- !private ["So16UIStateRestoringP", "with"]
+- !private ["So18UITraitEnvironmentP", "CardSliderViewController"]
+- ["So18UITraitEnvironmentP", "HomeViewModel"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "getData"]
+- !private ["So18UITraitEnvironmentP", "hideHude"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "item"]
+- !private ["So18UITraitEnvironmentP", "movies"]
+- ["So18UITraitEnvironmentP", "numberOfItems"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "showHud"]
+- !private ["So18UITraitEnvironmentP", "title"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "viewModel"]
+- !private ["So18UITraitEnvironmentP", "with"]
+- !private ["So23UIUserActivityRestoringP", "CardSliderViewController"]
+- ["So23UIUserActivityRestoringP", "HomeViewModel"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "getData"]
+- !private ["So23UIUserActivityRestoringP", "hideHude"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "item"]
+- !private ["So23UIUserActivityRestoringP", "movies"]
+- ["So23UIUserActivityRestoringP", "numberOfItems"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "showHud"]
+- !private ["So23UIUserActivityRestoringP", "title"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "viewModel"]
+- !private ["So23UIUserActivityRestoringP", "with"]
+- ["So16UIViewControllerC", "CardSliderItem"]
+- !private ["So16UIViewControllerC", "CardSliderViewController"]
+- ["So16UIViewControllerC", "HomeViewModel"]
+- ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "getData"]
+- !private ["So16UIViewControllerC", "hideHude"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "item"]
+- !private ["So16UIViewControllerC", "movies"]
+- ["So16UIViewControllerC", "numberOfItems"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "print"]
+- !private ["So16UIViewControllerC", "showHud"]
+- !private ["So16UIViewControllerC", "title"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewModel"]
+- !private ["So16UIViewControllerC", "with"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CardSliderViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "HomeViewModel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hideHude"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "item"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "movies"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "numberOfItems"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showHud"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewModel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "with"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- "11TheNewMovie18BaseViewControllerC"
+- !private "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- "11TheNewMovie20CardSliderDataSourceP"
+- !private "11TheNewMovie24CardSliderViewControllerC"
+- !private "11TheNewMovie19CardsLayoutDelegateP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "11TheNewMovie18HomeViewControllerC"
+- "11TheNewMovie13HomeViewModelC"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "10Kingfisher0A15CompatibleValueP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "11TheNewMovie6MoviesV"
+- !private "SM"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So21UIAppearanceContainerP"
+- !private "So26UICollectionViewDataSourceP"
+- !private "So24UICollectionViewDelegateP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6833e0d302d33dbd661cd0412032bf80"

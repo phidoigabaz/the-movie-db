@@ -1,0 +1,652 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RatingView"
+provides-nominal:
+- "11TheNewMovie10RatingViewC"
+provides-member:
+- ["11TheNewMovie10RatingViewC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "=="
+- !private ">"
+- !private "??"
+- "Array"
+- "AssignmentPrecedence"
+- !private "CGAffineTransform"
+- "CGFloat"
+- "CastingPrecedence"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "RatingView"
+- !private "TernaryPrecedence"
+- !private "TimeInterval"
+- !private "UIImageView"
+- "UIStackView"
+- !private "UIView"
+depends-member:
+- !private ["Sa", "enumerated"]
+- !private ["Sa", "filter"]
+- !private ["Sa", "forEach"]
+- !private ["s13ArrayProtocolP", "enumerated"]
+- !private ["s13ArrayProtocolP", "filter"]
+- !private ["s13ArrayProtocolP", "forEach"]
+- !private ["SK", "enumerated"]
+- !private ["SK", "filter"]
+- !private ["SK", "forEach"]
+- !private ["SB", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "CGAffineTransform"]
+- !private ["So15CALayerDelegateP", "TimeInterval"]
+- !private ["So15CALayerDelegateP", "UIView"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "alpha"]
+- !private ["So15CALayerDelegateP", "animate"]
+- !private ["So15CALayerDelegateP", "arrangedSubviews"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "minScale"]
+- !private ["So15CALayerDelegateP", "previousRating"]
+- !private ["So15CALayerDelegateP", "rating"]
+- !private ["So15CALayerDelegateP", "transform"]
+- !private ["So15CALayerDelegateP", "update"]
+- !private ["So17CGAffineTransformV", "identity"]
+- !private ["So17CGAffineTransformV", "init"]
+- !private ["s7CVarArgP", "CGAffineTransform"]
+- !private ["s7CVarArgP", "TimeInterval"]
+- !private ["s7CVarArgP", "UIView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "alpha"]
+- !private ["s7CVarArgP", "animate"]
+- !private ["s7CVarArgP", "arrangedSubviews"]
+- !private ["s7CVarArgP", "enumerated"]
+- !private ["s7CVarArgP", "filter"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "minScale"]
+- !private ["s7CVarArgP", "previousRating"]
+- !private ["s7CVarArgP", "rating"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["s7CVarArgP", "update"]
+- !private ["Sl", "enumerated"]
+- !private ["Sl", "filter"]
+- !private ["Sl", "forEach"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CGAffineTransform"]
+- !private ["s28CustomDebugStringConvertibleP", "TimeInterval"]
+- !private ["s28CustomDebugStringConvertibleP", "UIView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "alpha"]
+- !private ["s28CustomDebugStringConvertibleP", "animate"]
+- !private ["s28CustomDebugStringConvertibleP", "arrangedSubviews"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "filter"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "minScale"]
+- !private ["s28CustomDebugStringConvertibleP", "previousRating"]
+- !private ["s28CustomDebugStringConvertibleP", "rating"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "update"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- !private ["s17CustomReflectableP", "filter"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CGAffineTransform"]
+- !private ["s23CustomStringConvertibleP", "TimeInterval"]
+- !private ["s23CustomStringConvertibleP", "UIView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "alpha"]
+- !private ["s23CustomStringConvertibleP", "animate"]
+- !private ["s23CustomStringConvertibleP", "arrangedSubviews"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "filter"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "minScale"]
+- !private ["s23CustomStringConvertibleP", "previousRating"]
+- !private ["s23CustomStringConvertibleP", "rating"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["s23CustomStringConvertibleP", "update"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "enumerated"]
+- !private ["Se", "filter"]
+- !private ["Se", "forEach"]
+- !private ["Se", "identity"]
+- !private ["Se", "init"]
+- !private ["Sd", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "enumerated"]
+- !private ["SE", "filter"]
+- !private ["SE", "forEach"]
+- !private ["SE", "identity"]
+- !private ["SE", "init"]
+- !private ["s18EnumeratedSequenceV", "forEach"]
+- !private ["SQ", "CGAffineTransform"]
+- !private ["SQ", "TimeInterval"]
+- !private ["SQ", "UIView"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "alpha"]
+- !private ["SQ", "animate"]
+- !private ["SQ", "arrangedSubviews"]
+- !private ["SQ", "enumerated"]
+- !private ["SQ", "filter"]
+- !private ["SQ", "forEach"]
+- !private ["SQ", "identity"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "minScale"]
+- !private ["SQ", "previousRating"]
+- !private ["SQ", "rating"]
+- !private ["SQ", "transform"]
+- !private ["SQ", "update"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- !private ["s25ExpressibleByArrayLiteralP", "filter"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "CGAffineTransform"]
+- !private ["SH", "TimeInterval"]
+- !private ["SH", "UIView"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "alpha"]
+- !private ["SH", "animate"]
+- !private ["SH", "arrangedSubviews"]
+- !private ["SH", "enumerated"]
+- !private ["SH", "filter"]
+- !private ["SH", "forEach"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "minScale"]
+- !private ["SH", "previousRating"]
+- !private ["SH", "rating"]
+- !private ["SH", "transform"]
+- !private ["SH", "update"]
+- !private ["10Kingfisher0A10CompatibleP", "alpha"]
+- !private ["10Kingfisher0A10CompatibleP", "transform"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["SM", "enumerated"]
+- !private ["SM", "filter"]
+- !private ["SM", "forEach"]
+- !private ["So8NSCodingP", "CGAffineTransform"]
+- !private ["So8NSCodingP", "TimeInterval"]
+- !private ["So8NSCodingP", "UIView"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "alpha"]
+- !private ["So8NSCodingP", "animate"]
+- !private ["So8NSCodingP", "arrangedSubviews"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "minScale"]
+- !private ["So8NSCodingP", "previousRating"]
+- !private ["So8NSCodingP", "rating"]
+- !private ["So8NSCodingP", "transform"]
+- !private ["So8NSCodingP", "update"]
+- !private ["So8NSObjectC", "CGAffineTransform"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "TimeInterval"]
+- !private ["So8NSObjectC", "UIImageView"]
+- !private ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "alpha"]
+- !private ["So8NSObjectC", "animate"]
+- !private ["So8NSObjectC", "arrangedSubviews"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "minScale"]
+- ["So8NSObjectC", "previousRating"]
+- ["So8NSObjectC", "rating"]
+- !private ["So8NSObjectC", "transform"]
+- ["So8NSObjectC", "update"]
+- !private ["So8NSObjectP", "CGAffineTransform"]
+- !private ["So8NSObjectP", "TimeInterval"]
+- !private ["So8NSObjectP", "UIView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "alpha"]
+- !private ["So8NSObjectP", "animate"]
+- !private ["So8NSObjectP", "arrangedSubviews"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "minScale"]
+- !private ["So8NSObjectP", "previousRating"]
+- !private ["So8NSObjectP", "rating"]
+- !private ["So8NSObjectP", "transform"]
+- !private ["So8NSObjectP", "update"]
+- !private ["Sj", "init"]
+- !private ["Sk", "enumerated"]
+- !private ["Sk", "filter"]
+- !private ["Sk", "forEach"]
+- !private ["Sm", "enumerated"]
+- !private ["Sm", "filter"]
+- !private ["Sm", "forEach"]
+- !private ["11TheNewMovie10RatingViewC", "CGAffineTransform"]
+- ["11TheNewMovie10RatingViewC", "CGFloat"]
+- ["11TheNewMovie10RatingViewC", "Int"]
+- !private ["11TheNewMovie10RatingViewC", "TimeInterval"]
+- !private ["11TheNewMovie10RatingViewC", "UIImageView"]
+- !private ["11TheNewMovie10RatingViewC", "UIView"]
+- !private ["11TheNewMovie10RatingViewC", "arrangedSubviews"]
+- ["11TheNewMovie10RatingViewC", "init"]
+- ["11TheNewMovie10RatingViewC", "minScale"]
+- !private ["11TheNewMovie10RatingViewC", "previousRating"]
+- ["11TheNewMovie10RatingViewC", "rating"]
+- !private ["11TheNewMovie10RatingViewC", "update"]
+- !private ["ST", "enumerated"]
+- !private ["ST", "filter"]
+- !private ["ST", "forEach"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "alpha"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "transform"]
+- !private ["So29UIAccessibilityIdentificationP", "CGAffineTransform"]
+- !private ["So29UIAccessibilityIdentificationP", "TimeInterval"]
+- !private ["So29UIAccessibilityIdentificationP", "UIView"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "alpha"]
+- !private ["So29UIAccessibilityIdentificationP", "animate"]
+- !private ["So29UIAccessibilityIdentificationP", "arrangedSubviews"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "minScale"]
+- !private ["So29UIAccessibilityIdentificationP", "previousRating"]
+- !private ["So29UIAccessibilityIdentificationP", "rating"]
+- !private ["So29UIAccessibilityIdentificationP", "transform"]
+- !private ["So29UIAccessibilityIdentificationP", "update"]
+- !private ["So12UIAppearanceP", "CGAffineTransform"]
+- !private ["So12UIAppearanceP", "TimeInterval"]
+- !private ["So12UIAppearanceP", "UIView"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "alpha"]
+- !private ["So12UIAppearanceP", "animate"]
+- !private ["So12UIAppearanceP", "arrangedSubviews"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "minScale"]
+- !private ["So12UIAppearanceP", "previousRating"]
+- !private ["So12UIAppearanceP", "rating"]
+- !private ["So12UIAppearanceP", "transform"]
+- !private ["So12UIAppearanceP", "update"]
+- !private ["So21UIAppearanceContainerP", "CGAffineTransform"]
+- !private ["So21UIAppearanceContainerP", "TimeInterval"]
+- !private ["So21UIAppearanceContainerP", "UIView"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "alpha"]
+- !private ["So21UIAppearanceContainerP", "animate"]
+- !private ["So21UIAppearanceContainerP", "arrangedSubviews"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "minScale"]
+- !private ["So21UIAppearanceContainerP", "previousRating"]
+- !private ["So21UIAppearanceContainerP", "rating"]
+- !private ["So21UIAppearanceContainerP", "transform"]
+- !private ["So21UIAppearanceContainerP", "update"]
+- !private ["So17UICoordinateSpaceP", "CGAffineTransform"]
+- !private ["So17UICoordinateSpaceP", "TimeInterval"]
+- !private ["So17UICoordinateSpaceP", "UIView"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "alpha"]
+- !private ["So17UICoordinateSpaceP", "animate"]
+- !private ["So17UICoordinateSpaceP", "arrangedSubviews"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "minScale"]
+- !private ["So17UICoordinateSpaceP", "previousRating"]
+- !private ["So17UICoordinateSpaceP", "rating"]
+- !private ["So17UICoordinateSpaceP", "transform"]
+- !private ["So17UICoordinateSpaceP", "update"]
+- !private ["So13UIDynamicItemP", "CGAffineTransform"]
+- !private ["So13UIDynamicItemP", "TimeInterval"]
+- !private ["So13UIDynamicItemP", "UIView"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "alpha"]
+- !private ["So13UIDynamicItemP", "animate"]
+- !private ["So13UIDynamicItemP", "arrangedSubviews"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "minScale"]
+- !private ["So13UIDynamicItemP", "previousRating"]
+- !private ["So13UIDynamicItemP", "rating"]
+- !private ["So13UIDynamicItemP", "transform"]
+- !private ["So13UIDynamicItemP", "update"]
+- !private ["So18UIFocusEnvironmentP", "CGAffineTransform"]
+- !private ["So18UIFocusEnvironmentP", "TimeInterval"]
+- !private ["So18UIFocusEnvironmentP", "UIView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "alpha"]
+- !private ["So18UIFocusEnvironmentP", "animate"]
+- !private ["So18UIFocusEnvironmentP", "arrangedSubviews"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "minScale"]
+- !private ["So18UIFocusEnvironmentP", "previousRating"]
+- !private ["So18UIFocusEnvironmentP", "rating"]
+- !private ["So18UIFocusEnvironmentP", "transform"]
+- !private ["So18UIFocusEnvironmentP", "update"]
+- !private ["So11UIFocusItemP", "CGAffineTransform"]
+- !private ["So11UIFocusItemP", "TimeInterval"]
+- !private ["So11UIFocusItemP", "UIView"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "alpha"]
+- !private ["So11UIFocusItemP", "animate"]
+- !private ["So11UIFocusItemP", "arrangedSubviews"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "minScale"]
+- !private ["So11UIFocusItemP", "previousRating"]
+- !private ["So11UIFocusItemP", "rating"]
+- !private ["So11UIFocusItemP", "transform"]
+- !private ["So11UIFocusItemP", "update"]
+- !private ["So20UIFocusItemContainerP", "CGAffineTransform"]
+- !private ["So20UIFocusItemContainerP", "TimeInterval"]
+- !private ["So20UIFocusItemContainerP", "UIView"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "alpha"]
+- !private ["So20UIFocusItemContainerP", "animate"]
+- !private ["So20UIFocusItemContainerP", "arrangedSubviews"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "minScale"]
+- !private ["So20UIFocusItemContainerP", "previousRating"]
+- !private ["So20UIFocusItemContainerP", "rating"]
+- !private ["So20UIFocusItemContainerP", "transform"]
+- !private ["So20UIFocusItemContainerP", "update"]
+- !private ["So11UIImageViewC", "alpha"]
+- !private ["So11UIImageViewC", "transform"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGAffineTransform"]
+- !private ["So30UIPasteConfigurationSupportingP", "TimeInterval"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "alpha"]
+- !private ["So30UIPasteConfigurationSupportingP", "animate"]
+- !private ["So30UIPasteConfigurationSupportingP", "arrangedSubviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "minScale"]
+- !private ["So30UIPasteConfigurationSupportingP", "previousRating"]
+- !private ["So30UIPasteConfigurationSupportingP", "rating"]
+- !private ["So30UIPasteConfigurationSupportingP", "transform"]
+- !private ["So30UIPasteConfigurationSupportingP", "update"]
+- !private ["So11UIResponderC", "CGAffineTransform"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "TimeInterval"]
+- !private ["So11UIResponderC", "UIImageView"]
+- !private ["So11UIResponderC", "UIView"]
+- !private ["So11UIResponderC", "alpha"]
+- !private ["So11UIResponderC", "animate"]
+- !private ["So11UIResponderC", "arrangedSubviews"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "minScale"]
+- ["So11UIResponderC", "previousRating"]
+- ["So11UIResponderC", "rating"]
+- !private ["So11UIResponderC", "transform"]
+- ["So11UIResponderC", "update"]
+- !private ["So30UIResponderStandardEditActionsP", "CGAffineTransform"]
+- !private ["So30UIResponderStandardEditActionsP", "TimeInterval"]
+- !private ["So30UIResponderStandardEditActionsP", "UIView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "alpha"]
+- !private ["So30UIResponderStandardEditActionsP", "animate"]
+- !private ["So30UIResponderStandardEditActionsP", "arrangedSubviews"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "minScale"]
+- !private ["So30UIResponderStandardEditActionsP", "previousRating"]
+- !private ["So30UIResponderStandardEditActionsP", "rating"]
+- !private ["So30UIResponderStandardEditActionsP", "transform"]
+- !private ["So30UIResponderStandardEditActionsP", "update"]
+- !private ["So11UIStackViewC", "CGAffineTransform"]
+- ["So11UIStackViewC", "CGFloat"]
+- ["So11UIStackViewC", "Int"]
+- !private ["So11UIStackViewC", "TimeInterval"]
+- !private ["So11UIStackViewC", "UIImageView"]
+- !private ["So11UIStackViewC", "UIView"]
+- ["So11UIStackViewC", ""]
+- !private ["So11UIStackViewC", "arrangedSubviews"]
+- ["So11UIStackViewC", "init"]
+- !private ["So11UIStackViewC", "init"]
+- ["So11UIStackViewC", "minScale"]
+- ["So11UIStackViewC", "previousRating"]
+- ["So11UIStackViewC", "rating"]
+- ["So11UIStackViewC", "update"]
+- !private ["So18UITraitEnvironmentP", "CGAffineTransform"]
+- !private ["So18UITraitEnvironmentP", "TimeInterval"]
+- !private ["So18UITraitEnvironmentP", "UIView"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "alpha"]
+- !private ["So18UITraitEnvironmentP", "animate"]
+- !private ["So18UITraitEnvironmentP", "arrangedSubviews"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "minScale"]
+- !private ["So18UITraitEnvironmentP", "previousRating"]
+- !private ["So18UITraitEnvironmentP", "rating"]
+- !private ["So18UITraitEnvironmentP", "transform"]
+- !private ["So18UITraitEnvironmentP", "update"]
+- !private ["So23UIUserActivityRestoringP", "CGAffineTransform"]
+- !private ["So23UIUserActivityRestoringP", "TimeInterval"]
+- !private ["So23UIUserActivityRestoringP", "UIView"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "alpha"]
+- !private ["So23UIUserActivityRestoringP", "animate"]
+- !private ["So23UIUserActivityRestoringP", "arrangedSubviews"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "minScale"]
+- !private ["So23UIUserActivityRestoringP", "previousRating"]
+- !private ["So23UIUserActivityRestoringP", "rating"]
+- !private ["So23UIUserActivityRestoringP", "transform"]
+- !private ["So23UIUserActivityRestoringP", "update"]
+- !private ["So6UIViewC", "CGAffineTransform"]
+- ["So6UIViewC", "CGFloat"]
+- ["So6UIViewC", "Int"]
+- !private ["So6UIViewC", "TimeInterval"]
+- !private ["So6UIViewC", "UIImageView"]
+- !private ["So6UIViewC", "UIView"]
+- !private ["So6UIViewC", "alpha"]
+- !private ["So6UIViewC", "animate"]
+- !private ["So6UIViewC", "arrangedSubviews"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- ["So6UIViewC", "minScale"]
+- ["So6UIViewC", "previousRating"]
+- ["So6UIViewC", "rating"]
+- !private ["So6UIViewC", "transform"]
+- ["So6UIViewC", "update"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGAffineTransform"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "TimeInterval"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIView"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "alpha"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "animate"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "arrangedSubviews"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "minScale"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "previousRating"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "rating"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "transform"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "update"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- !private ["s24_DestructorSafeContainerP", "filter"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "enumerated"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "filter"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGAffineTransform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TimeInterval"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alpha"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arrangedSubviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minScale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "previousRating"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rating"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "update"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "enumerated"]
+- !private ["s21_ObjectiveCBridgeableP", "filter"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "identity"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "SB"
+- !private "Sb"
+- "So15CALayerDelegateP"
+- !private "So17CGAffineTransformV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "Sd"
+- !private "SE"
+- !private "s18EnumeratedSequenceV"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "SF"
+- "SH"
+- !private "10Kingfisher0A10CompatibleP"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sk"
+- !private "Sm"
+- "11TheNewMovie10RatingViewC"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So11UIImageViewC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So11UIStackViewC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2be79bc0010eada3de03135554c942ba"

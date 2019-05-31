@@ -1,0 +1,508 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["8PanModal0aB11PresentableP", ""]
+- ["8PanModal0aB11PresentableP", "topOffset"]
+- ["8PanModal0aB11PresentableP", "shortFormHeight"]
+- ["8PanModal0aB11PresentableP", "longFormHeight"]
+- ["8PanModal0aB11PresentableP", "cornerRadius"]
+- ["8PanModal0aB11PresentableP", "springDamping"]
+- ["8PanModal0aB11PresentableP", "backgroundAlpha"]
+- ["8PanModal0aB11PresentableP", "scrollIndicatorInsets"]
+- ["8PanModal0aB11PresentableP", "anchorModalToLongForm"]
+- ["8PanModal0aB11PresentableP", "allowsExtendedPanScrolling"]
+- ["8PanModal0aB11PresentableP", "allowsDragToDismiss"]
+- ["8PanModal0aB11PresentableP", "isUserInteractionEnabled"]
+- ["8PanModal0aB11PresentableP", "isHapticFeedbackEnabled"]
+- ["8PanModal0aB11PresentableP", "shouldRoundTopCorners"]
+- ["8PanModal0aB11PresentableP", "showDragIndicator"]
+- ["8PanModal0aB11PresentableP", "shouldRespond"]
+- ["8PanModal0aB11PresentableP", "willRespond"]
+- ["8PanModal0aB11PresentableP", "shouldTransition"]
+- ["8PanModal0aB11PresentableP", "shouldPrioritize"]
+- ["8PanModal0aB11PresentableP", "willTransition"]
+- ["8PanModal0aB11PresentableP", "panModalWillDismiss"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- !private "-"
+- !private ">"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "PanModalHeight"
+- "PanModalPresentable"
+- "PanModalPresentationController"
+- "TernaryPrecedence"
+- "UIEdgeInsets"
+- "UIPanGestureRecognizer"
+- "UIViewController"
+depends-member:
+- !private ["SB", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "contentSize"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "layoutIfNeeded"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["So6CGRectV", "height"]
+- !private ["So6CGSizeV", "height"]
+- !private ["s7CVarArgP", "CGFloat"]
+- ["s7CVarArgP", "PresentationState"]
+- !private ["s7CVarArgP", "UIEdgeInsets"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "bottomLayoutOffset"]
+- !private ["s7CVarArgP", "contentSize"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isPanModalPresented"]
+- !private ["s7CVarArgP", "layoutIfNeeded"]
+- !private ["s7CVarArgP", "longFormHeight"]
+- !private ["s7CVarArgP", "panScrollable"]
+- !private ["s7CVarArgP", "shouldRoundTopCorners"]
+- !private ["s7CVarArgP", "topLayoutOffset"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CGFloat"]
+- ["s28CustomDebugStringConvertibleP", "PresentationState"]
+- !private ["s28CustomDebugStringConvertibleP", "UIEdgeInsets"]
+- !private ["s28CustomDebugStringConvertibleP", "bottomLayoutOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "contentSize"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "isPanModalPresented"]
+- !private ["s28CustomDebugStringConvertibleP", "layoutIfNeeded"]
+- !private ["s28CustomDebugStringConvertibleP", "longFormHeight"]
+- !private ["s28CustomDebugStringConvertibleP", "panScrollable"]
+- !private ["s28CustomDebugStringConvertibleP", "shouldRoundTopCorners"]
+- !private ["s28CustomDebugStringConvertibleP", "topLayoutOffset"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CGFloat"]
+- ["s23CustomStringConvertibleP", "PresentationState"]
+- !private ["s23CustomStringConvertibleP", "UIEdgeInsets"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "bottomLayoutOffset"]
+- !private ["s23CustomStringConvertibleP", "contentSize"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isPanModalPresented"]
+- !private ["s23CustomStringConvertibleP", "layoutIfNeeded"]
+- !private ["s23CustomStringConvertibleP", "longFormHeight"]
+- !private ["s23CustomStringConvertibleP", "panScrollable"]
+- !private ["s23CustomStringConvertibleP", "shouldRoundTopCorners"]
+- !private ["s23CustomStringConvertibleP", "topLayoutOffset"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "height"]
+- !private ["Se", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "height"]
+- !private ["SE", "init"]
+- !private ["SQ", "CGFloat"]
+- ["SQ", "PresentationState"]
+- !private ["SQ", "UIEdgeInsets"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "bottomLayoutOffset"]
+- !private ["SQ", "contentHeight"]
+- !private ["SQ", "contentSize"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "height"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isPanModalPresented"]
+- !private ["SQ", "layoutIfNeeded"]
+- !private ["SQ", "longFormHeight"]
+- !private ["SQ", "maxHeight"]
+- !private ["SQ", "panScrollable"]
+- !private ["SQ", "shouldRoundTopCorners"]
+- !private ["SQ", "topLayoutOffset"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "CGFloat"]
+- ["SH", "PresentationState"]
+- !private ["SH", "UIEdgeInsets"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "bottomLayoutOffset"]
+- !private ["SH", "contentSize"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "frame"]
+- !private ["SH", "init"]
+- !private ["SH", "isPanModalPresented"]
+- !private ["SH", "layoutIfNeeded"]
+- !private ["SH", "longFormHeight"]
+- !private ["SH", "panScrollable"]
+- !private ["SH", "shouldRoundTopCorners"]
+- !private ["SH", "topLayoutOffset"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "CGFloat"]
+- !private ["So8NSCodingP", "UIEdgeInsets"]
+- !private ["So8NSCodingP", "bottomLayoutOffset"]
+- !private ["So8NSCodingP", "contentSize"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "isPanModalPresented"]
+- !private ["So8NSCodingP", "layoutIfNeeded"]
+- !private ["So8NSCodingP", "longFormHeight"]
+- !private ["So8NSCodingP", "panScrollable"]
+- !private ["So8NSCodingP", "shouldRoundTopCorners"]
+- !private ["So8NSCodingP", "topLayoutOffset"]
+- !private ["So26NSExtensionRequestHandlingP", "CGFloat"]
+- !private ["So26NSExtensionRequestHandlingP", "UIEdgeInsets"]
+- !private ["So26NSExtensionRequestHandlingP", "bottomLayoutOffset"]
+- !private ["So26NSExtensionRequestHandlingP", "cornerRadius"]
+- !private ["So26NSExtensionRequestHandlingP", "isPanModalPresented"]
+- !private ["So26NSExtensionRequestHandlingP", "longFormHeight"]
+- !private ["So26NSExtensionRequestHandlingP", "panScrollable"]
+- !private ["So26NSExtensionRequestHandlingP", "shouldRoundTopCorners"]
+- !private ["So26NSExtensionRequestHandlingP", "topLayoutOffset"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "PanModalHeight"]
+- ["So8NSObjectC", "PanModalPresentationController"]
+- ["So8NSObjectC", "PresentationState"]
+- ["So8NSObjectC", "UIEdgeInsets"]
+- ["So8NSObjectC", "UIPanGestureRecognizer"]
+- !private ["So8NSObjectC", "bottomLayoutOffset"]
+- !private ["So8NSObjectC", "contentSize"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- !private ["So8NSObjectC", "frame"]
+- !private ["So8NSObjectC", "isPanModalPresented"]
+- !private ["So8NSObjectC", "layoutIfNeeded"]
+- !private ["So8NSObjectC", "longFormHeight"]
+- !private ["So8NSObjectC", "panScrollable"]
+- !private ["So8NSObjectC", "shouldRoundTopCorners"]
+- !private ["So8NSObjectC", "topLayoutOffset"]
+- !private ["So8NSObjectP", "CGFloat"]
+- ["So8NSObjectP", "PresentationState"]
+- !private ["So8NSObjectP", "UIEdgeInsets"]
+- !private ["So8NSObjectP", "bottomLayoutOffset"]
+- !private ["So8NSObjectP", "contentSize"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "isPanModalPresented"]
+- !private ["So8NSObjectP", "layoutIfNeeded"]
+- !private ["So8NSObjectP", "longFormHeight"]
+- !private ["So8NSObjectP", "panScrollable"]
+- !private ["So8NSObjectP", "shouldRoundTopCorners"]
+- !private ["So8NSObjectP", "topLayoutOffset"]
+- !private ["Sj", "init"]
+- !private ["8PanModal0aB6HeightO", "contentHeight"]
+- !private ["8PanModal0aB6HeightO", "maxHeight"]
+- ["8PanModal0aB11PresentableP", "Bool"]
+- ["8PanModal0aB11PresentableP", "CGFloat"]
+- ["8PanModal0aB11PresentableP", "PanModalHeight"]
+- ["8PanModal0aB11PresentableP", "PanModalPresentationController"]
+- ["8PanModal0aB11PresentableP", "UIEdgeInsets"]
+- ["8PanModal0aB11PresentableP", "UIPanGestureRecognizer"]
+- ["8PanModal0aB11PresentableP", "UIViewController"]
+- ["8PanModal0aB11PresentableP", "allowsDragToDismiss"]
+- ["8PanModal0aB11PresentableP", "allowsExtendedPanScrolling"]
+- ["8PanModal0aB11PresentableP", "anchorModalToLongForm"]
+- ["8PanModal0aB11PresentableP", "backgroundAlpha"]
+- !private ["8PanModal0aB11PresentableP", "bottomLayoutOffset"]
+- ["8PanModal0aB11PresentableP", "cornerRadius"]
+- ["8PanModal0aB11PresentableP", "isHapticFeedbackEnabled"]
+- !private ["8PanModal0aB11PresentableP", "isPanModalPresented"]
+- ["8PanModal0aB11PresentableP", "isUserInteractionEnabled"]
+- ["8PanModal0aB11PresentableP", "longFormHeight"]
+- ["8PanModal0aB11PresentableP", "panModalWillDismiss"]
+- !private ["8PanModal0aB11PresentableP", "panScrollable"]
+- ["8PanModal0aB11PresentableP", "scrollIndicatorInsets"]
+- ["8PanModal0aB11PresentableP", "shortFormHeight"]
+- ["8PanModal0aB11PresentableP", "shouldPrioritize"]
+- ["8PanModal0aB11PresentableP", "shouldRespond"]
+- ["8PanModal0aB11PresentableP", "shouldRoundTopCorners"]
+- ["8PanModal0aB11PresentableP", "shouldTransition"]
+- ["8PanModal0aB11PresentableP", "showDragIndicator"]
+- ["8PanModal0aB11PresentableP", "springDamping"]
+- !private ["8PanModal0aB11PresentableP", "topLayoutOffset"]
+- ["8PanModal0aB11PresentableP", "topOffset"]
+- ["8PanModal0aB11PresentableP", "willRespond"]
+- ["8PanModal0aB11PresentableP", "willTransition"]
+- ["8PanModal0aB22PresentationControllerC", "PresentationState"]
+- !private ["8PanModal0aB9PresenterP", "CGFloat"]
+- !private ["8PanModal0aB9PresenterP", "UIEdgeInsets"]
+- !private ["8PanModal0aB9PresenterP", "bottomLayoutOffset"]
+- !private ["8PanModal0aB9PresenterP", "cornerRadius"]
+- !private ["8PanModal0aB9PresenterP", "isPanModalPresented"]
+- !private ["8PanModal0aB9PresenterP", "longFormHeight"]
+- !private ["8PanModal0aB9PresenterP", "panScrollable"]
+- !private ["8PanModal0aB9PresenterP", "shouldRoundTopCorners"]
+- !private ["8PanModal0aB9PresenterP", "topLayoutOffset"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "contentSize"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "layoutIfNeeded"]
+- !private ["So12UIAppearanceP", "contentSize"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "layoutIfNeeded"]
+- !private ["So21UIAppearanceContainerP", "CGFloat"]
+- ["So21UIAppearanceContainerP", "PresentationState"]
+- !private ["So21UIAppearanceContainerP", "UIEdgeInsets"]
+- !private ["So21UIAppearanceContainerP", "bottomLayoutOffset"]
+- !private ["So21UIAppearanceContainerP", "contentSize"]
+- !private ["So21UIAppearanceContainerP", "cornerRadius"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "isPanModalPresented"]
+- !private ["So21UIAppearanceContainerP", "layoutIfNeeded"]
+- !private ["So21UIAppearanceContainerP", "longFormHeight"]
+- !private ["So21UIAppearanceContainerP", "panScrollable"]
+- !private ["So21UIAppearanceContainerP", "shouldRoundTopCorners"]
+- !private ["So21UIAppearanceContainerP", "topLayoutOffset"]
+- !private ["So18UIContentContainerP", "CGFloat"]
+- ["So18UIContentContainerP", "PresentationState"]
+- !private ["So18UIContentContainerP", "UIEdgeInsets"]
+- !private ["So18UIContentContainerP", "bottomLayoutOffset"]
+- !private ["So18UIContentContainerP", "cornerRadius"]
+- !private ["So18UIContentContainerP", "isPanModalPresented"]
+- !private ["So18UIContentContainerP", "longFormHeight"]
+- !private ["So18UIContentContainerP", "panScrollable"]
+- !private ["So18UIContentContainerP", "shouldRoundTopCorners"]
+- !private ["So18UIContentContainerP", "topLayoutOffset"]
+- !private ["So17UICoordinateSpaceP", "contentSize"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "layoutIfNeeded"]
+- !private ["So13UIDynamicItemP", "contentSize"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "layoutIfNeeded"]
+- !private ["So12UIEdgeInsetsV", "init"]
+- !private ["So18UIFocusEnvironmentP", "CGFloat"]
+- ["So18UIFocusEnvironmentP", "PresentationState"]
+- !private ["So18UIFocusEnvironmentP", "UIEdgeInsets"]
+- !private ["So18UIFocusEnvironmentP", "bottomLayoutOffset"]
+- !private ["So18UIFocusEnvironmentP", "contentSize"]
+- !private ["So18UIFocusEnvironmentP", "cornerRadius"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "isPanModalPresented"]
+- !private ["So18UIFocusEnvironmentP", "layoutIfNeeded"]
+- !private ["So18UIFocusEnvironmentP", "longFormHeight"]
+- !private ["So18UIFocusEnvironmentP", "panScrollable"]
+- !private ["So18UIFocusEnvironmentP", "shouldRoundTopCorners"]
+- !private ["So18UIFocusEnvironmentP", "topLayoutOffset"]
+- !private ["So11UIFocusItemP", "contentSize"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "layoutIfNeeded"]
+- !private ["So20UIFocusItemContainerP", "contentSize"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- !private ["So20UIFocusItemContainerP", "layoutIfNeeded"]
+- !private ["So30UIFocusItemScrollableContainerP", "contentSize"]
+- !private ["So30UIFocusItemScrollableContainerP", "frame"]
+- !private ["So30UIFocusItemScrollableContainerP", "layoutIfNeeded"]
+- ["So27UIGestureRecognizerDelegateP", "PresentationState"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGFloat"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIEdgeInsets"]
+- !private ["So30UIPasteConfigurationSupportingP", "bottomLayoutOffset"]
+- !private ["So30UIPasteConfigurationSupportingP", "contentSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "cornerRadius"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "isPanModalPresented"]
+- !private ["So30UIPasteConfigurationSupportingP", "layoutIfNeeded"]
+- !private ["So30UIPasteConfigurationSupportingP", "longFormHeight"]
+- !private ["So30UIPasteConfigurationSupportingP", "panScrollable"]
+- !private ["So30UIPasteConfigurationSupportingP", "shouldRoundTopCorners"]
+- !private ["So30UIPasteConfigurationSupportingP", "topLayoutOffset"]
+- ["So24UIPresentationControllerC", "PresentationState"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "PanModalHeight"]
+- ["So11UIResponderC", "PanModalPresentationController"]
+- ["So11UIResponderC", "UIEdgeInsets"]
+- ["So11UIResponderC", "UIPanGestureRecognizer"]
+- !private ["So11UIResponderC", "bottomLayoutOffset"]
+- !private ["So11UIResponderC", "contentSize"]
+- !private ["So11UIResponderC", "cornerRadius"]
+- !private ["So11UIResponderC", "frame"]
+- !private ["So11UIResponderC", "isPanModalPresented"]
+- !private ["So11UIResponderC", "layoutIfNeeded"]
+- !private ["So11UIResponderC", "longFormHeight"]
+- !private ["So11UIResponderC", "panScrollable"]
+- !private ["So11UIResponderC", "shouldRoundTopCorners"]
+- !private ["So11UIResponderC", "topLayoutOffset"]
+- !private ["So30UIResponderStandardEditActionsP", "CGFloat"]
+- !private ["So30UIResponderStandardEditActionsP", "UIEdgeInsets"]
+- !private ["So30UIResponderStandardEditActionsP", "bottomLayoutOffset"]
+- !private ["So30UIResponderStandardEditActionsP", "contentSize"]
+- !private ["So30UIResponderStandardEditActionsP", "cornerRadius"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "isPanModalPresented"]
+- !private ["So30UIResponderStandardEditActionsP", "layoutIfNeeded"]
+- !private ["So30UIResponderStandardEditActionsP", "longFormHeight"]
+- !private ["So30UIResponderStandardEditActionsP", "panScrollable"]
+- !private ["So30UIResponderStandardEditActionsP", "shouldRoundTopCorners"]
+- !private ["So30UIResponderStandardEditActionsP", "topLayoutOffset"]
+- !private ["So12UIScrollViewC", "contentSize"]
+- !private ["So12UIScrollViewC", "frame"]
+- !private ["So12UIScrollViewC", "layoutIfNeeded"]
+- !private ["So16UIStateRestoringP", "CGFloat"]
+- !private ["So16UIStateRestoringP", "UIEdgeInsets"]
+- !private ["So16UIStateRestoringP", "bottomLayoutOffset"]
+- !private ["So16UIStateRestoringP", "cornerRadius"]
+- !private ["So16UIStateRestoringP", "isPanModalPresented"]
+- !private ["So16UIStateRestoringP", "longFormHeight"]
+- !private ["So16UIStateRestoringP", "panScrollable"]
+- !private ["So16UIStateRestoringP", "shouldRoundTopCorners"]
+- !private ["So16UIStateRestoringP", "topLayoutOffset"]
+- !private ["So18UITraitEnvironmentP", "CGFloat"]
+- ["So18UITraitEnvironmentP", "PresentationState"]
+- !private ["So18UITraitEnvironmentP", "UIEdgeInsets"]
+- !private ["So18UITraitEnvironmentP", "bottomLayoutOffset"]
+- !private ["So18UITraitEnvironmentP", "contentSize"]
+- !private ["So18UITraitEnvironmentP", "cornerRadius"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "isPanModalPresented"]
+- !private ["So18UITraitEnvironmentP", "layoutIfNeeded"]
+- !private ["So18UITraitEnvironmentP", "longFormHeight"]
+- !private ["So18UITraitEnvironmentP", "panScrollable"]
+- !private ["So18UITraitEnvironmentP", "shouldRoundTopCorners"]
+- !private ["So18UITraitEnvironmentP", "topLayoutOffset"]
+- !private ["So23UIUserActivityRestoringP", "CGFloat"]
+- !private ["So23UIUserActivityRestoringP", "UIEdgeInsets"]
+- !private ["So23UIUserActivityRestoringP", "bottomLayoutOffset"]
+- !private ["So23UIUserActivityRestoringP", "contentSize"]
+- !private ["So23UIUserActivityRestoringP", "cornerRadius"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "isPanModalPresented"]
+- !private ["So23UIUserActivityRestoringP", "layoutIfNeeded"]
+- !private ["So23UIUserActivityRestoringP", "longFormHeight"]
+- !private ["So23UIUserActivityRestoringP", "panScrollable"]
+- !private ["So23UIUserActivityRestoringP", "shouldRoundTopCorners"]
+- !private ["So23UIUserActivityRestoringP", "topLayoutOffset"]
+- !private ["So6UIViewC", "contentSize"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "layoutIfNeeded"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "CGFloat"]
+- ["So16UIViewControllerC", "PanModalHeight"]
+- ["So16UIViewControllerC", "PanModalPresentationController"]
+- ["So16UIViewControllerC", "UIEdgeInsets"]
+- ["So16UIViewControllerC", "UIPanGestureRecognizer"]
+- !private ["So16UIViewControllerC", "bottomLayoutOffset"]
+- !private ["So16UIViewControllerC", "cornerRadius"]
+- !private ["So16UIViewControllerC", "isPanModalPresented"]
+- !private ["So16UIViewControllerC", "longFormHeight"]
+- !private ["So16UIViewControllerC", "panScrollable"]
+- !private ["So16UIViewControllerC", "shouldRoundTopCorners"]
+- !private ["So16UIViewControllerC", "topLayoutOffset"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "contentSize"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layoutIfNeeded"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGFloat"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PresentationState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIEdgeInsets"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bottomLayoutOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isPanModalPresented"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layoutIfNeeded"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "longFormHeight"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "panScrollable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shouldRoundTopCorners"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "topLayoutOffset"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "SB"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "12CoreGraphics7CGFloatV"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- "s7CVarArgP"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "SF"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "8PanModal0aB6HeightO"
+- "8PanModal0aB11PresentableP"
+- "8PanModal0aB22PresentationControllerC"
+- !private "8PanModal0aB9PresenterP"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So12UIEdgeInsetsV"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So24UIPresentationControllerC"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- !private "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Target Support Files/PanModal/PanModal-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/PanModal/PanModal/PanModal.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PanModal.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a6aac0d35e31db3f1e8b7051c1771063"

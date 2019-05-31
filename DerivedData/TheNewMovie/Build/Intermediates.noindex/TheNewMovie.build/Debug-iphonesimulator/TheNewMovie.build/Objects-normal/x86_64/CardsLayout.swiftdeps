@@ -1,0 +1,840 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ParallaxCardCell"
+- "CardsLayoutDelegate"
+- "CardsLayout"
+provides-nominal:
+- "11TheNewMovie16ParallaxCardCellP"
+- "11TheNewMovie19CardsLayoutDelegateP"
+- "11TheNewMovie11CardsLayoutC"
+provides-member:
+- ["11TheNewMovie16ParallaxCardCellP", ""]
+- ["11TheNewMovie19CardsLayoutDelegateP", ""]
+- ["11TheNewMovie11CardsLayoutC", ""]
+provides-dynamic-lookup:
+- "collectionView"
+- "collectionViewContentSize"
+- "delegate"
+- "layoutAttributesForElements"
+- "prepare"
+- "shouldInvalidateLayout"
+- "transition"
+depends-top-level:
+- !private "!"
+- !private "%"
+- !private "*"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "-="
+- !private "..."
+- !private "/"
+- !private "=="
+- !private ">"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- !private "CGAffineTransform"
+- "CGFloat"
+- "CGPoint"
+- "CGRect"
+- "CGSize"
+- "CardsLayout"
+- "CardsLayoutDelegate"
+- "CastingPrecedence"
+- "FloatLiteralType"
+- "IndexPath"
+- "Int"
+- "IntegerLiteralType"
+- "ParallaxCardCell"
+- "UICollectionView"
+- "UICollectionViewLayout"
+- "UICollectionViewLayoutAttributes"
+- !private "max"
+- !private "min"
+- !private "~="
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "item"]
+- !private ["SK", "map"]
+- !private ["SB", "init"]
+- !private ["Sz", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "cellForItem"]
+- !private ["So15CALayerDelegateP", "contentOffset"]
+- !private ["So15CALayerDelegateP", "numberOfItems"]
+- !private ["So15CALayerDelegateP", "setContentOffset"]
+- !private ["So17CGAffineTransformV", "init"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["So7CGPointV", "init"]
+- !private ["So7CGPointV", "x"]
+- !private ["So6CGRectV", "height"]
+- !private ["So6CGRectV", "midY"]
+- !private ["So6CGRectV", "width"]
+- !private ["So6CGSizeV", "init"]
+- !private ["So6CGSizeV", "width"]
+- ["So6CGSizeV", "zero"]
+- !private ["s7CVarArgP", "CGAffineTransform"]
+- !private ["s7CVarArgP", "CGFloat"]
+- !private ["s7CVarArgP", "CGPoint"]
+- !private ["s7CVarArgP", "CGSize"]
+- !private ["s7CVarArgP", "IndexPath"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "UICollectionViewLayoutAttributes"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "cellForItem"]
+- !private ["s7CVarArgP", "center"]
+- !private ["s7CVarArgP", "collectionBounds"]
+- !private ["s7CVarArgP", "collectionView"]
+- !private ["s7CVarArgP", "collectionViewContentSize"]
+- !private ["s7CVarArgP", "contentOffset"]
+- !private ["s7CVarArgP", "currentPage"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "didInitialSetup"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "invalidateLayout"]
+- !private ["s7CVarArgP", "itemSize"]
+- !private ["s7CVarArgP", "itemsCount"]
+- !private ["s7CVarArgP", "layoutAttributes"]
+- !private ["s7CVarArgP", "max"]
+- !private ["s7CVarArgP", "min"]
+- !private ["s7CVarArgP", "minScale"]
+- !private ["s7CVarArgP", "numberOfItems"]
+- !private ["s7CVarArgP", "parallaxProgress"]
+- !private ["s7CVarArgP", "setContentOffset"]
+- !private ["s7CVarArgP", "size"]
+- !private ["s7CVarArgP", "spacing"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["s7CVarArgP", "visibleItemsCount"]
+- !private ["s7CVarArgP", "zIndex"]
+- ["11TheNewMovie11CardsLayoutC", "Bool"]
+- !private ["11TheNewMovie11CardsLayoutC", "CGAffineTransform"]
+- ["11TheNewMovie11CardsLayoutC", "CGFloat"]
+- ["11TheNewMovie11CardsLayoutC", "CGPoint"]
+- ["11TheNewMovie11CardsLayoutC", "CGRect"]
+- ["11TheNewMovie11CardsLayoutC", "CGSize"]
+- ["11TheNewMovie11CardsLayoutC", "CardsLayoutDelegate"]
+- ["11TheNewMovie11CardsLayoutC", "IndexPath"]
+- ["11TheNewMovie11CardsLayoutC", "Int"]
+- !private ["11TheNewMovie11CardsLayoutC", "ParallaxCardCell"]
+- ["11TheNewMovie11CardsLayoutC", "UICollectionView"]
+- ["11TheNewMovie11CardsLayoutC", "UICollectionViewLayoutAttributes"]
+- ["11TheNewMovie11CardsLayoutC", "collectionBounds"]
+- ["11TheNewMovie11CardsLayoutC", "collectionView"]
+- ["11TheNewMovie11CardsLayoutC", "collectionViewContentSize"]
+- ["11TheNewMovie11CardsLayoutC", "contentOffset"]
+- ["11TheNewMovie11CardsLayoutC", "currentPage"]
+- !private ["11TheNewMovie11CardsLayoutC", "delegate"]
+- !private ["11TheNewMovie11CardsLayoutC", "didInitialSetup"]
+- ["11TheNewMovie11CardsLayoutC", "init"]
+- !private ["11TheNewMovie11CardsLayoutC", "invalidateLayout"]
+- ["11TheNewMovie11CardsLayoutC", "itemSize"]
+- ["11TheNewMovie11CardsLayoutC", "itemsCount"]
+- !private ["11TheNewMovie11CardsLayoutC", "layoutAttributes"]
+- ["11TheNewMovie11CardsLayoutC", "layoutAttributesForElements"]
+- !private ["11TheNewMovie11CardsLayoutC", "max"]
+- !private ["11TheNewMovie11CardsLayoutC", "min"]
+- ["11TheNewMovie11CardsLayoutC", "minScale"]
+- !private ["11TheNewMovie11CardsLayoutC", "parallaxProgress"]
+- ["11TheNewMovie11CardsLayoutC", "prepare"]
+- ["11TheNewMovie11CardsLayoutC", "shouldInvalidateLayout"]
+- ["11TheNewMovie11CardsLayoutC", "spacing"]
+- ["11TheNewMovie11CardsLayoutC", "visibleItemsCount"]
+- ["11TheNewMovie19CardsLayoutDelegateP", "CGFloat"]
+- ["11TheNewMovie19CardsLayoutDelegateP", "Int"]
+- ["11TheNewMovie19CardsLayoutDelegateP", "transition"]
+- !private ["SN", "map"]
+- !private ["Sl", "init"]
+- !private ["Sl", "item"]
+- !private ["Sl", "map"]
+- !private ["SL", "init"]
+- !private ["SL", "item"]
+- !private ["s28CustomDebugStringConvertibleP", "CGAffineTransform"]
+- !private ["s28CustomDebugStringConvertibleP", "CGFloat"]
+- !private ["s28CustomDebugStringConvertibleP", "CGPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "CGSize"]
+- !private ["s28CustomDebugStringConvertibleP", "IndexPath"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "UICollectionViewLayoutAttributes"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "cellForItem"]
+- !private ["s28CustomDebugStringConvertibleP", "center"]
+- !private ["s28CustomDebugStringConvertibleP", "collectionBounds"]
+- !private ["s28CustomDebugStringConvertibleP", "collectionView"]
+- !private ["s28CustomDebugStringConvertibleP", "collectionViewContentSize"]
+- !private ["s28CustomDebugStringConvertibleP", "contentOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "currentPage"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "didInitialSetup"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invalidateLayout"]
+- !private ["s28CustomDebugStringConvertibleP", "item"]
+- !private ["s28CustomDebugStringConvertibleP", "itemSize"]
+- !private ["s28CustomDebugStringConvertibleP", "itemsCount"]
+- !private ["s28CustomDebugStringConvertibleP", "layoutAttributes"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "max"]
+- !private ["s28CustomDebugStringConvertibleP", "midY"]
+- !private ["s28CustomDebugStringConvertibleP", "min"]
+- !private ["s28CustomDebugStringConvertibleP", "minScale"]
+- !private ["s28CustomDebugStringConvertibleP", "numberOfItems"]
+- !private ["s28CustomDebugStringConvertibleP", "parallaxProgress"]
+- !private ["s28CustomDebugStringConvertibleP", "setContentOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "spacing"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "visibleItemsCount"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "zIndex"]
+- ["s28CustomDebugStringConvertibleP", "zero"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "midY"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- ["s29CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "item"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "midY"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- ["s17CustomReflectableP", "zero"]
+- !private ["s23CustomStringConvertibleP", "CGAffineTransform"]
+- !private ["s23CustomStringConvertibleP", "CGFloat"]
+- !private ["s23CustomStringConvertibleP", "CGPoint"]
+- !private ["s23CustomStringConvertibleP", "CGSize"]
+- !private ["s23CustomStringConvertibleP", "IndexPath"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "UICollectionViewLayoutAttributes"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "cellForItem"]
+- !private ["s23CustomStringConvertibleP", "center"]
+- !private ["s23CustomStringConvertibleP", "collectionBounds"]
+- !private ["s23CustomStringConvertibleP", "collectionView"]
+- !private ["s23CustomStringConvertibleP", "collectionViewContentSize"]
+- !private ["s23CustomStringConvertibleP", "contentOffset"]
+- !private ["s23CustomStringConvertibleP", "currentPage"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "didInitialSetup"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "invalidateLayout"]
+- !private ["s23CustomStringConvertibleP", "item"]
+- !private ["s23CustomStringConvertibleP", "itemSize"]
+- !private ["s23CustomStringConvertibleP", "itemsCount"]
+- !private ["s23CustomStringConvertibleP", "layoutAttributes"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "max"]
+- !private ["s23CustomStringConvertibleP", "min"]
+- !private ["s23CustomStringConvertibleP", "minScale"]
+- !private ["s23CustomStringConvertibleP", "numberOfItems"]
+- !private ["s23CustomStringConvertibleP", "parallaxProgress"]
+- !private ["s23CustomStringConvertibleP", "setContentOffset"]
+- !private ["s23CustomStringConvertibleP", "size"]
+- !private ["s23CustomStringConvertibleP", "spacing"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["s23CustomStringConvertibleP", "visibleItemsCount"]
+- !private ["s23CustomStringConvertibleP", "zIndex"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "height"]
+- !private ["Se", "init"]
+- !private ["Se", "item"]
+- !private ["Se", "midY"]
+- !private ["Se", "width"]
+- !private ["Se", "x"]
+- ["Se", "zero"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "height"]
+- !private ["SE", "init"]
+- !private ["SE", "item"]
+- !private ["SE", "midY"]
+- !private ["SE", "width"]
+- !private ["SE", "x"]
+- ["SE", "zero"]
+- !private ["SQ", "CGAffineTransform"]
+- !private ["SQ", "CGFloat"]
+- !private ["SQ", "CGPoint"]
+- !private ["SQ", "CGSize"]
+- !private ["SQ", "IndexPath"]
+- !private ["SQ", "Int"]
+- !private ["SQ", "UICollectionViewLayoutAttributes"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "cellForItem"]
+- !private ["SQ", "center"]
+- !private ["SQ", "collectionBounds"]
+- !private ["SQ", "collectionView"]
+- !private ["SQ", "collectionViewContentSize"]
+- !private ["SQ", "contentOffset"]
+- !private ["SQ", "currentPage"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "didInitialSetup"]
+- !private ["SQ", "height"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "invalidateLayout"]
+- !private ["SQ", "item"]
+- !private ["SQ", "itemSize"]
+- !private ["SQ", "itemsCount"]
+- !private ["SQ", "layoutAttributes"]
+- !private ["SQ", "map"]
+- !private ["SQ", "max"]
+- !private ["SQ", "midY"]
+- !private ["SQ", "min"]
+- !private ["SQ", "minScale"]
+- !private ["SQ", "numberOfItems"]
+- !private ["SQ", "parallaxProgress"]
+- !private ["SQ", "setContentOffset"]
+- !private ["SQ", "size"]
+- !private ["SQ", "spacing"]
+- !private ["SQ", "transform"]
+- !private ["SQ", "visibleItemsCount"]
+- !private ["SQ", "width"]
+- !private ["SQ", "x"]
+- !private ["SQ", "zIndex"]
+- ["SQ", "zero"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "item"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "CGAffineTransform"]
+- !private ["SH", "CGFloat"]
+- !private ["SH", "CGPoint"]
+- !private ["SH", "CGSize"]
+- !private ["SH", "IndexPath"]
+- !private ["SH", "Int"]
+- !private ["SH", "UICollectionViewLayoutAttributes"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "bounds"]
+- !private ["SH", "cellForItem"]
+- !private ["SH", "center"]
+- !private ["SH", "collectionBounds"]
+- !private ["SH", "collectionView"]
+- !private ["SH", "collectionViewContentSize"]
+- !private ["SH", "contentOffset"]
+- !private ["SH", "currentPage"]
+- !private ["SH", "delegate"]
+- !private ["SH", "didInitialSetup"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "invalidateLayout"]
+- !private ["SH", "item"]
+- !private ["SH", "itemSize"]
+- !private ["SH", "itemsCount"]
+- !private ["SH", "layoutAttributes"]
+- !private ["SH", "map"]
+- !private ["SH", "max"]
+- !private ["SH", "min"]
+- !private ["SH", "minScale"]
+- !private ["SH", "numberOfItems"]
+- !private ["SH", "parallaxProgress"]
+- !private ["SH", "setContentOffset"]
+- !private ["SH", "size"]
+- !private ["SH", "spacing"]
+- !private ["SH", "transform"]
+- !private ["SH", "visibleItemsCount"]
+- !private ["SH", "zIndex"]
+- !private ["10Foundation9IndexPathV", "init"]
+- !private ["10Foundation9IndexPathV", "item"]
+- !private ["Si", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "width"]
+- ["10Kingfisher0A15CompatibleValueP", "zero"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "init"]
+- !private ["SM", "item"]
+- !private ["So8NSCodingP", "CGAffineTransform"]
+- !private ["So8NSCodingP", "CGFloat"]
+- !private ["So8NSCodingP", "CGPoint"]
+- !private ["So8NSCodingP", "CGSize"]
+- !private ["So8NSCodingP", "IndexPath"]
+- !private ["So8NSCodingP", "Int"]
+- !private ["So8NSCodingP", "UICollectionViewLayoutAttributes"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "cellForItem"]
+- !private ["So8NSCodingP", "collectionBounds"]
+- !private ["So8NSCodingP", "collectionView"]
+- !private ["So8NSCodingP", "collectionViewContentSize"]
+- !private ["So8NSCodingP", "contentOffset"]
+- !private ["So8NSCodingP", "currentPage"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "didInitialSetup"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "invalidateLayout"]
+- !private ["So8NSCodingP", "itemSize"]
+- !private ["So8NSCodingP", "itemsCount"]
+- !private ["So8NSCodingP", "layoutAttributes"]
+- !private ["So8NSCodingP", "max"]
+- !private ["So8NSCodingP", "min"]
+- !private ["So8NSCodingP", "minScale"]
+- !private ["So8NSCodingP", "numberOfItems"]
+- !private ["So8NSCodingP", "parallaxProgress"]
+- !private ["So8NSCodingP", "setContentOffset"]
+- !private ["So8NSCodingP", "spacing"]
+- !private ["So8NSCodingP", "visibleItemsCount"]
+- !private ["So9NSCopyingP", "center"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "size"]
+- !private ["So9NSCopyingP", "transform"]
+- !private ["So9NSCopyingP", "zIndex"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "CGAffineTransform"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "CGPoint"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "CGSize"]
+- ["So8NSObjectC", "CardsLayoutDelegate"]
+- ["So8NSObjectC", "IndexPath"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "ParallaxCardCell"]
+- ["So8NSObjectC", "UICollectionView"]
+- ["So8NSObjectC", "UICollectionViewLayoutAttributes"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "cellForItem"]
+- !private ["So8NSObjectC", "center"]
+- ["So8NSObjectC", "collectionBounds"]
+- ["So8NSObjectC", "collectionView"]
+- ["So8NSObjectC", "collectionViewContentSize"]
+- ["So8NSObjectC", "contentOffset"]
+- ["So8NSObjectC", "currentPage"]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "didInitialSetup"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "invalidateLayout"]
+- ["So8NSObjectC", "itemSize"]
+- ["So8NSObjectC", "itemsCount"]
+- ["So8NSObjectC", "layoutAttributes"]
+- ["So8NSObjectC", "layoutAttributesForElements"]
+- !private ["So8NSObjectC", "max"]
+- !private ["So8NSObjectC", "min"]
+- ["So8NSObjectC", "minScale"]
+- !private ["So8NSObjectC", "numberOfItems"]
+- ["So8NSObjectC", "parallaxProgress"]
+- ["So8NSObjectC", "prepare"]
+- !private ["So8NSObjectC", "setContentOffset"]
+- ["So8NSObjectC", "shouldInvalidateLayout"]
+- !private ["So8NSObjectC", "size"]
+- ["So8NSObjectC", "spacing"]
+- !private ["So8NSObjectC", "transform"]
+- ["So8NSObjectC", "visibleItemsCount"]
+- !private ["So8NSObjectC", "zIndex"]
+- !private ["So8NSObjectP", "CGAffineTransform"]
+- !private ["So8NSObjectP", "CGFloat"]
+- !private ["So8NSObjectP", "CGPoint"]
+- !private ["So8NSObjectP", "CGSize"]
+- !private ["So8NSObjectP", "IndexPath"]
+- !private ["So8NSObjectP", "Int"]
+- !private ["So8NSObjectP", "UICollectionViewLayoutAttributes"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "cellForItem"]
+- !private ["So8NSObjectP", "center"]
+- !private ["So8NSObjectP", "collectionBounds"]
+- !private ["So8NSObjectP", "collectionView"]
+- !private ["So8NSObjectP", "collectionViewContentSize"]
+- !private ["So8NSObjectP", "contentOffset"]
+- !private ["So8NSObjectP", "currentPage"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "didInitialSetup"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "invalidateLayout"]
+- !private ["So8NSObjectP", "itemSize"]
+- !private ["So8NSObjectP", "itemsCount"]
+- !private ["So8NSObjectP", "layoutAttributes"]
+- !private ["So8NSObjectP", "max"]
+- !private ["So8NSObjectP", "min"]
+- !private ["So8NSObjectP", "minScale"]
+- !private ["So8NSObjectP", "numberOfItems"]
+- !private ["So8NSObjectP", "parallaxProgress"]
+- !private ["So8NSObjectP", "setContentOffset"]
+- !private ["So8NSObjectP", "size"]
+- !private ["So8NSObjectP", "spacing"]
+- !private ["So8NSObjectP", "transform"]
+- !private ["So8NSObjectP", "visibleItemsCount"]
+- !private ["So8NSObjectP", "zIndex"]
+- !private ["Sj", "init"]
+- ["11TheNewMovie16ParallaxCardCellP", "CGFloat"]
+- ["11TheNewMovie16ParallaxCardCellP", "setShadeOpacity"]
+- ["11TheNewMovie16ParallaxCardCellP", "setZoom"]
+- !private ["Sk", "init"]
+- !private ["Sk", "item"]
+- !private ["Sk", "map"]
+- !private ["SX", "map"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "item"]
+- !private ["ST", "init"]
+- !private ["ST", "item"]
+- !private ["ST", "map"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "cellForItem"]
+- !private ["So29UIAccessibilityIdentificationP", "contentOffset"]
+- !private ["So29UIAccessibilityIdentificationP", "numberOfItems"]
+- !private ["So29UIAccessibilityIdentificationP", "setContentOffset"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "cellForItem"]
+- !private ["So12UIAppearanceP", "contentOffset"]
+- !private ["So12UIAppearanceP", "numberOfItems"]
+- !private ["So12UIAppearanceP", "setContentOffset"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "cellForItem"]
+- !private ["So21UIAppearanceContainerP", "contentOffset"]
+- !private ["So21UIAppearanceContainerP", "numberOfItems"]
+- !private ["So21UIAppearanceContainerP", "setContentOffset"]
+- !private ["So16UICollectionViewC", "bounds"]
+- !private ["So16UICollectionViewC", "cellForItem"]
+- !private ["So16UICollectionViewC", "contentOffset"]
+- !private ["So16UICollectionViewC", "numberOfItems"]
+- !private ["So16UICollectionViewC", "setContentOffset"]
+- ["So22UICollectionViewLayoutC", "Bool"]
+- !private ["So22UICollectionViewLayoutC", "CGAffineTransform"]
+- ["So22UICollectionViewLayoutC", "CGFloat"]
+- ["So22UICollectionViewLayoutC", "CGPoint"]
+- ["So22UICollectionViewLayoutC", "CGRect"]
+- ["So22UICollectionViewLayoutC", "CGSize"]
+- ["So22UICollectionViewLayoutC", "CardsLayoutDelegate"]
+- ["So22UICollectionViewLayoutC", "IndexPath"]
+- ["So22UICollectionViewLayoutC", "Int"]
+- !private ["So22UICollectionViewLayoutC", "ParallaxCardCell"]
+- ["So22UICollectionViewLayoutC", "UICollectionView"]
+- ["So22UICollectionViewLayoutC", "UICollectionViewLayoutAttributes"]
+- ["So22UICollectionViewLayoutC", ""]
+- ["So22UICollectionViewLayoutC", "collectionBounds"]
+- ["So22UICollectionViewLayoutC", "collectionView"]
+- ["So22UICollectionViewLayoutC", "collectionViewContentSize"]
+- ["So22UICollectionViewLayoutC", "contentOffset"]
+- ["So22UICollectionViewLayoutC", "currentPage"]
+- ["So22UICollectionViewLayoutC", "delegate"]
+- ["So22UICollectionViewLayoutC", "didInitialSetup"]
+- ["So22UICollectionViewLayoutC", "init"]
+- !private ["So22UICollectionViewLayoutC", "init"]
+- !private ["So22UICollectionViewLayoutC", "invalidateLayout"]
+- ["So22UICollectionViewLayoutC", "itemSize"]
+- ["So22UICollectionViewLayoutC", "itemsCount"]
+- ["So22UICollectionViewLayoutC", "layoutAttributes"]
+- ["So22UICollectionViewLayoutC", "layoutAttributesForElements"]
+- !private ["So22UICollectionViewLayoutC", "max"]
+- !private ["So22UICollectionViewLayoutC", "min"]
+- ["So22UICollectionViewLayoutC", "minScale"]
+- ["So22UICollectionViewLayoutC", "parallaxProgress"]
+- ["So22UICollectionViewLayoutC", "prepare"]
+- ["So22UICollectionViewLayoutC", "shouldInvalidateLayout"]
+- ["So22UICollectionViewLayoutC", "spacing"]
+- ["So22UICollectionViewLayoutC", "visibleItemsCount"]
+- !private ["So32UICollectionViewLayoutAttributesC", "center"]
+- !private ["So32UICollectionViewLayoutAttributesC", "init"]
+- !private ["So32UICollectionViewLayoutAttributesC", "size"]
+- !private ["So32UICollectionViewLayoutAttributesC", "transform"]
+- !private ["So32UICollectionViewLayoutAttributesC", "zIndex"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "cellForItem"]
+- !private ["So17UICoordinateSpaceP", "contentOffset"]
+- !private ["So17UICoordinateSpaceP", "numberOfItems"]
+- !private ["So17UICoordinateSpaceP", "setContentOffset"]
+- !private ["So23UIDataSourceTranslatingP", "bounds"]
+- !private ["So23UIDataSourceTranslatingP", "cellForItem"]
+- !private ["So23UIDataSourceTranslatingP", "contentOffset"]
+- !private ["So23UIDataSourceTranslatingP", "numberOfItems"]
+- !private ["So23UIDataSourceTranslatingP", "setContentOffset"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "cellForItem"]
+- !private ["So13UIDynamicItemP", "center"]
+- !private ["So13UIDynamicItemP", "contentOffset"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "numberOfItems"]
+- !private ["So13UIDynamicItemP", "setContentOffset"]
+- !private ["So13UIDynamicItemP", "size"]
+- !private ["So13UIDynamicItemP", "transform"]
+- !private ["So13UIDynamicItemP", "zIndex"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "cellForItem"]
+- !private ["So18UIFocusEnvironmentP", "contentOffset"]
+- !private ["So18UIFocusEnvironmentP", "numberOfItems"]
+- !private ["So18UIFocusEnvironmentP", "setContentOffset"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "cellForItem"]
+- !private ["So11UIFocusItemP", "contentOffset"]
+- !private ["So11UIFocusItemP", "numberOfItems"]
+- !private ["So11UIFocusItemP", "setContentOffset"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "cellForItem"]
+- !private ["So20UIFocusItemContainerP", "contentOffset"]
+- !private ["So20UIFocusItemContainerP", "numberOfItems"]
+- !private ["So20UIFocusItemContainerP", "setContentOffset"]
+- !private ["So30UIFocusItemScrollableContainerP", "bounds"]
+- !private ["So30UIFocusItemScrollableContainerP", "cellForItem"]
+- !private ["So30UIFocusItemScrollableContainerP", "contentOffset"]
+- !private ["So30UIFocusItemScrollableContainerP", "numberOfItems"]
+- !private ["So30UIFocusItemScrollableContainerP", "setContentOffset"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "cellForItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "contentOffset"]
+- !private ["So30UIPasteConfigurationSupportingP", "numberOfItems"]
+- !private ["So30UIPasteConfigurationSupportingP", "setContentOffset"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "cellForItem"]
+- !private ["So11UIResponderC", "contentOffset"]
+- !private ["So11UIResponderC", "numberOfItems"]
+- !private ["So11UIResponderC", "setContentOffset"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "cellForItem"]
+- !private ["So30UIResponderStandardEditActionsP", "contentOffset"]
+- !private ["So30UIResponderStandardEditActionsP", "numberOfItems"]
+- !private ["So30UIResponderStandardEditActionsP", "setContentOffset"]
+- !private ["So12UIScrollViewC", "bounds"]
+- !private ["So12UIScrollViewC", "cellForItem"]
+- !private ["So12UIScrollViewC", "contentOffset"]
+- !private ["So12UIScrollViewC", "numberOfItems"]
+- !private ["So12UIScrollViewC", "setContentOffset"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "bounds"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "cellForItem"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "contentOffset"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "numberOfItems"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setContentOffset"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "cellForItem"]
+- !private ["So18UITraitEnvironmentP", "contentOffset"]
+- !private ["So18UITraitEnvironmentP", "numberOfItems"]
+- !private ["So18UITraitEnvironmentP", "setContentOffset"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "cellForItem"]
+- !private ["So23UIUserActivityRestoringP", "contentOffset"]
+- !private ["So23UIUserActivityRestoringP", "numberOfItems"]
+- !private ["So23UIUserActivityRestoringP", "setContentOffset"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "cellForItem"]
+- !private ["So6UIViewC", "contentOffset"]
+- !private ["So6UIViewC", "numberOfItems"]
+- !private ["So6UIViewC", "setContentOffset"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "cellForItem"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "contentOffset"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "numberOfItems"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setContentOffset"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGAffineTransform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGFloat"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGPoint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "IndexPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UICollectionViewLayoutAttributes"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cellForItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "center"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "collectionBounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "collectionView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "collectionViewContentSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentPage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didInitialSetup"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "invalidateLayout"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "itemSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "itemsCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layoutAttributes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "max"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "min"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minScale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "numberOfItems"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "parallaxProgress"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setContentOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "size"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "spacing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "visibleItemsCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "zIndex"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "item"]
+- !private ["s21_ObjectiveCBridgeableP", "midY"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- ["s21_ObjectiveCBridgeableP", "zero"]
+depends-nominal:
+- !private "SK"
+- !private "SB"
+- !private "Sz"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "So17CGAffineTransformV"
+- !private "12CoreGraphics7CGFloatV"
+- !private "So7CGPointV"
+- !private "So6CGRectV"
+- "So6CGSizeV"
+- "s7CVarArgP"
+- "11TheNewMovie11CardsLayoutC"
+- "11TheNewMovie19CardsLayoutDelegateP"
+- !private "SN"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SF"
+- "SH"
+- !private "10Foundation9IndexPathV"
+- !private "Si"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- "10Kingfisher0A15CompatibleValueP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- "11TheNewMovie16ParallaxCardCellP"
+- !private "Sk"
+- !private "SX"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So16UICollectionViewC"
+- "So22UICollectionViewLayoutC"
+- !private "So32UICollectionViewLayoutAttributesC"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4665c86315f00391db5c22d0353f7963"

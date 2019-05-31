@@ -22,6 +22,12 @@ class SearchViewModel {
         }
     }
     
+    //MARK: present
+    class func pushActionSearch(_ viewController: UIViewController) {
+        let searchController = SearchViewController.initWithDefaultNib()
+        viewController.present(searchController, animated: true, completion: nil)
+    }
+    
     //MARK: Get data moya
     func searchMovieMoya(_ view: UIView,_ query: String,_ page: Pager,completion: @escaping(([RowModel]) -> Void)) {
         if let reachability = Reachability(), reachability .connection != .none {

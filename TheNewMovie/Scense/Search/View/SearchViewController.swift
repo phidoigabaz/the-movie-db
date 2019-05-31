@@ -58,6 +58,12 @@ class SearchViewController: BaseViewController, UIGestureRecognizerDelegate {
         }
     }
     
+    
+    //MARK: ACTIONS
+    @IBAction func onDimissPressed(_ sender: Any) {
+        dismiss(animated: true, completion: nil)
+    }
+    
     deinit {
         tableView.removeFromSuperview()
     }
@@ -100,7 +106,7 @@ extension SearchViewController: UITableViewDataSource, UITableViewDelegate {
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        MovieDetailViewModel.presentMovieDetailModule(viewModel.getMovieId(indexPath.row), navigation: navigationController!)
+        MovieDetailViewModel.presentMovieDetailModule(viewModel.getMovieId(indexPath.row), navigation: self)
     }
 }
 

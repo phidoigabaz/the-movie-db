@@ -1,0 +1,855 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MovieDetailViewModel"
+provides-nominal:
+- "11TheNewMovie0C15DetailViewModelC"
+provides-member:
+- ["11TheNewMovie0C15DetailViewModelC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CGFloat"
+- !private "CastDTO"
+- "CastModel"
+- "CastTableViewCell"
+- !private "DetailViewController"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- !private "JSON"
+- !private "MovieDetailDTO"
+- "MovieDetailModel"
+- "MovieDetailViewModel"
+- !private "Network"
+- !private "Reachability"
+- "SettingService"
+- "String"
+- !private "StringLiteralType"
+- "UINavigationController"
+- "UITableView"
+- "UIView"
+- "Void"
+- !private "apiProviderMoya"
+- !private "print"
+depends-member:
+- !private ["11TheNewMovie16APIServiceObjectC", "getMovieDetail"]
+- !private ["11TheNewMovie16APIServiceObjectC", "getMovieDetailCredit"]
+- ["11TheNewMovie16APIServiceObjectC", "init"]
+- !private ["Sa", "append"]
+- !private ["s13ArrayProtocolP", "append"]
+- !private ["11TheNewMovie06BannerC27DetailTableViewCellDelegateP", "init"]
+- !private ["11TheNewMovie06BannerC27DetailTableViewCellDelegateP", "init"]
+- !private ["11TheNewMovie18BaseViewControllerC", "init"]
+- !private ["SK", "append"]
+- !private ["SK", "arrayValue"]
+- !private ["SK", "data"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "automaticDimension"]
+- !private ["So15CALayerDelegateP", "collectionView"]
+- !private ["So15CALayerDelegateP", "isSeeall"]
+- !private ["So15CALayerDelegateP", "isStatusSeeall"]
+- !private ["So15CALayerDelegateP", "makeToast"]
+- !private ["So15CALayerDelegateP", "reloadData"]
+- !private ["So15CALayerDelegateP", "seeAllLabel"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "automaticDimension"]
+- !private ["s7CVarArgP", "collectionView"]
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "getMovieDetail"]
+- !private ["s7CVarArgP", "getMovieDetailCredit"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isSeeall"]
+- !private ["s7CVarArgP", "isStatusSeeall"]
+- !private ["s7CVarArgP", "localizedDescription"]
+- !private ["s7CVarArgP", "makeToast"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "reloadData"]
+- !private ["s7CVarArgP", "seeAllLabel"]
+- !private ["s7CVarArgP", "text"]
+- !private ["11TheNewMovie7CastDTOC", "init"]
+- !private ["11TheNewMovie9CastModelC", "init"]
+- !private ["11TheNewMovie17CastTableViewCellC", "collectionView"]
+- !private ["11TheNewMovie17CastTableViewCellC", "deinit"]
+- !private ["11TheNewMovie17CastTableViewCellC", "isSeeall"]
+- !private ["11TheNewMovie17CastTableViewCellC", "isStatusSeeall"]
+- !private ["11TheNewMovie17CastTableViewCellC", "seeAllLabel"]
+- !private ["11TheNewMovie25CastTableViewCellDelegateP", "init"]
+- !private ["11TheNewMovie25CastTableViewCellDelegateP", "init"]
+- !private ["Sl", "append"]
+- !private ["Sl", "arrayValue"]
+- !private ["Sl", "data"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "arrayValue"]
+- !private ["SL", "data"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "subscript"]
+- !private ["12ReachabilityAAC10ConnectionO", "none"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "arrayValue"]
+- !private ["s28CustomDebugStringConvertibleP", "automaticDimension"]
+- !private ["s28CustomDebugStringConvertibleP", "collectionView"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- !private ["s28CustomDebugStringConvertibleP", "failure"]
+- !private ["s28CustomDebugStringConvertibleP", "get"]
+- !private ["s28CustomDebugStringConvertibleP", "getMovieDetail"]
+- !private ["s28CustomDebugStringConvertibleP", "getMovieDetailCredit"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isSeeall"]
+- !private ["s28CustomDebugStringConvertibleP", "isStatusSeeall"]
+- !private ["s28CustomDebugStringConvertibleP", "localizedDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "makeToast"]
+- !private ["s28CustomDebugStringConvertibleP", "mapString"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "reloadData"]
+- !private ["s28CustomDebugStringConvertibleP", "seeAllLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "success"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "data"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "data"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "reloadData"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "arrayValue"]
+- !private ["s23CustomStringConvertibleP", "automaticDimension"]
+- !private ["s23CustomStringConvertibleP", "collectionView"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "failure"]
+- !private ["s23CustomStringConvertibleP", "get"]
+- !private ["s23CustomStringConvertibleP", "getMovieDetail"]
+- !private ["s23CustomStringConvertibleP", "getMovieDetailCredit"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isSeeall"]
+- !private ["s23CustomStringConvertibleP", "isStatusSeeall"]
+- !private ["s23CustomStringConvertibleP", "localizedDescription"]
+- !private ["s23CustomStringConvertibleP", "makeToast"]
+- !private ["s23CustomStringConvertibleP", "none"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "reloadData"]
+- !private ["s23CustomStringConvertibleP", "seeAllLabel"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "success"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "append"]
+- !private ["Se", "data"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "reloadData"]
+- !private ["Se", "text"]
+- !private ["11TheNewMovie20DetailViewControllerC", "deinit"]
+- !private ["11TheNewMovie20DetailViewControllerC", "init"]
+- !private ["11TheNewMovie20DetailViewControllerC", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "append"]
+- !private ["SE", "data"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "reloadData"]
+- !private ["SE", "text"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "append"]
+- !private ["SQ", "arrayValue"]
+- !private ["SQ", "automaticDimension"]
+- !private ["SQ", "collectionView"]
+- !private ["SQ", "data"]
+- !private ["SQ", "failure"]
+- !private ["SQ", "get"]
+- !private ["SQ", "getMovieDetail"]
+- !private ["SQ", "getMovieDetailCredit"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isSeeall"]
+- !private ["SQ", "isStatusSeeall"]
+- !private ["SQ", "localizedDescription"]
+- !private ["SQ", "makeToast"]
+- !private ["SQ", "mapString"]
+- !private ["SQ", "none"]
+- !private ["SQ", "present"]
+- !private ["SQ", "reloadData"]
+- !private ["SQ", "seeAllLabel"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "success"]
+- !private ["SQ", "text"]
+- !private ["SQ", "utf8"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["6Result16ErrorConvertibleP", "localizedDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "arrayValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "arrayValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "arrayValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "arrayValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "data"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "arrayValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "arrayValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "arrayValue"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "reloadData"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s26ExpressibleByStringLiteralP", "arrayValue"]
+- !private ["s26ExpressibleByStringLiteralP", "data"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "arrayValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "data"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "append"]
+- !private ["SH", "automaticDimension"]
+- !private ["SH", "collectionView"]
+- !private ["SH", "data"]
+- !private ["SH", "getMovieDetail"]
+- !private ["SH", "getMovieDetailCredit"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "isSeeall"]
+- !private ["SH", "isStatusSeeall"]
+- !private ["SH", "localizedDescription"]
+- !private ["SH", "makeToast"]
+- !private ["SH", "none"]
+- !private ["SH", "present"]
+- !private ["SH", "reloadData"]
+- !private ["SH", "seeAllLabel"]
+- !private ["SH", "text"]
+- !private ["SH", "utf8"]
+- !private ["10SwiftyJSON0B0V", "arrayValue"]
+- !private ["10SwiftyJSON0B0V", "init"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "data"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "data"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["10Kingfisher0A15CompatibleValueP", "init"]
+- !private ["s22LazyCollectionProtocolP", "arrayValue"]
+- !private ["s20LazySequenceProtocolP", "arrayValue"]
+- !private ["10Foundation14LocalizedErrorP", "localizedDescription"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "data"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "data"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["11TheNewMovie0C9DetailDTOC", "init"]
+- !private ["11TheNewMovie0C11DetailModelC", "init"]
+- ["11TheNewMovie0C15DetailViewModelC", "Bool"]
+- ["11TheNewMovie0C15DetailViewModelC", "CGFloat"]
+- !private ["11TheNewMovie0C15DetailViewModelC", "CastDTO"]
+- ["11TheNewMovie0C15DetailViewModelC", "CastModel"]
+- ["11TheNewMovie0C15DetailViewModelC", "CastTableViewCell"]
+- !private ["11TheNewMovie0C15DetailViewModelC", "DetailViewController"]
+- ["11TheNewMovie0C15DetailViewModelC", "Int"]
+- !private ["11TheNewMovie0C15DetailViewModelC", "JSON"]
+- !private ["11TheNewMovie0C15DetailViewModelC", "MovieDetailDTO"]
+- ["11TheNewMovie0C15DetailViewModelC", "MovieDetailModel"]
+- !private ["11TheNewMovie0C15DetailViewModelC", "Network"]
+- !private ["11TheNewMovie0C15DetailViewModelC", "Reachability"]
+- ["11TheNewMovie0C15DetailViewModelC", "SettingService"]
+- ["11TheNewMovie0C15DetailViewModelC", "String"]
+- ["11TheNewMovie0C15DetailViewModelC", "UINavigationController"]
+- ["11TheNewMovie0C15DetailViewModelC", "UITableView"]
+- ["11TheNewMovie0C15DetailViewModelC", "UIView"]
+- ["11TheNewMovie0C15DetailViewModelC", "Void"]
+- !private ["11TheNewMovie0C15DetailViewModelC", "apiProviderMoya"]
+- ["11TheNewMovie0C15DetailViewModelC", "castModel"]
+- ["11TheNewMovie0C15DetailViewModelC", "doReloadCastRow"]
+- ["11TheNewMovie0C15DetailViewModelC", "getDetailCastMoya"]
+- ["11TheNewMovie0C15DetailViewModelC", "getMovieDetail"]
+- ["11TheNewMovie0C15DetailViewModelC", "getMovieDetailCast"]
+- ["11TheNewMovie0C15DetailViewModelC", "getMovieDetailMoya"]
+- ["11TheNewMovie0C15DetailViewModelC", "init"]
+- ["11TheNewMovie0C15DetailViewModelC", "isLoading"]
+- ["11TheNewMovie0C15DetailViewModelC", "movieDetailModel"]
+- ["11TheNewMovie0C15DetailViewModelC", "presentMovieDetailModule"]
+- !private ["11TheNewMovie0C15DetailViewModelC", "print"]
+- ["11TheNewMovie0C15DetailViewModelC", "setHeightRow"]
+- ["11TheNewMovie0C15DetailViewModelC", "settingService"]
+- ["11TheNewMovie0C15DetailViewModelC", "updateLoadingStatus"]
+- !private ["4Moya0A5ErrorO", "localizedDescription"]
+- !private ["4Moya0A8ProviderC", "request"]
+- !private ["4Moya0A12ProviderTypeP", "request"]
+- !private ["SM", "append"]
+- !private ["SM", "arrayValue"]
+- !private ["11TheNewMovie9MyServiceO", "deinit"]
+- !private ["11TheNewMovie9MyServiceO", "getMovieCast"]
+- !private ["11TheNewMovie9MyServiceO", "getMovieDetail"]
+- !private ["So8NSCodingP", "automaticDimension"]
+- !private ["So8NSCodingP", "collectionView"]
+- !private ["So8NSCodingP", "data"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isSeeall"]
+- !private ["So8NSCodingP", "isStatusSeeall"]
+- !private ["So8NSCodingP", "localizedDescription"]
+- !private ["So8NSCodingP", "makeToast"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "reloadData"]
+- !private ["So8NSCodingP", "seeAllLabel"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So9NSCopyingP", "data"]
+- !private ["So9NSCopyingP", "localizedDescription"]
+- !private ["So7NSErrorC", "localizedDescription"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So21NSItemProviderReadingP", "data"]
+- !private ["So21NSItemProviderWritingP", "data"]
+- !private ["So16NSMutableCopyingP", "data"]
+- !private ["So8NSObjectC", "automaticDimension"]
+- !private ["So8NSObjectC", "collectionView"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectC", "getMovieDetail"]
+- !private ["So8NSObjectC", "getMovieDetailCredit"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isSeeall"]
+- !private ["So8NSObjectC", "isStatusSeeall"]
+- !private ["So8NSObjectC", "localizedDescription"]
+- !private ["So8NSObjectC", "makeToast"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "reloadData"]
+- !private ["So8NSObjectC", "seeAllLabel"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectP", "automaticDimension"]
+- !private ["So8NSObjectP", "collectionView"]
+- !private ["So8NSObjectP", "data"]
+- !private ["So8NSObjectP", "getMovieDetail"]
+- !private ["So8NSObjectP", "getMovieDetailCredit"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isSeeall"]
+- !private ["So8NSObjectP", "isStatusSeeall"]
+- !private ["So8NSObjectP", "localizedDescription"]
+- !private ["So8NSObjectP", "makeToast"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "reloadData"]
+- !private ["So8NSObjectP", "seeAllLabel"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So14NSSecureCodingP", "data"]
+- !private ["So14NSSecureCodingP", "localizedDescription"]
+- !private ["So8NSStringC", "data"]
+- !private ["11TheNewMovie7NetworkV", "request"]
+- !private ["Sq", "reloadData"]
+- !private ["Sq", "text"]
+- !private ["Sk", "append"]
+- !private ["Sk", "arrayValue"]
+- !private ["Sm", "append"]
+- !private ["Sm", "arrayValue"]
+- !private ["Sm", "data"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "arrayValue"]
+- !private ["SY", "init"]
+- !private ["SY", "subscript"]
+- !private ["SY", "utf8"]
+- !private ["12ReachabilityAAC", "connection"]
+- !private ["12ReachabilityAAC", "init"]
+- !private ["4Moya8ResponseC", "mapString"]
+- !private ["6ResultAAO", "failure"]
+- !private ["6ResultAAO", "get"]
+- !private ["6ResultAAO", "success"]
+- !private ["6Result0A8ProtocolP", "failure"]
+- !private ["6Result0A8ProtocolP", "get"]
+- !private ["6Result0A8ProtocolP", "success"]
+- !private ["ST", "append"]
+- !private ["ST", "arrayValue"]
+- !private ["ST", "data"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["11TheNewMovie14SettingServiceC", "getMovieDetail"]
+- !private ["11TheNewMovie14SettingServiceC", "getMovieDetailCredit"]
+- ["11TheNewMovie14SettingServiceC", "init"]
+- !private ["s5SliceV", "arrayValue"]
+- !private ["SS", "data"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "data"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["4Moya10TargetTypeP", "getMovieCast"]
+- !private ["4Moya10TargetTypeP", "getMovieDetail"]
+- !private ["s16TextOutputStreamP", "data"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "data"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "automaticDimension"]
+- !private ["So29UIAccessibilityIdentificationP", "collectionView"]
+- !private ["So29UIAccessibilityIdentificationP", "isSeeall"]
+- !private ["So29UIAccessibilityIdentificationP", "isStatusSeeall"]
+- !private ["So29UIAccessibilityIdentificationP", "makeToast"]
+- !private ["So29UIAccessibilityIdentificationP", "reloadData"]
+- !private ["So29UIAccessibilityIdentificationP", "seeAllLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "automaticDimension"]
+- !private ["So12UIAppearanceP", "collectionView"]
+- !private ["So12UIAppearanceP", "isSeeall"]
+- !private ["So12UIAppearanceP", "isStatusSeeall"]
+- !private ["So12UIAppearanceP", "makeToast"]
+- !private ["So12UIAppearanceP", "reloadData"]
+- !private ["So12UIAppearanceP", "seeAllLabel"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "automaticDimension"]
+- !private ["So21UIAppearanceContainerP", "collectionView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isSeeall"]
+- !private ["So21UIAppearanceContainerP", "isStatusSeeall"]
+- !private ["So21UIAppearanceContainerP", "makeToast"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "reloadData"]
+- !private ["So21UIAppearanceContainerP", "seeAllLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So16UICollectionViewC", "reloadData"]
+- !private ["So26UICollectionViewDataSourceP", "collectionView"]
+- !private ["So26UICollectionViewDataSourceP", "isSeeall"]
+- !private ["So26UICollectionViewDataSourceP", "isStatusSeeall"]
+- !private ["So26UICollectionViewDataSourceP", "seeAllLabel"]
+- !private ["So24UICollectionViewDelegateP", "collectionView"]
+- !private ["So24UICollectionViewDelegateP", "isSeeall"]
+- !private ["So24UICollectionViewDelegateP", "isStatusSeeall"]
+- !private ["So24UICollectionViewDelegateP", "seeAllLabel"]
+- !private ["So34UICollectionViewDelegateFlowLayoutP", "collectionView"]
+- !private ["So34UICollectionViewDelegateFlowLayoutP", "isSeeall"]
+- !private ["So34UICollectionViewDelegateFlowLayoutP", "isStatusSeeall"]
+- !private ["So34UICollectionViewDelegateFlowLayoutP", "seeAllLabel"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "automaticDimension"]
+- !private ["So17UICoordinateSpaceP", "collectionView"]
+- !private ["So17UICoordinateSpaceP", "isSeeall"]
+- !private ["So17UICoordinateSpaceP", "isStatusSeeall"]
+- !private ["So17UICoordinateSpaceP", "makeToast"]
+- !private ["So17UICoordinateSpaceP", "reloadData"]
+- !private ["So17UICoordinateSpaceP", "seeAllLabel"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So23UIDataSourceTranslatingP", "automaticDimension"]
+- !private ["So23UIDataSourceTranslatingP", "reloadData"]
+- !private ["So13UIDynamicItemP", "automaticDimension"]
+- !private ["So13UIDynamicItemP", "collectionView"]
+- !private ["So13UIDynamicItemP", "isSeeall"]
+- !private ["So13UIDynamicItemP", "isStatusSeeall"]
+- !private ["So13UIDynamicItemP", "makeToast"]
+- !private ["So13UIDynamicItemP", "reloadData"]
+- !private ["So13UIDynamicItemP", "seeAllLabel"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "automaticDimension"]
+- !private ["So18UIFocusEnvironmentP", "collectionView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isSeeall"]
+- !private ["So18UIFocusEnvironmentP", "isStatusSeeall"]
+- !private ["So18UIFocusEnvironmentP", "makeToast"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "reloadData"]
+- !private ["So18UIFocusEnvironmentP", "seeAllLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So11UIFocusItemP", "automaticDimension"]
+- !private ["So11UIFocusItemP", "collectionView"]
+- !private ["So11UIFocusItemP", "isSeeall"]
+- !private ["So11UIFocusItemP", "isStatusSeeall"]
+- !private ["So11UIFocusItemP", "makeToast"]
+- !private ["So11UIFocusItemP", "reloadData"]
+- !private ["So11UIFocusItemP", "seeAllLabel"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "automaticDimension"]
+- !private ["So20UIFocusItemContainerP", "collectionView"]
+- !private ["So20UIFocusItemContainerP", "isSeeall"]
+- !private ["So20UIFocusItemContainerP", "isStatusSeeall"]
+- !private ["So20UIFocusItemContainerP", "makeToast"]
+- !private ["So20UIFocusItemContainerP", "reloadData"]
+- !private ["So20UIFocusItemContainerP", "seeAllLabel"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So30UIFocusItemScrollableContainerP", "automaticDimension"]
+- !private ["So30UIFocusItemScrollableContainerP", "reloadData"]
+- !private ["So27UIGestureRecognizerDelegateP", "collectionView"]
+- !private ["So27UIGestureRecognizerDelegateP", "isSeeall"]
+- !private ["So27UIGestureRecognizerDelegateP", "isStatusSeeall"]
+- !private ["So27UIGestureRecognizerDelegateP", "seeAllLabel"]
+- !private ["So7UILabelC", "text"]
+- !private ["So22UINavigationControllerC", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "automaticDimension"]
+- !private ["So30UIPasteConfigurationSupportingP", "collectionView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isSeeall"]
+- !private ["So30UIPasteConfigurationSupportingP", "isStatusSeeall"]
+- !private ["So30UIPasteConfigurationSupportingP", "makeToast"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "reloadData"]
+- !private ["So30UIPasteConfigurationSupportingP", "seeAllLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So11UIResponderC", "automaticDimension"]
+- !private ["So11UIResponderC", "collectionView"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isSeeall"]
+- !private ["So11UIResponderC", "isStatusSeeall"]
+- !private ["So11UIResponderC", "makeToast"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "reloadData"]
+- !private ["So11UIResponderC", "seeAllLabel"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "automaticDimension"]
+- !private ["So30UIResponderStandardEditActionsP", "collectionView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isSeeall"]
+- !private ["So30UIResponderStandardEditActionsP", "isStatusSeeall"]
+- !private ["So30UIResponderStandardEditActionsP", "makeToast"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "reloadData"]
+- !private ["So30UIResponderStandardEditActionsP", "seeAllLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So12UIScrollViewC", "automaticDimension"]
+- !private ["So12UIScrollViewC", "reloadData"]
+- !private ["So20UIScrollViewDelegateP", "collectionView"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "isSeeall"]
+- !private ["So20UIScrollViewDelegateP", "isStatusSeeall"]
+- !private ["So20UIScrollViewDelegateP", "seeAllLabel"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "automaticDimension"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "reloadData"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So11UITableViewC", "automaticDimension"]
+- !private ["So15UITableViewCellC", "collectionView"]
+- !private ["So15UITableViewCellC", "isSeeall"]
+- !private ["So15UITableViewCellC", "isStatusSeeall"]
+- !private ["So15UITableViewCellC", "seeAllLabel"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So18UITraitEnvironmentP", "automaticDimension"]
+- !private ["So18UITraitEnvironmentP", "collectionView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isSeeall"]
+- !private ["So18UITraitEnvironmentP", "isStatusSeeall"]
+- !private ["So18UITraitEnvironmentP", "makeToast"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "reloadData"]
+- !private ["So18UITraitEnvironmentP", "seeAllLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So23UIUserActivityRestoringP", "automaticDimension"]
+- !private ["So23UIUserActivityRestoringP", "collectionView"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isSeeall"]
+- !private ["So23UIUserActivityRestoringP", "isStatusSeeall"]
+- !private ["So23UIUserActivityRestoringP", "makeToast"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "reloadData"]
+- !private ["So23UIUserActivityRestoringP", "seeAllLabel"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So6UIViewC", "automaticDimension"]
+- !private ["So6UIViewC", "collectionView"]
+- !private ["So6UIViewC", "isSeeall"]
+- !private ["So6UIViewC", "isStatusSeeall"]
+- !private ["So6UIViewC", "makeToast"]
+- !private ["So6UIViewC", "reloadData"]
+- !private ["So6UIViewC", "seeAllLabel"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["9Alamofire14URLConvertibleP", "data"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "automaticDimension"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "collectionView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isSeeall"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isStatusSeeall"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "makeToast"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "reloadData"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "seeAllLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "data"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "data"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "data"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "data"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "data"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "automaticDimension"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "collectionView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getMovieDetail"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getMovieDetailCredit"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isSeeall"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isStatusSeeall"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "localizedDescription"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "makeToast"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reloadData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "seeAllLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "data"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "reloadData"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s16_SwiftStringViewP", "data"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "11TheNewMovie16APIServiceObjectC"
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "11TheNewMovie06BannerC27DetailTableViewCellDelegateP"
+- !private "11TheNewMovie18BaseViewControllerC"
+- !private "SK"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "11TheNewMovie7CastDTOC"
+- !private "11TheNewMovie9CastModelC"
+- !private "11TheNewMovie17CastTableViewCellC"
+- !private "11TheNewMovie25CastTableViewCellDelegateP"
+- !private "Sl"
+- !private "SL"
+- !private "12ReachabilityAAC10ConnectionO"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "11TheNewMovie20DetailViewControllerC"
+- !private "SE"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- !private "s5ErrorP"
+- !private "6Result16ErrorConvertibleP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "10Kingfisher0A15CompatibleValueP"
+- !private "s22LazyCollectionProtocolP"
+- !private "s20LazySequenceProtocolP"
+- !private "10Foundation14LocalizedErrorP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "11TheNewMovie0C9DetailDTOC"
+- !private "11TheNewMovie0C11DetailModelC"
+- "11TheNewMovie0C15DetailViewModelC"
+- !private "4Moya0A5ErrorO"
+- !private "4Moya0A8ProviderC"
+- !private "4Moya0A12ProviderTypeP"
+- !private "SM"
+- !private "11TheNewMovie9MyServiceO"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So7NSErrorC"
+- !private "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "11TheNewMovie7NetworkV"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "12ReachabilityAAC"
+- !private "4Moya8ResponseC"
+- !private "6ResultAAO"
+- !private "6Result0A8ProtocolP"
+- !private "ST"
+- "11TheNewMovie14SettingServiceC"
+- !private "s5SliceV"
+- !private "SS"
+- !private "Sy"
+- !private "4Moya10TargetTypeP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So16UICollectionViewC"
+- !private "So26UICollectionViewDataSourceP"
+- !private "So24UICollectionViewDelegateP"
+- !private "So34UICollectionViewDelegateFlowLayoutP"
+- !private "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- !private "So22UINavigationControllerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- !private "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So16UIStateRestoringP"
+- !private "So11UITableViewC"
+- !private "So15UITableViewCellC"
+- !private "So21UITableViewDataSourceP"
+- !private "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/Moya.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/Result.swiftmodule/x86_64.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/youtube-ios-player-helper-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Headers/Moya-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Headers/YTPlayerView.h"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Moya/Moya.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/youtube-ios-player-helper/youtube_ios_player_helper.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap"
+- "/Users/gem/Desktop/MovieMoya/the-movie-db/DerivedData/TheNewMovie/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5f64e4768e57ff4d3a7af333411f81ca"

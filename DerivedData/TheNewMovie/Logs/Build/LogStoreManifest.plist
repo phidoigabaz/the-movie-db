@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>04B9442C-5128-4E19-B42B-31666BB5AC17</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>04B9442C-5128-4E19-B42B-31666BB5AC17.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987556.23908699</real>
+			<key>timeStoppedRecording</key>
+			<real>580987559.43403304</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>04B9442C-5128-4E19-B42B-31666BB5AC17</string>
+		</dict>
+		<key>0A6F44AC-E899-4A07-90C6-2A849171B4F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A6F44AC-E899-4A07-90C6-2A849171B4F5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987931.05695796</real>
+			<key>timeStoppedRecording</key>
+			<real>580987933.93094802</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>0A6F44AC-E899-4A07-90C6-2A849171B4F5</string>
+		</dict>
+		<key>0B47C412-343D-411E-8B9F-C812D8B64769</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B47C412-343D-411E-8B9F-C812D8B64769.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988292.96578801</real>
+			<key>timeStoppedRecording</key>
+			<real>580988296.29536903</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>0B47C412-343D-411E-8B9F-C812D8B64769</string>
+		</dict>
+		<key>11CF777C-17A1-4E6C-B062-EF877AE9C443</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11CF777C-17A1-4E6C-B062-EF877AE9C443.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987434.61379004</real>
+			<key>timeStoppedRecording</key>
+			<real>580987439.01832402</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>11CF777C-17A1-4E6C-B062-EF877AE9C443</string>
+		</dict>
+		<key>12C0B2E2-3B16-4EC4-991E-3994D08228FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12C0B2E2-3B16-4EC4-991E-3994D08228FB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580986959.23515701</real>
+			<key>timeStoppedRecording</key>
+			<real>580986960.59759295</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>12C0B2E2-3B16-4EC4-991E-3994D08228FB</string>
+		</dict>
+		<key>150B3C5F-F7DC-4A4E-9DA2-E843EE181E48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>150B3C5F-F7DC-4A4E-9DA2-E843EE181E48.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988442.57965398</real>
+			<key>timeStoppedRecording</key>
+			<real>580988446.09678197</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>150B3C5F-F7DC-4A4E-9DA2-E843EE181E48</string>
+		</dict>
+		<key>269678B6-4418-4BA1-888A-6587EC6AF53D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>269678B6-4418-4BA1-888A-6587EC6AF53D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988279.03908503</real>
+			<key>timeStoppedRecording</key>
+			<real>580988281.94367301</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>269678B6-4418-4BA1-888A-6587EC6AF53D</string>
+		</dict>
+		<key>2DCDEBCA-1B7D-4B80-AA6C-7E00B3E67C33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DCDEBCA-1B7D-4B80-AA6C-7E00B3E67C33.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987491.698704</real>
+			<key>timeStoppedRecording</key>
+			<real>580987494.36881697</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>2DCDEBCA-1B7D-4B80-AA6C-7E00B3E67C33</string>
+		</dict>
+		<key>364E91B2-26E9-47BA-9581-22DA7FC9A6EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>364E91B2-26E9-47BA-9581-22DA7FC9A6EB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988376.47446001</real>
+			<key>timeStoppedRecording</key>
+			<real>580988379.47161806</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>364E91B2-26E9-47BA-9581-22DA7FC9A6EB</string>
+		</dict>
+		<key>36C7BB2E-1869-4D67-8996-2CEFEE9F4287</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36C7BB2E-1869-4D67-8996-2CEFEE9F4287.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987712.80843103</real>
+			<key>timeStoppedRecording</key>
+			<real>580987715.57782495</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>36C7BB2E-1869-4D67-8996-2CEFEE9F4287</string>
+		</dict>
+		<key>37B370D8-2520-455F-86AD-C876B0214BD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37B370D8-2520-455F-86AD-C876B0214BD3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987073.41654301</real>
+			<key>timeStoppedRecording</key>
+			<real>580987075.30574906</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>37B370D8-2520-455F-86AD-C876B0214BD3</string>
+		</dict>
+		<key>47ECAF3A-A45B-4C9C-AB41-B2C41A159F8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47ECAF3A-A45B-4C9C-AB41-B2C41A159F8D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988962.82533395</real>
+			<key>timeStoppedRecording</key>
+			<real>580988967.50060296</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>47ECAF3A-A45B-4C9C-AB41-B2C41A159F8D</string>
+		</dict>
+		<key>6F3A7C29-88EE-44EF-8B26-AD1AA03FC378</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F3A7C29-88EE-44EF-8B26-AD1AA03FC378.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987049.95660102</real>
+			<key>timeStoppedRecording</key>
+			<real>580987054.56308806</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>6F3A7C29-88EE-44EF-8B26-AD1AA03FC378</string>
+		</dict>
+		<key>709412C7-FB97-45FF-8AA9-DCAE6D98346C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>709412C7-FB97-45FF-8AA9-DCAE6D98346C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987649.466784</real>
+			<key>timeStoppedRecording</key>
+			<real>580987652.17742097</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>709412C7-FB97-45FF-8AA9-DCAE6D98346C</string>
+		</dict>
+		<key>7C77CC3C-01E7-46FF-A740-A457BF6DF5F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C77CC3C-01E7-46FF-A740-A457BF6DF5F0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580985722.53302598</real>
+			<key>timeStoppedRecording</key>
+			<real>580985748.92501605</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>7C77CC3C-01E7-46FF-A740-A457BF6DF5F0</string>
+		</dict>
+		<key>7EEEE043-ABF3-4CEA-B107-2270B88DA8BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EEEE043-ABF3-4CEA-B107-2270B88DA8BC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988243.00087404</real>
+			<key>timeStoppedRecording</key>
+			<real>580988246.27907801</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>7EEEE043-ABF3-4CEA-B107-2270B88DA8BC</string>
+		</dict>
+		<key>80258FAE-28C9-4095-AF7C-281629853C22</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80258FAE-28C9-4095-AF7C-281629853C22.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987792.703269</real>
+			<key>timeStoppedRecording</key>
+			<real>580987795.76300395</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>80258FAE-28C9-4095-AF7C-281629853C22</string>
+		</dict>
+		<key>81120644-CD77-400B-951C-712358EE7128</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81120644-CD77-400B-951C-712358EE7128.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987770.74920106</real>
+			<key>timeStoppedRecording</key>
+			<real>580987773.96837103</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>81120644-CD77-400B-951C-712358EE7128</string>
+		</dict>
+		<key>91EBCC69-DA94-42C9-AB6B-87F3900A3CD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91EBCC69-DA94-42C9-AB6B-87F3900A3CD3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987615.50427699</real>
+			<key>timeStoppedRecording</key>
+			<real>580987618.66785896</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>91EBCC69-DA94-42C9-AB6B-87F3900A3CD3</string>
+		</dict>
+		<key>A2406AA7-338E-4698-84FC-109C1A9C44F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2406AA7-338E-4698-84FC-109C1A9C44F6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987995.19905603</real>
+			<key>timeStoppedRecording</key>
+			<real>580987998.39153504</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>A2406AA7-338E-4698-84FC-109C1A9C44F6</string>
+		</dict>
+		<key>ABFD3E6A-C226-42FC-924C-C4EEC8269A4E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ABFD3E6A-C226-42FC-924C-C4EEC8269A4E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987551.47353399</real>
+			<key>timeStoppedRecording</key>
+			<real>580987552.44459105</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>ABFD3E6A-C226-42FC-924C-C4EEC8269A4E</string>
+		</dict>
+		<key>B082C4ED-66DD-4CCA-9846-C9761C5EF59A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B082C4ED-66DD-4CCA-9846-C9761C5EF59A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988767.63523102</real>
+			<key>timeStoppedRecording</key>
+			<real>580988773.14201295</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>B082C4ED-66DD-4CCA-9846-C9761C5EF59A</string>
+		</dict>
+		<key>C682200E-860B-483C-A86C-B247F4058507</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C682200E-860B-483C-A86C-B247F4058507.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988334.00752103</real>
+			<key>timeStoppedRecording</key>
+			<real>580988337.39136398</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>C682200E-860B-483C-A86C-B247F4058507</string>
+		</dict>
+		<key>D25412E4-6EB6-4E73-A853-A5D62F5EB8D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D25412E4-6EB6-4E73-A853-A5D62F5EB8D7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580987243.38148606</real>
+			<key>timeStoppedRecording</key>
+			<real>580987245.31619799</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>D25412E4-6EB6-4E73-A853-A5D62F5EB8D7</string>
+		</dict>
+		<key>E5EA5238-9D53-4C13-AB72-FAA7A2ACDFF8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E5EA5238-9D53-4C13-AB72-FAA7A2ACDFF8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheNewMovie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheNewMovie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TheNewMovie</string>
+			<key>timeStartedRecording</key>
+			<real>580988474.76815701</real>
+			<key>timeStoppedRecording</key>
+			<real>580988477.72604799</real>
+			<key>title</key>
+			<string>Build TheNewMovie</string>
+			<key>uniqueIdentifier</key>
+			<string>E5EA5238-9D53-4C13-AB72-FAA7A2ACDFF8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

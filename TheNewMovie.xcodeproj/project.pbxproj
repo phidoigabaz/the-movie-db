@@ -84,6 +84,14 @@
 		B6D24C90229D2D6E00A09E7D /* CastCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B6D24C8C229D2D6E00A09E7D /* CastCollectionViewCell.xib */; };
 		B6D24C93229D460C00A09E7D /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D24C91229D460C00A09E7D /* SearchViewController.swift */; };
 		B6D24C94229D460C00A09E7D /* SearchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B6D24C92229D460C00A09E7D /* SearchViewController.xib */; };
+		B6EE686322A1270400E58433 /* CardsLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6EE685922A1270400E58433 /* CardsLayout.swift */; };
+		B6EE686422A1270400E58433 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6EE685A22A1270400E58433 /* Extensions.swift */; };
+		B6EE686522A1270400E58433 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6EE685B22A1270400E58433 /* Main.storyboard */; };
+		B6EE686622A1270400E58433 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6EE685C22A1270400E58433 /* RatingView.swift */; };
+		B6EE686722A1270400E58433 /* CardSliderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6EE685E22A1270400E58433 /* CardSliderCell.swift */; };
+		B6EE686822A1270400E58433 /* CardSliderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6EE685F22A1270400E58433 /* CardSliderViewController.swift */; };
+		B6EE686922A1270400E58433 /* CardTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6EE686022A1270400E58433 /* CardTitleView.swift */; };
+		B6EE686B22A1307700E58433 /* MoviesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6EE686A22A1307700E58433 /* MoviesModel.swift */; };
 		C702D17221312B56CDFCD5E1 /* Pods_TheNewMovie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4517C851DCDF2091E57303A7 /* Pods_TheNewMovie.framework */; };
 /* End PBXBuildFile section */
 
@@ -170,6 +178,14 @@
 		B6D24C8C229D2D6E00A09E7D /* CastCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CastCollectionViewCell.xib; sourceTree = "<group>"; };
 		B6D24C91229D460C00A09E7D /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		B6D24C92229D460C00A09E7D /* SearchViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchViewController.xib; sourceTree = "<group>"; };
+		B6EE685922A1270400E58433 /* CardsLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardsLayout.swift; sourceTree = "<group>"; };
+		B6EE685A22A1270400E58433 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		B6EE685B22A1270400E58433 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		B6EE685C22A1270400E58433 /* RatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
+		B6EE685E22A1270400E58433 /* CardSliderCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardSliderCell.swift; sourceTree = "<group>"; };
+		B6EE685F22A1270400E58433 /* CardSliderViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardSliderViewController.swift; sourceTree = "<group>"; };
+		B6EE686022A1270400E58433 /* CardTitleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardTitleView.swift; sourceTree = "<group>"; };
+		B6EE686A22A1307700E58433 /* MoviesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -366,6 +382,7 @@
 				B60290B5229B856E0083DE3F /* ProductionCountryModel.swift */,
 				B60290B7229B856E0083DE3F /* RowModel.swift */,
 				B60290B6229B856E0083DE3F /* VideoModel.swift */,
+				B6EE686A22A1307700E58433 /* MoviesModel.swift */,
 			);
 			path = BusinessModel;
 			sourceTree = "<group>";
@@ -422,6 +439,7 @@
 				B602910A229BF8C00083DE3F /* ViewModel */,
 				B6029109229BF8B90083DE3F /* CustomView */,
 				B6029108229BF8B50083DE3F /* View */,
+				B6EE685522A1270400E58433 /* CardSlider */,
 			);
 			path = MovieDetail;
 			sourceTree = "<group>";
@@ -503,6 +521,36 @@
 			path = Search;
 			sourceTree = "<group>";
 		};
+		B6EE685522A1270400E58433 /* CardSlider */ = {
+			isa = PBXGroup;
+			children = (
+				B6EE685722A1270400E58433 /* Private */,
+				B6EE685D22A1270400E58433 /* Public */,
+			);
+			path = CardSlider;
+			sourceTree = "<group>";
+		};
+		B6EE685722A1270400E58433 /* Private */ = {
+			isa = PBXGroup;
+			children = (
+				B6EE685922A1270400E58433 /* CardsLayout.swift */,
+				B6EE685A22A1270400E58433 /* Extensions.swift */,
+				B6EE685B22A1270400E58433 /* Main.storyboard */,
+				B6EE685C22A1270400E58433 /* RatingView.swift */,
+			);
+			path = Private;
+			sourceTree = "<group>";
+		};
+		B6EE685D22A1270400E58433 /* Public */ = {
+			isa = PBXGroup;
+			children = (
+				B6EE685E22A1270400E58433 /* CardSliderCell.swift */,
+				B6EE685F22A1270400E58433 /* CardSliderViewController.swift */,
+				B6EE686022A1270400E58433 /* CardTitleView.swift */,
+			);
+			path = Public;
+			sourceTree = "<group>";
+		};
 		C1DBD9635A5BD5DE63012FB5 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -581,6 +629,7 @@
 				B6D24C7E229CE3F500A09E7D /* BannerMovieDetailTableViewCell.xib in Resources */,
 				B6029083229B84890083DE3F /* LaunchScreen.storyboard in Resources */,
 				B6D24C90229D2D6E00A09E7D /* CastCollectionViewCell.xib in Resources */,
+				B6EE686522A1270400E58433 /* Main.storyboard in Resources */,
 				B6029080229B84890083DE3F /* Assets.xcassets in Resources */,
 				B602907B229B84870083DE3F /* Main.storyboard in Resources */,
 				B60290EE229B874B0083DE3F /* HomeViewController.xib in Resources */,
@@ -673,6 +722,7 @@
 				B6029078229B84870083DE3F /* ViewController.swift in Sources */,
 				B60290ED229B874B0083DE3F /* HomeViewController.swift in Sources */,
 				B602909A229B85610083DE3F /* APIRequestProvider.swift in Sources */,
+				B6EE686922A1270400E58433 /* CardTitleView.swift in Sources */,
 				B60290DB229B86010083DE3F /* UIColor.swift in Sources */,
 				B60290CC229B85C40083DE3F /* Constants.swift in Sources */,
 				B60290E2229B86010083DE3F /* UICustomViewExtension.swift in Sources */,
@@ -693,6 +743,7 @@
 				B60290E3229B86010083DE3F /* UICollectionViewCellExtension.swift in Sources */,
 				B60290AA229B85680083DE3F /* MemberDTO.swift in Sources */,
 				B60290DC229B86010083DE3F /* UITableViewHeaderFooterViewExtension.swift in Sources */,
+				B6EE686422A1270400E58433 /* Extensions.swift in Sources */,
 				B60290BC229B856E0083DE3F /* KindModel.swift in Sources */,
 				B60290A9229B85680083DE3F /* ProductionCountryDTO.swift in Sources */,
 				B602907E229B84870083DE3F /* TheNewMovie.xcdatamodeld in Sources */,
@@ -702,18 +753,23 @@
 				B6D24C7F229CE3F500A09E7D /* BannerMovieDetailTableViewCell.swift in Sources */,
 				B60290E1229B86010083DE3F /* UIImageViewExtension.swift in Sources */,
 				B60290F0229B886E0083DE3F /* HomeViewModel.swift in Sources */,
+				B6EE686622A1270400E58433 /* RatingView.swift in Sources */,
+				B6EE686822A1270400E58433 /* CardSliderViewController.swift in Sources */,
 				B60290F2229B8BEC0083DE3F /* NSErrorExtension.swift in Sources */,
 				B60290E5229B86010083DE3F /* UIViewControllerExtension.swift in Sources */,
 				B60290C1229B856E0083DE3F /* CastModel.swift in Sources */,
 				B60290A7229B85680083DE3F /* GroupDTO.swift in Sources */,
 				B60290DD229B86010083DE3F /* UIView+Constraints.swift in Sources */,
 				B6029076229B84870083DE3F /* AppDelegate.swift in Sources */,
+				B6EE686722A1270400E58433 /* CardSliderCell.swift in Sources */,
 				B6D24C8E229D2D6E00A09E7D /* CastCollectionViewCell.swift in Sources */,
 				B60290A8229B85680083DE3F /* CastDTO.swift in Sources */,
 				B60290C7229B85B70083DE3F /* SectionModel.swift in Sources */,
 				B60290F4229B8C480083DE3F /* Enum.swift in Sources */,
+				B6EE686B22A1307700E58433 /* MoviesModel.swift in Sources */,
 				B60290C6229B85B70083DE3F /* HeaderModel.swift in Sources */,
 				B602909D229B85610083DE3F /* APIServiceObject.swift in Sources */,
+				B6EE686322A1270400E58433 /* CardsLayout.swift in Sources */,
 				B60290F6229B94770083DE3F /* CardCollectionViewLayout.swift in Sources */,
 				B60290FE229B9AE70083DE3F /* BaseViewController.swift in Sources */,
 				B6D24C7B229CDD1000A09E7D /* MovieDetailViewModel.swift in Sources */,

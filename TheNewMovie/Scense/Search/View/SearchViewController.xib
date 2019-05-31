@@ -85,12 +85,26 @@
                                 </userDefinedRuntimeAttribute>
                             </userDefinedRuntimeAttributes>
                         </view>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4kY-K6-ZIi">
+                            <rect key="frame" x="280" y="0.5" width="35" height="35"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="35" id="ED7-l1-YPI"/>
+                                <constraint firstAttribute="width" secondItem="4kY-K6-ZIi" secondAttribute="height" multiplier="1:1" id="NN0-uw-ycP"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="5" minY="5" maxX="5" maxY="5"/>
+                            <state key="normal" image="clear-button"/>
+                            <connections>
+                                <action selector="onDimissPressed:" destination="-1" eventType="touchUpInside" id="swC-RT-eRa"/>
+                            </connections>
+                        </button>
                     </subviews>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     <constraints>
                         <constraint firstAttribute="height" constant="90" id="4c9-QT-BKG"/>
                         <constraint firstItem="HX1-mv-rLr" firstAttribute="leading" secondItem="U9B-kS-o1g" secondAttribute="leading" id="IND-Wk-U5h"/>
+                        <constraint firstAttribute="trailing" secondItem="4kY-K6-ZIi" secondAttribute="trailing" id="Kov-FR-Ens"/>
                         <constraint firstItem="QKa-Sx-oab" firstAttribute="leading" secondItem="U9B-kS-o1g" secondAttribute="leading" id="fY5-7Y-dDG"/>
+                        <constraint firstItem="4kY-K6-ZIi" firstAttribute="centerY" secondItem="QKa-Sx-oab" secondAttribute="centerY" id="hxo-Sx-jfc"/>
                         <constraint firstAttribute="trailing" secondItem="HX1-mv-rLr" secondAttribute="trailing" id="ift-iS-iNV"/>
                         <constraint firstItem="QKa-Sx-oab" firstAttribute="top" secondItem="U9B-kS-o1g" secondAttribute="top" id="izp-GX-RoO"/>
                         <constraint firstItem="HX1-mv-rLr" firstAttribute="top" secondItem="QKa-Sx-oab" secondAttribute="bottom" constant="10" id="lFH-Ye-sBh"/>
@@ -116,10 +130,11 @@
                 <constraint firstItem="KfL-Rd-CdL" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="yNc-b4-7ei"/>
             </constraints>
             <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
-            <point key="canvasLocation" x="132" y="147.97601199400302"/>
+            <point key="canvasLocation" x="-244" y="147.97601199400302"/>
         </view>
     </objects>
     <resources>
+        <image name="clear-button" width="60" height="60"/>
         <image name="search" width="38.400001525878906" height="38.400001525878906"/>
     </resources>
 </document>

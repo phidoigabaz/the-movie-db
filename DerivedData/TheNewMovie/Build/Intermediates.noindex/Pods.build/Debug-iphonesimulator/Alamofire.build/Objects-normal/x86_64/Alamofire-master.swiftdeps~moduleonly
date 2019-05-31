@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "f107d02a9365d2a949253ad1ce92911a"
+build_time: [1559292927, 587293000]
+inputs:
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/AFError.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/Alamofire.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/MultipartFormData.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/Notifications.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/ParameterEncoding.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/Request.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/Response.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/ResponseSerialization.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/Result.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/SessionDelegate.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/SessionManager.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/TaskDelegate.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/Timeline.swift": [1559292786, 0]
+  "/Users/gem/Desktop/MovieMoya/the-movie-db/Pods/Alamofire/Source/Validation.swift": [1559292786, 0]
